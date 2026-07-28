@@ -39,10 +39,10 @@
 2026-07-31,3,Club Villas at Dubai Hills,3 bed rooms+hall,2894.0,490000.0,467500.0,5.0,Authority,New
 2026-07-31,3,Sidra 2,4 bed rooms+hall,5042.0,480000.0,460000.0,4.0,Person,New
 2026-07-31,3,SIDRA,4 bed rooms+hall,5295.0,455000.0,450000.0,1.0,Authority,Renew
+2026-07-31,3,Club Villas at Dubai Hills,3 bed rooms+hall,3800.0,450000.0,467500.0,-4.0,Authority,New
+2026-07-31,3,MAPLE 2,5 bed rooms+hall,2961.0,450000.0,310000.0,45.0,Authority,New
 2026-07-31,3,SIDRA,4 bed rooms+hall,5638.0,450000.0,450000.0,0.0,Person,Renew
 2026-07-31,3,SIDRA,4 bed rooms+hall,5664.0,450000.0,450000.0,0.0,Authority,Renew
-2026-07-31,3,MAPLE 2,5 bed rooms+hall,2961.0,450000.0,310000.0,45.0,Authority,New
-2026-07-31,3,Club Villas at Dubai Hills,3 bed rooms+hall,3800.0,450000.0,467500.0,-4.0,Authority,New
 2026-07-31,3,MAPLE,5 bed rooms+hall,3112.0,435000.0,320000.0,36.0,Authority,Renew
 2026-07-31,3,Sidra 3,4 bed rooms+hall,4655.0,420000.0,475000.0,-12.0,Person,Renew
 2026-07-31,3,Club Villas at Dubai Hills,3 bed rooms+hall,2978.0,410000.0,467500.0,-12.0,Person,Renew
@@ -50,32 +50,32 @@
 2026-07-31,3,MAPLE 2,4 bed rooms+hall,2983.0,375000.0,280000.0,34.0,Person,New
 2026-07-31,3,Dubai Hills Estate,3 bed rooms+hall,2114.0,373000.0,,,Person,New
 2026-07-31,3,MAPLE 2,4 bed rooms+hall,4483.0,370000.0,280000.0,32.0,Authority,New
-2026-07-31,3,ACACIA AT PARK HEIGHTS,3 bed rooms+hall,2126.0,360000.0,277500.0,30.0,Person,New
 2026-07-31,3,SIDRA,3 bed rooms+hall,4359.0,360000.0,389500.0,-8.0,Authority,New
 2026-07-31,3,Sidra 2,3 bed rooms+hall,4476.0,360000.0,375000.0,-4.0,Person,New
+2026-07-31,3,ACACIA AT PARK HEIGHTS,3 bed rooms+hall,2126.0,360000.0,277500.0,30.0,Person,New
 2026-07-31,3,THE GROVE BY IMAN,3 bed rooms+hall,2234.0,360000.0,340000.0,6.0,Person,New
 2026-07-31,3,Sidra 3,3 bed rooms+hall,4409.0,357000.0,380000.0,-6.0,Person,Renew
 2026-07-31,3,Sidra 2,5 bed rooms+hall,6027.0,345600.0,600000.0,-42.0,Authority,Renew
 2026-07-31,3,MAPLE 2,3 bed rooms+hall,2087.0,330000.0,245000.0,35.0,Authority,New
 2026-07-31,3,SIDRA,3 bed rooms+hall,4859.0,315000.0,389500.0,-19.0,Authority,Renew
-2026-07-31,3,PARK RIDGE,3 bed rooms+hall,2723.0,300000.0,252500.0,19.0,Authority,New
 2026-07-31,3,MAPLE 2,4 bed rooms+hall,3202.0,300000.0,280000.0,7.0,Person,Renew
-2026-07-31,3,MAG EYE Phase 1,4 bed rooms+hall,3898.0,300000.0,340000.0,-12.0,Authority,Renew
-2026-07-31,3,MULBERRY at PARK HEIGHTS,3 bed rooms+hall,1949.0,300000.0,299171.27,0.0,Person,New
-2026-07-31,3,MAPLE,5 bed rooms+hall,2980.0,300000.0,320000.0,-6.0,Authority,Renew
 2026-07-31,3,MAPLE,5 bed rooms+hall,3353.0,300000.0,320000.0,-6.0,Authority,Renew
+2026-07-31,3,MAPLE,5 bed rooms+hall,2980.0,300000.0,320000.0,-6.0,Authority,Renew
+2026-07-31,3,MULBERRY at PARK HEIGHTS,3 bed rooms+hall,1949.0,300000.0,299171.27,0.0,Person,New
+2026-07-31,3,MAG EYE Phase 1,4 bed rooms+hall,3898.0,300000.0,340000.0,-12.0,Authority,Renew
+2026-07-31,3,PARK RIDGE,3 bed rooms+hall,2723.0,300000.0,252500.0,19.0,Authority,New
 2026-07-31,3,MAPLE 2,4 bed rooms+hall,2956.0,290000.0,280000.0,4.0,Authority,Renew
 2026-07-31,3,Maple III,4 bed rooms+hall,3091.0,290000.0,280000.0,4.0,,New
 2026-07-31,3,MAPLE,5 bed rooms+hall,3662.0,288000.0,320000.0,-10.0,Authority,New
 2026-07-31,3,Maple III,4 bed rooms+hall,2264.0,287000.0,280000.0,3.0,Authority,New
 2026-07-31,3,MAPLE 2,4 bed rooms+hall,2366.0,285000.0,280000.0,2.0,Authority,Renew
-2026-07-31,3,MAPLE 2,5 bed rooms+hall,3434.0,283500.0,310000.0,-9.0,Authority,Renew
 2026-07-31,3,MULBERRY at PARK HEIGHTS,3 bed rooms+hall,1950.0,283500.0,299171.27,-5.0,Authority,Renew
+2026-07-31,3,MAPLE 2,5 bed rooms+hall,3434.0,283500.0,310000.0,-9.0,Authority,Renew
 2026-07-31,3,Dubai Hills Estate,Office,3008.0,282319.26,,,Authority,New
-2026-07-31,3,MAPLE 2,3 bed rooms+hall,2271.0,280000.0,245000.0,14.0,Authority,New
+2026-07-31,3,Maple III,4 bed rooms+hall,2267.0,280000.0,280000.0,0.0,Authority,New
 2026-07-31,3,Maple III,4 bed rooms+hall,3098.0,280000.0,280000.0,0.0,Authority,New
 2026-07-31,3,MAPLE,4 bed rooms+hall,3469.0,280000.0,280000.0,0.0,Authority,Renew
-2026-07-31,3,Maple III,4 bed rooms+hall,2267.0,280000.0,280000.0,0.0,Authority,New
+2026-07-31,3,MAPLE 2,3 bed rooms+hall,2271.0,280000.0,245000.0,14.0,Authority,New
 2026-07-31,3,Maple III,4 bed rooms+hall,2920.0,280000.0,280000.0,0.0,Authority,New
 2026-07-31,3,MAPLE,4 bed rooms+hall,2167.0,270000.0,280000.0,-4.0,Person,New
 2026-07-31,3,MAPLE,4 bed rooms+hall,2167.0,270000.0,280000.0,-4.0,Person,Renew
@@ -89,17 +89,17 @@
 2026-07-31,3,MAPLE 2,3 bed rooms+hall,2099.0,247500.0,245000.0,1.0,Authority,New
 2026-07-31,3,MAPLE,4 bed rooms+hall,2174.0,246750.0,280000.0,-12.0,Person,New
 2026-07-31,3,PARK HEIGHTS II,3 bed rooms+hall,1612.0,240000.0,200000.0,20.0,Authority,Renew
-2026-07-31,3,MAPLE 2,3 bed rooms+hall,2177.0,240000.0,245000.0,-2.0,Authority,Renew
-2026-07-31,3,Maple III,3 bed rooms+hall,2093.0,240000.0,247500.0,-3.0,Authority,Renew
 2026-07-31,3,MAPLE,3 bed rooms+hall,2067.0,240000.0,250000.0,-4.0,Authority,Renew
+2026-07-31,3,Maple III,3 bed rooms+hall,2093.0,240000.0,247500.0,-3.0,Authority,Renew
+2026-07-31,3,MAPLE 2,3 bed rooms+hall,2177.0,240000.0,245000.0,-2.0,Authority,Renew
 2026-07-31,3,MAPLE 2,3 bed rooms+hall,2095.0,240000.0,245000.0,-2.0,Authority,Renew
 2026-07-31,3,Sidra 2,3 bed rooms+hall,5184.0,231000.0,375000.0,-38.0,Person,Renew
 2026-07-31,3,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1307.0,230000.0,192500.0,19.0,Person,New
 2026-07-31,3,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1897.0,230000.0,192500.0,19.0,Authority,New
 2026-07-31,3,Park Point,3 bed rooms+hall,1468.0,220000.0,220000.0,0.0,Person,New
 2026-07-31,3,Dubai Hills Estate,Office,2206.0,213202.2,,,Authority,New
-2026-07-31,3,Maple III,3 bed rooms+hall,2179.0,210000.0,247500.0,-15.0,Person,Renew
 2026-07-31,3,Park Point,2 bed rooms+hall,1373.0,210000.0,145000.0,45.0,Authority,New
+2026-07-31,3,Maple III,3 bed rooms+hall,2179.0,210000.0,247500.0,-15.0,Person,Renew
 2026-07-31,3,MAG EYE Phase 1,3 bed rooms+hall,1750.0,210000.0,200000.0,5.0,Authority,New
 2026-07-31,3,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,2048.0,200000.0,192500.0,4.0,Authority,Renew
 2026-07-31,3,Dubai Hills Estate,Office,2206.0,196802.03,,,Authority,New
@@ -107,8 +107,8 @@
 2026-07-31,3,PARK RIDGE,2 bed rooms+hall,990.0,187500.0,165000.0,14.0,Person,Renew
 2026-07-31,3,Park Point,3 bed rooms+hall,2114.0,182505.0,220000.0,-17.0,Person,Renew
 2026-07-31,3,MAG EYE Phase 1,3 bed rooms+hall,1460.0,175000.0,200000.0,-13.0,Authority,Renew
-2026-07-31,3,MAG EYE Phase 1,3 bed rooms+hall,1460.0,170000.0,200000.0,-15.0,Authority,Renew
 2026-07-31,3,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1343.0,170000.0,192500.0,-12.0,Authority,New
+2026-07-31,3,MAG EYE Phase 1,3 bed rooms+hall,1460.0,170000.0,200000.0,-15.0,Authority,Renew
 2026-07-31,3,PARK RIDGE,2 bed rooms+hall,989.0,165000.0,165000.0,0.0,Person,New
 2026-07-31,3,MAPLE,3 bed rooms+hall,2091.0,160500.0,250000.0,-36.0,Person,Renew
 2026-07-31,3,Prive Residence,2 bed rooms+hall,975.0,160000.0,147500.0,8.0,Authority,New
@@ -118,40 +118,40 @@
 2026-07-31,3,MAG EYE Phase 1,2 bed rooms+hall,1187.0,154000.0,160000.0,-4.0,Person,New
 2026-07-31,3,PARK RIDGE,2 bed rooms+hall,992.0,150000.0,165000.0,-9.0,Authority,New
 2026-07-31,3,ACACIA AT PARK HEIGHTS,3 bed rooms+hall,1908.0,146880.0,277500.0,-47.0,Person,New
-2026-07-31,3,Dubai Hills Estate,2 bed rooms+hall,1038.0,140000.0,,,Authority,New
 2026-07-31,3,MAG EYE Phase 1,2 bed rooms+hall,1187.0,140000.0,160000.0,-13.0,Person,New
+2026-07-31,3,Dubai Hills Estate,2 bed rooms+hall,1038.0,140000.0,,,Authority,New
 2026-07-31,3,PARK HEIGHTS II,2 bed rooms+hall,957.0,135000.0,138000.0,-2.0,Person,New
 2026-07-31,3,Park Point,2 bed rooms+hall,1033.0,135000.0,145000.0,-7.0,Authority,New
 2026-07-31,3,Dubai Hills Estate,1bed room+Hall,865.0,135000.0,,,Person,New
-2026-07-31,3,Park Heights I,2 bed rooms+hall,956.0,126000.0,135000.0,-7.0,Person,Renew
-2026-07-31,3,ACACIA AT PARK HEIGHTS,1bed room+Hall,726.0,126000.0,125000.0,1.0,Person,Renew
 2026-07-31,3,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1322.0,126000.0,200000.0,-37.0,Authority,Renew
-2026-07-31,3,MULBERRY at PARK HEIGHTS,1bed room+Hall,871.0,125000.0,125000.0,0.0,Authority,New
+2026-07-31,3,ACACIA AT PARK HEIGHTS,1bed room+Hall,726.0,126000.0,125000.0,1.0,Person,Renew
+2026-07-31,3,Park Heights I,2 bed rooms+hall,956.0,126000.0,135000.0,-7.0,Person,Renew
 2026-07-31,3,ACACIA AT PARK HEIGHTS,1bed room+Hall,1107.0,125000.0,125000.0,0.0,Authority,Renew
+2026-07-31,3,MULBERRY at PARK HEIGHTS,1bed room+Hall,871.0,125000.0,125000.0,0.0,Authority,New
 2026-07-31,3,Collective,2 bed rooms+hall,722.0,120750.0,113750.0,6.0,Person,Renew
-2026-07-31,3,Collective,2 bed rooms+hall,729.0,120000.0,113750.0,5.0,Person,New
 2026-07-31,3,PARK RIDGE,1bed room+Hall,882.0,120000.0,100000.0,20.0,Authority,New
+2026-07-31,3,Collective,2 bed rooms+hall,729.0,120000.0,113750.0,5.0,Person,New
 2026-07-31,3,Collective 2.0,2 bed rooms+hall,756.0,115000.0,120000.0,-4.0,Authority,Renew
 2026-07-31,3,Park Heights I,2 bed rooms+hall,957.0,114000.0,135000.0,-16.0,Authority,Renew
-2026-07-31,3,Collective,2 bed rooms+hall,746.0,110000.0,113750.0,-3.0,Person,New
-2026-07-31,3,Prive Residence,1bed room+Hall,741.0,110000.0,105000.0,5.0,Person,Renew
 2026-07-31,3,Collective,2 bed rooms+hall,743.0,110000.0,113750.0,-3.0,Authority,New
+2026-07-31,3,Prive Residence,1bed room+Hall,741.0,110000.0,105000.0,5.0,Person,Renew
+2026-07-31,3,Collective,2 bed rooms+hall,746.0,110000.0,113750.0,-3.0,Person,New
 2026-07-31,3,Dubai Hills Estate,1bed room+Hall,763.0,107684.21,,,Authority,Renew
 2026-07-31,3,Park Point,2 bed rooms+hall,1019.0,107250.0,145000.0,-26.0,Authority,Renew
-2026-07-31,3,PARK HEIGHTS II,1bed room+Hall,645.0,105000.0,90000.0,17.0,Authority,New
 2026-07-31,3,Collective,2 bed rooms+hall,730.0,105000.0,113750.0,-8.0,Person,New
+2026-07-31,3,PARK HEIGHTS II,1bed room+Hall,645.0,105000.0,90000.0,17.0,Authority,New
 2026-07-31,3,Collective 2.0,2 bed rooms+hall,722.0,104000.0,120000.0,-13.0,Person,New
 2026-07-31,3,Collective 2.0,2 bed rooms+hall,744.0,103000.0,120000.0,-14.0,Person,Renew
+2026-07-31,3,Park Point,1bed room+Hall,688.0,100000.0,95000.0,5.0,Authority,New
 2026-07-31,3,Collective 2.0,1bed room+Hall,474.0,100000.0,85000.0,18.0,Authority,New
 2026-07-31,3,PARK RIDGE,2 bed rooms+hall,994.0,100000.0,165000.0,-39.0,Authority,Renew
-2026-07-31,3,Park Point,1bed room+Hall,688.0,100000.0,95000.0,5.0,Authority,New
 2026-07-31,3,Socio,2 bed rooms+hall,723.0,100000.0,125000.0,-20.0,Authority,New
 2026-07-31,3,ACACIA AT PARK HEIGHTS,1bed room+Hall,905.0,99750.0,125000.0,-20.0,Person,Renew
 2026-07-31,3,PARK RIDGE,1bed room+Hall,886.0,91500.0,100000.0,-9.0,Authority,Renew
-2026-07-31,3,PARK RIDGE,1bed room+Hall,647.0,90000.0,100000.0,-10.0,Person,New
-2026-07-31,3,THE GROVE BY IMAN,Studio,415.0,90000.0,80000.0,13.0,Authority,New
 2026-07-31,3,PARK RIDGE,1bed room+Hall,648.0,90000.0,100000.0,-10.0,Person,Renew
+2026-07-31,3,THE GROVE BY IMAN,Studio,415.0,90000.0,80000.0,13.0,Authority,New
 2026-07-31,3,MAG EYE Phase 1,1bed room+Hall,893.0,90000.0,85000.0,6.0,Person,New
+2026-07-31,3,PARK RIDGE,1bed room+Hall,647.0,90000.0,100000.0,-10.0,Person,New
 2026-07-31,3,PARK RIDGE,1bed room+Hall,653.0,86000.0,100000.0,-14.0,Authority,New
 2026-07-31,3,Collective,1bed room+Hall,491.0,85000.0,82000.0,4.0,Authority,New
 2026-07-31,3,MAG EYE Phase 1,1bed room+Hall,751.0,85000.0,85000.0,0.0,Person,New
@@ -166,9 +166,9 @@
 2026-07-31,3,Park Heights I,1bed room+Hall,646.0,75000.0,90000.0,-17.0,Authority,Renew
 2026-07-31,3,THE GROVE BY IMAN,Studio,368.0,72000.0,80000.0,-10.0,Authority,New
 2026-07-31,3,PARK HEIGHTS II,1bed room+Hall,645.0,70400.0,90000.0,-22.0,Person,Renew
-2026-07-31,3,THE GROVE BY IMAN,Studio,477.0,70000.0,80000.0,-13.0,Person,New
-2026-07-31,3,MAG EYE Phase 1,2 bed rooms+hall,1411.0,70000.0,160000.0,-56.0,Person,New
 2026-07-31,3,Golf ville,1bed room+Hall,507.0,70000.0,75000.0,-7.0,Person,New
+2026-07-31,3,MAG EYE Phase 1,2 bed rooms+hall,1411.0,70000.0,160000.0,-56.0,Person,New
+2026-07-31,3,THE GROVE BY IMAN,Studio,477.0,70000.0,80000.0,-13.0,Person,New
 2026-07-31,3,PARK HEIGHTS II,1bed room+Hall,657.0,66440.0,90000.0,-26.0,Authority,New
 2026-07-31,3,PARK HEIGHTS II,1bed room+Hall,657.0,66440.0,90000.0,-26.0,Authority,Renew
 2026-07-31,3,Dubai Hills Estate,Studio,455.0,63000.0,,,Authority,New
@@ -214,21 +214,21 @@
 2026-08-04,7,Maple III,4 bed rooms+hall,3037.0,260000.0,280000.0,-7.0,Person,New
 2026-08-04,7,MAPLE 2,3 bed rooms+hall,2093.0,250000.0,245000.0,2.0,Authority,Renew
 2026-08-04,7,MAPLE,3 bed rooms+hall,2088.0,245000.0,250000.0,-2.0,Authority,Renew
-2026-08-04,7,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1359.0,200000.0,192500.0,4.0,Person,New
 2026-08-04,7,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1529.0,200000.0,200000.0,0.0,Person,New
+2026-08-04,7,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1359.0,200000.0,192500.0,4.0,Person,New
 2026-08-04,7,PARK HEIGHTS II,3 bed rooms+hall,1611.0,193000.0,200000.0,-4.0,Person,Renew
 2026-08-04,7,MAG EYE Phase 1,3 bed rooms+hall,1392.0,182500.0,200000.0,-9.0,Authority,Renew
 2026-08-04,7,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1312.0,175000.0,192500.0,-9.0,Person,New
-2026-08-04,7,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1347.0,175000.0,192500.0,-9.0,Authority,New
 2026-08-04,7,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1364.0,175000.0,192500.0,-9.0,Authority,Renew
+2026-08-04,7,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1347.0,175000.0,192500.0,-9.0,Authority,New
 2026-08-04,7,Collective 2.0,2 bed rooms+hall,756.0,145000.0,120000.0,21.0,Person,New
 2026-08-04,7,PARK HEIGHTS II,2 bed rooms+hall,956.0,140000.0,138000.0,1.0,Authority,New
 2026-08-04,7,PARK HEIGHTS II,2 bed rooms+hall,956.0,135000.0,138000.0,-2.0,Person,New
 2026-08-04,7,Collective,2 bed rooms+hall,729.0,110000.0,113750.0,-3.0,Person,Renew
-2026-08-04,7,PARK RIDGE,1bed room+Hall,648.0,105000.0,100000.0,5.0,Authority,New
 2026-08-04,7,Golf ville,2 bed rooms+hall,740.0,105000.0,114897.495,-9.0,Authority,Renew
 2026-08-04,7,Golf Suites - Dubai Hills,1bed room+Hall,903.0,105000.0,105000.0,0.0,Person,New
 2026-08-04,7,Collective 2.0,2 bed rooms+hall,743.0,105000.0,120000.0,-13.0,Person,New
+2026-08-04,7,PARK RIDGE,1bed room+Hall,648.0,105000.0,100000.0,5.0,Authority,New
 2026-08-04,7,Collective,2 bed rooms+hall,723.0,105000.0,113750.0,-8.0,Authority,Renew
 2026-08-04,7,ACACIA AT PARK HEIGHTS,1bed room+Hall,720.0,100000.0,125000.0,-20.0,Authority,Renew
 2026-08-04,7,PARK RIDGE,1bed room+Hall,647.0,90000.0,100000.0,-10.0,Person,New
@@ -269,8 +269,8 @@
 2026-08-07,10,Collective,1bed room+Hall,476.0,81000.0,82000.0,-1.0,Authority,New
 2026-08-07,10,THE GROVE BY IMAN,Studio,485.0,80000.0,80000.0,0.0,Authority,New
 2026-08-07,10,MAG EYE Phase 1,Studio,394.0,69333.33,57000.0,22.0,Authority,New
-2026-08-07,10,Dubai Hills Estate,Studio,487.0,68000.0,,,Person,New
 2026-08-07,10,PARK HEIGHTS II,1bed room+Hall,645.0,68000.0,90000.0,-24.0,Authority,Renew
+2026-08-07,10,Dubai Hills Estate,Studio,487.0,68000.0,,,Person,New
 2026-08-08,11,Sidra 3,4 bed rooms+hall,5011.0,460000.0,475000.0,-3.0,Person,Renew
 2026-08-08,11,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1565.0,320000.0,200000.0,60.0,Person,Renew
 2026-08-08,11,MAPLE 2,4 bed rooms+hall,2260.0,280000.0,280000.0,0.0,Authority,Renew
@@ -282,8 +282,8 @@
 2026-08-08,11,MULBERRY at PARK HEIGHTS,1bed room+Hall,871.0,130000.0,125000.0,4.0,Person,Renew
 2026-08-08,11,Collective 2.0,2 bed rooms+hall,756.0,100000.0,120000.0,-17.0,Person,New
 2026-08-08,11,PARK RIDGE,1bed room+Hall,648.0,100000.0,100000.0,0.0,Person,Renew
-2026-08-08,11,PARK RIDGE,1bed room+Hall,648.0,85000.0,100000.0,-15.0,Person,New
 2026-08-08,11,Park Point,1bed room+Hall,688.0,85000.0,95000.0,-11.0,Authority,New
+2026-08-08,11,PARK RIDGE,1bed room+Hall,648.0,85000.0,100000.0,-15.0,Person,New
 2026-08-08,11,PARK HEIGHTS II,1bed room+Hall,646.0,78750.0,90000.0,-13.0,Authority,Renew
 2026-08-08,11,Collective 2.0,1bed room+Hall,492.0,69552.0,85000.0,-18.0,Authority,New
 2026-08-09,12,The Fairway at Dubai Hills,5 bed rooms+hall,13089.0,1560000.0,2200000.0,-29.0,Authority,New
@@ -293,14 +293,14 @@
 2026-08-09,12,SIDRA,4 bed rooms+hall,4720.0,400000.0,450000.0,-11.0,Person,New
 2026-08-09,12,Club Villas at Dubai Hills,3 bed rooms+hall,3015.0,336000.0,467500.0,-28.0,Authority,Renew
 2026-08-09,12,MAPLE 2,3 bed rooms+hall,2345.0,290000.0,245000.0,18.0,Person,Renew
-2026-08-09,12,MAPLE,4 bed rooms+hall,2173.0,280000.0,280000.0,0.0,Authority,Renew
 2026-08-09,12,Maple III,4 bed rooms+hall,2929.0,280000.0,280000.0,0.0,Authority,Renew
+2026-08-09,12,MAPLE,4 bed rooms+hall,2173.0,280000.0,280000.0,0.0,Authority,Renew
 2026-08-09,12,MAPLE 2,3 bed rooms+hall,2078.0,240000.0,245000.0,-2.0,Authority,Renew
 2026-08-09,12,Maple III,3 bed rooms+hall,2105.0,230000.0,247500.0,-7.0,Person,Renew
 2026-08-09,12,MAG EYE Phase 1,3 bed rooms+hall,1392.0,215000.0,200000.0,8.0,Person,New
 2026-08-09,12,Maple III,4 bed rooms+hall,2266.0,212520.0,280000.0,-24.0,Person,Renew
-2026-08-09,12,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1350.0,170000.0,192500.0,-12.0,Person,Renew
 2026-08-09,12,PARK RIDGE,2 bed rooms+hall,1284.0,170000.0,165000.0,3.0,Authority,Renew
+2026-08-09,12,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1350.0,170000.0,192500.0,-12.0,Person,Renew
 2026-08-09,12,PARK RIDGE,2 bed rooms+hall,989.0,165000.0,165000.0,0.0,Authority,New
 2026-08-09,12,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,2150.0,152250.0,200000.0,-24.0,Person,Renew
 2026-08-09,12,Dubai Hills Estate,2 bed rooms+hall,1031.0,146000.0,,,Person,New
@@ -310,15 +310,15 @@
 2026-08-09,12,Dubai Hills Estate,1bed room+Hall,850.0,130000.0,,,Person,New
 2026-08-09,12,Dubai Hills Estate,1bed room+Hall,865.0,130000.0,,,Person,New
 2026-08-09,12,Park Heights I,2 bed rooms+hall,956.0,128000.0,135000.0,-5.0,Person,New
-2026-08-09,12,Collective 2.0,2 bed rooms+hall,722.0,120000.0,120000.0,0.0,Authority,Renew
 2026-08-09,12,ACACIA AT PARK HEIGHTS,1bed room+Hall,953.0,120000.0,125000.0,-4.0,Authority,Renew
+2026-08-09,12,Collective 2.0,2 bed rooms+hall,722.0,120000.0,120000.0,0.0,Authority,Renew
 2026-08-09,12,Golf ville,2 bed rooms+hall,748.0,109000.0,114897.495,-5.0,Person,New
-2026-08-09,12,Collective 2.0,2 bed rooms+hall,732.0,105000.0,120000.0,-13.0,Authority,New
 2026-08-09,12,Collective,2 bed rooms+hall,723.0,105000.0,113750.0,-8.0,Person,Renew
-2026-08-09,12,Park Heights I,1bed room+Hall,646.0,90000.0,90000.0,0.0,Authority,Renew
+2026-08-09,12,Collective 2.0,2 bed rooms+hall,732.0,105000.0,120000.0,-13.0,Authority,New
+2026-08-09,12,Park Point,1bed room+Hall,691.0,90000.0,95000.0,-5.0,Person,Renew
 2026-08-09,12,Collective,1bed room+Hall,475.0,90000.0,82000.0,10.0,Authority,Renew
 2026-08-09,12,Dubai Hills Estate,1bed room+Hall,957.0,90000.0,,,Person,New
-2026-08-09,12,Park Point,1bed room+Hall,691.0,90000.0,95000.0,-5.0,Person,Renew
+2026-08-09,12,Park Heights I,1bed room+Hall,646.0,90000.0,90000.0,0.0,Authority,Renew
 2026-08-09,12,Prive Residence,1bed room+Hall,710.0,84000.0,105000.0,-20.0,Person,Renew
 2026-08-09,12,Collective,1bed room+Hall,476.0,81000.0,82000.0,-1.0,Authority,Renew
 2026-08-09,12,Park Point,1bed room+Hall,688.0,63000.0,95000.0,-34.0,Authority,Renew
@@ -364,10 +364,10 @@
 2026-08-14,17,Sidra 2,5 bed rooms+hall,6758.0,800000.0,600000.0,33.0,Authority,New
 2026-08-14,17,SIDRA,4 bed rooms+hall,4650.0,665000.0,450000.0,48.0,Authority,New
 2026-08-14,17,SIDRA,5 bed rooms+hall,6153.0,520000.0,640000.0,-19.0,Person,Renew
-2026-08-14,17,Golf Grove,4 bed rooms+hall,3810.0,450000.0,450000.0,0.0,Person,New
 2026-08-14,17,Sidra 2,4 bed rooms+hall,4692.0,450000.0,460000.0,-2.0,Person,New
-2026-08-14,17,Sidra 3,3 bed rooms+hall,4507.0,380000.0,380000.0,0.0,Person,New
+2026-08-14,17,Golf Grove,4 bed rooms+hall,3810.0,450000.0,450000.0,0.0,Person,New
 2026-08-14,17,Sidra 2,3 bed rooms+hall,4628.0,380000.0,375000.0,1.0,Person,New
+2026-08-14,17,Sidra 3,3 bed rooms+hall,4507.0,380000.0,380000.0,0.0,Person,New
 2026-08-14,17,Sidra 2,3 bed rooms+hall,4683.0,378000.0,375000.0,1.0,Authority,Renew
 2026-08-14,17,Sidra 2,4 bed rooms+hall,5124.0,363000.0,460000.0,-21.0,Authority,Renew
 2026-08-14,17,Maple III,4 bed rooms+hall,2927.0,360000.0,280000.0,29.0,Authority,New
@@ -375,15 +375,15 @@
 2026-08-14,17,Dubai Hills Estate,Office,3367.0,315988.45,,,Authority,New
 2026-08-14,17,Maple III,4 bed rooms+hall,3655.0,310000.0,280000.0,11.0,Person,New
 2026-08-14,17,MAPLE,3 bed rooms+hall,2109.0,300000.0,250000.0,20.0,Person,New
-2026-08-14,17,MAG EYE Phase 1,4 bed rooms+hall,4537.0,290000.0,340000.0,-15.0,Person,Renew
-2026-08-14,17,MAPLE 2,5 bed rooms+hall,3012.0,290000.0,310000.0,-6.0,Authority,New
 2026-08-14,17,MAPLE,4 bed rooms+hall,2174.0,290000.0,280000.0,4.0,Authority,Renew
+2026-08-14,17,MAPLE 2,5 bed rooms+hall,3012.0,290000.0,310000.0,-6.0,Authority,New
+2026-08-14,17,MAG EYE Phase 1,4 bed rooms+hall,4537.0,290000.0,340000.0,-15.0,Person,Renew
+2026-08-14,17,Maple III,4 bed rooms+hall,3032.0,285000.0,280000.0,2.0,Person,New
 2026-08-14,17,Maple III,4 bed rooms+hall,2905.0,285000.0,280000.0,2.0,Person,Renew
 2026-08-14,17,THE GROVE BY IMAN,2 bed rooms+hall,1225.0,285000.0,220000.0,30.0,Authority,New
-2026-08-14,17,Maple III,4 bed rooms+hall,3032.0,285000.0,280000.0,2.0,Person,New
 2026-08-14,17,Maple III,4 bed rooms+hall,3039.0,280000.0,280000.0,0.0,Person,Renew
-2026-08-14,17,Maple III,4 bed rooms+hall,3077.0,275000.0,280000.0,-2.0,Authority,New
 2026-08-14,17,MAPLE,4 bed rooms+hall,2169.0,275000.0,280000.0,-2.0,Person,New
+2026-08-14,17,Maple III,4 bed rooms+hall,3077.0,275000.0,280000.0,-2.0,Authority,New
 2026-08-14,17,MAPLE,5 bed rooms+hall,3168.0,273000.0,320000.0,-15.0,Authority,Renew
 2026-08-14,17,PARK RIDGE,3 bed rooms+hall,1576.0,260000.0,252500.0,3.0,Person,New
 2026-08-14,17,MAPLE,4 bed rooms+hall,2160.0,250000.0,280000.0,-11.0,Authority,New
@@ -398,18 +398,18 @@
 2026-08-14,17,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1304.0,200000.0,192500.0,4.0,Person,New
 2026-08-14,17,MAG EYE Phase 1,3 bed rooms+hall,1460.0,190000.0,200000.0,-5.0,Authority,New
 2026-08-14,17,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1289.0,190000.0,192500.0,-1.0,Person,New
-2026-08-14,17,MAG EYE Phase 1,3 bed rooms+hall,1460.0,180000.0,200000.0,-10.0,Person,New
 2026-08-14,17,MAG EYE Phase 1,3 bed rooms+hall,1476.0,180000.0,200000.0,-10.0,Authority,Renew
+2026-08-14,17,MAG EYE Phase 1,3 bed rooms+hall,1460.0,180000.0,200000.0,-10.0,Person,New
 2026-08-14,17,MAG EYE Phase 1,3 bed rooms+hall,1392.0,170000.0,200000.0,-15.0,Authority,Renew
 2026-08-14,17,MAPLE,Shop,1559.0,169070.0,,,Authority,New
 2026-08-14,17,MAG EYE Phase 1,2 bed rooms+hall,1187.0,165000.0,160000.0,3.0,Person,New
 2026-08-14,17,PARK HEIGHTS II,3 bed rooms+hall,1612.0,164450.0,200000.0,-18.0,Person,Renew
 2026-08-14,17,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1304.0,160000.0,192500.0,-17.0,Authority,New
 2026-08-14,17,MAG EYE Phase 1,2 bed rooms+hall,1200.0,156000.0,160000.0,-3.0,Person,New
-2026-08-14,17,Golf Suites - Dubai Hills,2 bed rooms+hall,1212.0,155000.0,170000.0,-9.0,Person,New
 2026-08-14,17,MAG EYE Phase 1,2 bed rooms+hall,1187.0,155000.0,160000.0,-3.0,Authority,New
-2026-08-14,17,Park Heights I,2 bed rooms+hall,956.0,145000.0,135000.0,7.0,Person,New
+2026-08-14,17,Golf Suites - Dubai Hills,2 bed rooms+hall,1212.0,155000.0,170000.0,-9.0,Person,New
 2026-08-14,17,MAG EYE Phase 1,2 bed rooms+hall,1187.0,145000.0,160000.0,-9.0,Person,New
+2026-08-14,17,Park Heights I,2 bed rooms+hall,956.0,145000.0,135000.0,7.0,Person,New
 2026-08-14,17,PARK HEIGHTS II,2 bed rooms+hall,957.0,140000.0,138000.0,1.0,Authority,New
 2026-08-14,17,MAG EYE Phase 1,2 bed rooms+hall,1187.0,135000.0,160000.0,-16.0,Person,Renew
 2026-08-14,17,MULBERRY at PARK HEIGHTS,1bed room+Hall,990.0,130000.0,125000.0,4.0,Authority,New
@@ -420,8 +420,8 @@
 2026-08-14,17,Prive Residence,1bed room+Hall,689.0,112000.0,105000.0,7.0,Authority,Renew
 2026-08-14,17,Collective 2.0,2 bed rooms+hall,722.0,112000.0,120000.0,-7.0,Person,New
 2026-08-14,17,ACACIA AT PARK HEIGHTS,1bed room+Hall,723.0,110000.0,125000.0,-12.0,Authority,New
-2026-08-14,17,PARK HEIGHTS II,1bed room+Hall,645.0,105000.0,90000.0,17.0,Authority,Renew
 2026-08-14,17,Golf ville,2 bed rooms+hall,739.0,105000.0,114897.495,-9.0,Authority,New
+2026-08-14,17,PARK HEIGHTS II,1bed room+Hall,645.0,105000.0,90000.0,17.0,Authority,Renew
 2026-08-14,17,Collective,2 bed rooms+hall,743.0,101200.0,113750.0,-11.0,Person,Renew
 2026-08-14,17,Dubai Hills Estate,1bed room+Hall,966.0,100000.0,,,Person,New
 2026-08-14,17,PARK RIDGE,1bed room+Hall,650.0,100000.0,100000.0,0.0,Authority,New
@@ -516,16 +516,16 @@
 2026-08-19,22,SIDRA,3 bed rooms+hall,4560.0,360000.0,389500.0,-8.0,Person,New
 2026-08-19,22,MAPLE,4 bed rooms+hall,3105.0,300000.0,280000.0,7.0,Person,New
 2026-08-19,22,MAPLE 2,3 bed rooms+hall,2077.0,265000.0,245000.0,8.0,Authority,New
-2026-08-19,22,Maple III,4 bed rooms+hall,3168.0,260000.0,280000.0,-7.0,Authority,New
-2026-08-19,22,MAPLE 2,4 bed rooms+hall,3671.0,260000.0,280000.0,-7.0,Person,New
 2026-08-19,22,MAPLE,4 bed rooms+hall,2991.0,260000.0,280000.0,-7.0,Person,New
+2026-08-19,22,MAPLE 2,4 bed rooms+hall,3671.0,260000.0,280000.0,-7.0,Person,New
+2026-08-19,22,Maple III,4 bed rooms+hall,3168.0,260000.0,280000.0,-7.0,Authority,New
 2026-08-19,22,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1362.0,230000.0,192500.0,19.0,Authority,Renew
 2026-08-19,22,MAG EYE Phase 1,3 bed rooms+hall,1407.0,215000.0,200000.0,8.0,Authority,New
 2026-08-19,22,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1358.0,200000.0,192500.0,4.0,Authority,New
-2026-08-19,22,Park Point,3 bed rooms+hall,1293.0,190000.0,220000.0,-14.0,Person,New
 2026-08-19,22,PARK RIDGE,2 bed rooms+hall,992.0,190000.0,165000.0,15.0,Person,New
-2026-08-19,22,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1318.0,180000.0,200000.0,-10.0,Authority,New
+2026-08-19,22,Park Point,3 bed rooms+hall,1293.0,190000.0,220000.0,-14.0,Person,New
 2026-08-19,22,MAG EYE Phase 1,2 bed rooms+hall,1411.0,180000.0,160000.0,13.0,Person,New
+2026-08-19,22,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1318.0,180000.0,200000.0,-10.0,Authority,New
 2026-08-19,22,MAG EYE Phase 1,2 bed rooms+hall,1411.0,180000.0,160000.0,13.0,Person,New
 2026-08-19,22,MAG EYE Phase 1,2 bed rooms+hall,1411.0,155000.0,160000.0,-3.0,Person,New
 2026-08-19,22,MAG EYE Phase 1,2 bed rooms+hall,1437.0,150000.0,160000.0,-6.0,Person,Renew
@@ -533,12 +533,12 @@
 2026-08-19,22,PARK HEIGHTS II,2 bed rooms+hall,957.0,135000.0,138000.0,-2.0,Person,New
 2026-08-19,22,Collective,2 bed rooms+hall,730.0,132000.0,113750.0,16.0,Person,New
 2026-08-19,22,Collective,2 bed rooms+hall,741.0,120000.0,113750.0,5.0,Authority,Renew
+2026-08-19,22,PARK RIDGE,1bed room+Hall,638.0,120000.0,100000.0,20.0,Person,New
 2026-08-19,22,PARK RIDGE,2 bed rooms+hall,1000.0,120000.0,165000.0,-27.0,Authority,Renew
 2026-08-19,22,Socio,2 bed rooms+hall,724.0,120000.0,125000.0,-4.0,Person,New
-2026-08-19,22,PARK RIDGE,1bed room+Hall,638.0,120000.0,100000.0,20.0,Person,New
 2026-08-19,22,PARK HEIGHTS II,1bed room+Hall,645.0,107000.0,90000.0,19.0,Authority,Renew
-2026-08-19,22,ACACIA AT PARK HEIGHTS,1bed room+Hall,921.0,105000.0,125000.0,-16.0,Person,Renew
 2026-08-19,22,Collective,2 bed rooms+hall,730.0,105000.0,113750.0,-8.0,Authority,New
+2026-08-19,22,ACACIA AT PARK HEIGHTS,1bed room+Hall,921.0,105000.0,125000.0,-16.0,Person,Renew
 2026-08-19,22,PARK HEIGHTS II,1bed room+Hall,645.0,95000.0,90000.0,6.0,Person,New
 2026-08-19,22,Prive Residence,1bed room+Hall,669.0,90000.0,105000.0,-14.0,Authority,Renew
 2026-08-19,22,Collective 2.0,1bed room+Hall,482.0,90000.0,85000.0,6.0,Authority,New
@@ -557,8 +557,8 @@
 2026-08-20,23,MAG EYE Phase 1,3 bed rooms+hall,2185.0,232000.0,200000.0,16.0,Person,New
 2026-08-20,23,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1319.0,180000.0,200000.0,-10.0,Person,Renew
 2026-08-20,23,THE GROVE BY IMAN,1bed room+Hall,896.0,130000.0,135000.0,-4.0,Authority,New
-2026-08-20,23,ACACIA AT PARK HEIGHTS,3 bed rooms+hall,1960.0,110000.0,277500.0,-60.0,Person,New
 2026-08-20,23,Park Point,1bed room+Hall,754.0,110000.0,95000.0,16.0,Authority,Renew
+2026-08-20,23,ACACIA AT PARK HEIGHTS,3 bed rooms+hall,1960.0,110000.0,277500.0,-60.0,Person,New
 2026-08-20,23,Dubai Hills Estate,1bed room+Hall,965.0,105000.0,,,Person,New
 2026-08-20,23,Collective 2.0,1bed room+Hall,495.0,83000.0,85000.0,-2.0,Authority,Renew
 2026-08-21,24,Golf Grove,4 bed rooms+hall,3717.0,490000.0,450000.0,9.0,Authority,New
@@ -566,22 +566,22 @@
 2026-08-21,24,MULBERRY at PARK HEIGHTS,3 bed rooms+hall,1951.0,320000.0,299171.27,7.0,Person,Renew
 2026-08-21,24,MAPLE 2,4 bed rooms+hall,3423.0,290000.0,280000.0,4.0,Person,New
 2026-08-21,24,Maple III,3 bed rooms+hall,2125.0,255000.0,247500.0,3.0,Person,New
-2026-08-21,24,ACACIA AT PARK HEIGHTS,3 bed rooms+hall,1665.0,250000.0,277500.0,-10.0,Person,New
 2026-08-21,24,ACACIA AT PARK HEIGHTS,3 bed rooms+hall,1685.0,250000.0,277500.0,-10.0,Authority,New
+2026-08-21,24,ACACIA AT PARK HEIGHTS,3 bed rooms+hall,1665.0,250000.0,277500.0,-10.0,Person,New
 2026-08-21,24,Maple III,3 bed rooms+hall,2178.0,250000.0,247500.0,1.0,Person,New
 2026-08-21,24,MAPLE,3 bed rooms+hall,2075.0,245000.0,250000.0,-2.0,Person,New
 2026-08-21,24,Maple III,3 bed rooms+hall,2179.0,235000.0,247500.0,-5.0,Authority,New
 2026-08-21,24,MAPLE 2,3 bed rooms+hall,2103.0,230000.0,245000.0,-6.0,Authority,Renew
 2026-08-21,24,MAG EYE Phase 1,2 bed rooms+hall,1205.0,157576.41,160000.0,-2.0,Authority,New
 2026-08-21,24,PARK HEIGHTS II,3 bed rooms+hall,1613.0,155506.97,200000.0,-22.0,Authority,Renew
-2026-08-21,24,Socio,2 bed rooms+hall,935.0,120000.0,125000.0,-4.0,Authority,New
 2026-08-21,24,Golf ville,2 bed rooms+hall,745.0,120000.0,114897.495,4.0,Authority,New
+2026-08-21,24,Socio,2 bed rooms+hall,935.0,120000.0,125000.0,-4.0,Authority,New
 2026-08-21,24,PARK RIDGE,2 bed rooms+hall,995.0,113850.0,165000.0,-31.0,Authority,Renew
 2026-08-21,24,Collective 2.0,2 bed rooms+hall,735.0,110000.0,120000.0,-8.0,Authority,New
 2026-08-21,24,PARK RIDGE,1bed room+Hall,641.0,110000.0,100000.0,10.0,Person,New
 2026-08-21,24,PARK RIDGE,1bed room+Hall,649.0,85000.0,100000.0,-15.0,Authority,Renew
-2026-08-21,24,MAG EYE Phase 1,1bed room+Hall,751.0,80000.0,85000.0,-6.0,Person,New
 2026-08-21,24,PARK HEIGHTS II,1bed room+Hall,645.0,80000.0,90000.0,-11.0,Person,New
+2026-08-21,24,MAG EYE Phase 1,1bed room+Hall,751.0,80000.0,85000.0,-6.0,Person,New
 2026-08-21,24,Collective 2.0,1bed room+Hall,477.0,65100.0,85000.0,-23.0,Authority,Renew
 2026-08-21,24,MAG EYE Phase 1,Studio,407.0,40000.0,57000.0,-30.0,Authority,New
 2026-08-22,25,Sidra 2,5 bed rooms+hall,6043.0,800000.0,600000.0,33.0,Person,Renew
@@ -589,8 +589,8 @@
 2026-08-22,25,SIDRA,4 bed rooms+hall,4821.0,390000.0,450000.0,-13.0,Person,Renew
 2026-08-22,25,Maple III,4 bed rooms+hall,2924.0,380000.0,280000.0,36.0,Person,New
 2026-08-22,25,MULBERRY at PARK HEIGHTS,3 bed rooms+hall,1956.0,330000.0,299171.27,10.0,Authority,Renew
-2026-08-22,25,Maple III,4 bed rooms+hall,3181.0,270000.0,280000.0,-4.0,Authority,Renew
 2026-08-22,25,Dubai Hills Estate,2 bed rooms+hall,1527.0,270000.0,,,Person,New
+2026-08-22,25,Maple III,4 bed rooms+hall,3181.0,270000.0,280000.0,-4.0,Authority,Renew
 2026-08-22,25,Maple III,3 bed rooms+hall,2097.0,230000.0,247500.0,-7.0,Person,Renew
 2026-08-22,25,Park Point,2 bed rooms+hall,1018.0,155000.0,145000.0,7.0,Authority,Renew
 2026-08-22,25,Dubai Hills Estate,2 bed rooms+hall,1021.0,148000.0,,,Authority,New
@@ -624,18 +624,18 @@
 2026-08-24,27,ACACIA AT PARK HEIGHTS,3 bed rooms+hall,1376.0,270000.0,277500.0,-3.0,Authority,New
 2026-08-24,27,MAPLE,3 bed rooms+hall,2096.0,230000.0,250000.0,-8.0,Person,New
 2026-08-24,27,Golf Suites - Dubai Hills,2 bed rooms+hall,1199.0,224000.0,170000.0,32.0,Authority,Renew
-2026-08-24,27,PARK RIDGE,2 bed rooms+hall,1002.0,200000.0,165000.0,21.0,Person,New
 2026-08-24,27,MAG EYE Phase 1,3 bed rooms+hall,1460.0,200000.0,200000.0,0.0,Authority,New
+2026-08-24,27,PARK RIDGE,2 bed rooms+hall,1002.0,200000.0,165000.0,21.0,Person,New
 2026-08-24,27,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1361.0,190000.0,192500.0,-1.0,Authority,New
 2026-08-24,27,MAG EYE Phase 1,2 bed rooms+hall,1411.0,170000.0,160000.0,6.0,Authority,New
 2026-08-24,27,Collective 2.0,2 bed rooms+hall,725.0,150000.0,120000.0,25.0,Person,New
 2026-08-24,27,PARK HEIGHTS II,2 bed rooms+hall,957.0,148000.0,138000.0,7.0,Person,Renew
 2026-08-24,27,ACACIA AT PARK HEIGHTS,1bed room+Hall,720.0,145000.0,125000.0,16.0,Authority,Renew
-2026-08-24,27,Dubai Hills Estate,1bed room+Hall,865.0,135000.0,,,Person,New
 2026-08-24,27,MAG EYE Phase 1,2 bed rooms+hall,1187.0,135000.0,160000.0,-16.0,Person,Renew
+2026-08-24,27,Dubai Hills Estate,1bed room+Hall,865.0,135000.0,,,Person,New
 2026-08-24,27,Golf ville,2 bed rooms+hall,748.0,130000.0,114897.495,13.0,Authority,New
-2026-08-24,27,ACACIA AT PARK HEIGHTS,1bed room+Hall,947.0,125000.0,125000.0,0.0,Person,New
 2026-08-24,27,MULBERRY at PARK HEIGHTS,1bed room+Hall,915.0,125000.0,125000.0,0.0,Authority,New
+2026-08-24,27,ACACIA AT PARK HEIGHTS,1bed room+Hall,947.0,125000.0,125000.0,0.0,Person,New
 2026-08-24,27,ACACIA AT PARK HEIGHTS,1bed room+Hall,720.0,120000.0,125000.0,-4.0,Authority,Renew
 2026-08-24,27,Golf Suites - Dubai Hills,1bed room+Hall,721.0,117500.0,105000.0,12.0,Person,New
 2026-08-24,27,Socio,2 bed rooms+hall,743.0,107000.0,125000.0,-14.0,Authority,New
@@ -645,8 +645,8 @@
 2026-08-24,27,PARK HEIGHTS II,1bed room+Hall,645.0,84000.0,90000.0,-7.0,Person,New
 2026-08-24,27,Socio,1bed room+Hall,476.0,80000.0,85000.0,-6.0,Authority,Renew
 2026-08-24,27,Park Heights I,1bed room+Hall,646.0,80000.0,90000.0,-11.0,Person,New
-2026-08-24,27,Park Heights I,1bed room+Hall,657.0,80000.0,90000.0,-11.0,Person,New
 2026-08-24,27,Collective 2.0,1bed room+Hall,477.0,80000.0,85000.0,-6.0,Authority,Renew
+2026-08-24,27,Park Heights I,1bed room+Hall,657.0,80000.0,90000.0,-11.0,Person,New
 2026-08-24,27,Golf ville,1bed room+Hall,500.0,75000.0,75000.0,0.0,Authority,Renew
 2026-08-24,27,MAG EYE Phase 1,Studio,427.0,60000.0,57000.0,5.0,Person,New
 2026-08-25,28,Sidra 2,4 bed rooms+hall,4905.0,470000.0,460000.0,2.0,Authority,New
@@ -709,8 +709,8 @@
 2026-08-27,30,Socio,1bed room+Hall,475.0,90000.0,85000.0,6.0,Authority,New
 2026-08-27,30,PARK HEIGHTS II,1bed room+Hall,645.0,88000.0,90000.0,-2.0,Authority,New
 2026-08-27,30,Collective 2.0,1bed room+Hall,482.0,88000.0,85000.0,4.0,Person,New
-2026-08-27,30,Socio,1bed room+Hall,486.0,85000.0,85000.0,0.0,Authority,New
 2026-08-27,30,PARK HEIGHTS II,1bed room+Hall,645.0,85000.0,90000.0,-6.0,Person,New
+2026-08-27,30,Socio,1bed room+Hall,486.0,85000.0,85000.0,0.0,Authority,New
 2026-08-27,30,Golf ville,1bed room+Hall,507.0,75000.0,75000.0,0.0,Authority,Renew
 2026-08-27,30,Golf ville,1bed room+Hall,503.0,75000.0,75000.0,0.0,Authority,Renew
 2026-08-27,30,Dubai Hills Estate,Studio,492.0,74000.0,,,Authority,New
@@ -726,8 +726,8 @@
 2026-08-28,31,PARK RIDGE,2 bed rooms+hall,1002.0,155000.0,165000.0,-6.0,Person,New
 2026-08-28,31,Collective,2 bed rooms+hall,720.0,110000.0,113750.0,-3.0,Person,New
 2026-08-28,31,Dubai Hills Estate,1bed room+Hall,737.0,110000.0,,,Authority,New
-2026-08-28,31,Collective,1bed room+Hall,483.0,90000.0,82000.0,10.0,Authority,New
 2026-08-28,31,THE GROVE BY IMAN,Studio,483.0,90000.0,80000.0,13.0,Person,New
+2026-08-28,31,Collective,1bed room+Hall,483.0,90000.0,82000.0,10.0,Authority,New
 2026-08-28,31,PARK HEIGHTS II,1bed room+Hall,649.0,84000.0,90000.0,-7.0,Person,New
 2026-08-28,31,MAG EYE Phase 1,Studio,394.0,62000.0,57000.0,9.0,Authority,New
 2026-08-29,32,SIDRA,5 bed rooms+hall,5799.0,540000.0,640000.0,-16.0,Authority,Renew
@@ -747,8 +747,8 @@
 2026-08-29,32,Collective 2.0,1bed room+Hall,480.0,92000.0,85000.0,8.0,Authority,New
 2026-08-29,32,PARK HEIGHTS II,1bed room+Hall,645.0,90000.0,90000.0,0.0,Person,New
 2026-08-29,32,MAG EYE Phase 1,1bed room+Hall,793.0,90000.0,85000.0,6.0,Person,New
-2026-08-29,32,MAG EYE Phase 1,1bed room+Hall,746.0,88000.0,85000.0,4.0,Person,New
 2026-08-29,32,Collective 2.0,1bed room+Hall,480.0,88000.0,85000.0,4.0,Authority,Renew
+2026-08-29,32,MAG EYE Phase 1,1bed room+Hall,746.0,88000.0,85000.0,4.0,Person,New
 2026-08-29,32,Collective,1bed room+Hall,491.0,83000.0,82000.0,1.0,Authority,New
 2026-08-29,32,Socio,1bed room+Hall,473.0,80000.0,85000.0,-6.0,Person,New
 2026-08-29,32,MAG EYE Phase 1,Studio,416.0,56000.0,57000.0,-2.0,Person,New
@@ -771,11 +771,11 @@
 2026-08-30,33,Golf ville,1bed room+Hall,507.0,72000.0,75000.0,-4.0,Authority,New
 2026-08-31,34,Golf Place ll,5 bed rooms+hall,8591.0,1300000.0,1200000.0,8.0,Person,New
 2026-08-31,34,SIDRA,5 bed rooms+hall,5328.0,635000.0,640000.0,-1.0,Authority,Renew
-2026-08-31,34,Dubai Hills Estate,Office,3008.0,602095.34,,,Authority,New
-2026-08-31,34,Dubai Hills Estate,Office,3407.0,602095.34,,,Authority,New
 2026-08-31,34,Dubai Hills Estate,Office,3407.0,602095.34,,,Authority,New
 2026-08-31,34,Dubai Hills Estate,Office,3407.0,602095.34,,,Authority,New
 2026-08-31,34,Dubai Hills Estate,Office,3008.0,602095.34,,,Authority,New
+2026-08-31,34,Dubai Hills Estate,Office,3008.0,602095.34,,,Authority,New
+2026-08-31,34,Dubai Hills Estate,Office,3407.0,602095.34,,,Authority,New
 2026-08-31,34,Dubai Hills Estate,Office,3008.0,602095.34,,,Authority,New
 2026-08-31,34,Club Villas at Dubai Hills,4 bed rooms+hall,3707.0,550000.0,575000.0,-4.0,Authority,New
 2026-08-31,34,Club Villas at Dubai Hills,3 bed rooms+hall,2887.0,500000.0,467500.0,7.0,Authority,New
@@ -796,8 +796,8 @@
 2026-08-31,34,SIDRA,3 bed rooms+hall,4466.0,350000.0,389500.0,-10.0,Person,Renew
 2026-08-31,34,Maple III,4 bed rooms+hall,3038.0,350000.0,280000.0,25.0,Authority,New
 2026-08-31,34,MAPLE 2,5 bed rooms+hall,3374.0,333183.36,310000.0,7.0,Authority,Renew
-2026-08-31,34,MAG EYE Phase 1,4 bed rooms+hall,3806.0,330000.0,340000.0,-3.0,Authority,New
 2026-08-31,34,MAPLE,5 bed rooms+hall,2990.0,330000.0,320000.0,3.0,Person,New
+2026-08-31,34,MAG EYE Phase 1,4 bed rooms+hall,3806.0,330000.0,340000.0,-3.0,Authority,New
 2026-08-31,34,Sidra 2,3 bed rooms+hall,4329.0,330000.0,375000.0,-12.0,Authority,Renew
 2026-08-31,34,MAPLE 2,4 bed rooms+hall,4012.0,325000.0,280000.0,16.0,Authority,New
 2026-08-31,34,Maple III,4 bed rooms+hall,2264.0,320000.0,280000.0,14.0,Authority,New
@@ -810,37 +810,37 @@
 2026-08-31,34,MAPLE 2,4 bed rooms+hall,3613.0,285000.0,280000.0,2.0,Authority,New
 2026-08-31,34,Dubai Hills Estate,Office,3015.0,282925.51,,,Authority,New
 2026-08-31,34,MAPLE 2,4 bed rooms+hall,2914.0,280000.0,280000.0,0.0,Authority,New
-2026-08-31,34,Maple III,4 bed rooms+hall,2922.0,280000.0,280000.0,0.0,Authority,New
-2026-08-31,34,MAPLE,4 bed rooms+hall,2171.0,280000.0,280000.0,0.0,Authority,Renew
-2026-08-31,34,MAPLE 2,3 bed rooms+hall,2223.0,280000.0,245000.0,14.0,Authority,New
 2026-08-31,34,MAPLE,4 bed rooms+hall,2160.0,280000.0,280000.0,0.0,Authority,New
+2026-08-31,34,MAPLE,4 bed rooms+hall,2171.0,280000.0,280000.0,0.0,Authority,Renew
+2026-08-31,34,Maple III,4 bed rooms+hall,2922.0,280000.0,280000.0,0.0,Authority,New
+2026-08-31,34,MAPLE 2,3 bed rooms+hall,2223.0,280000.0,245000.0,14.0,Authority,New
 2026-08-31,34,MAPLE 2,4 bed rooms+hall,3118.0,276923.08,280000.0,-1.0,Person,New
 2026-08-31,34,MAPLE,4 bed rooms+hall,3003.0,275000.0,280000.0,-2.0,Authority,New
 2026-08-31,34,Dubai Hills Estate,2 bed rooms+hall,1527.0,265000.0,,,Person,New
 2026-08-31,34,Maple III,4 bed rooms+hall,3044.0,262500.0,280000.0,-6.0,Person,Renew
 2026-08-31,34,MAPLE,4 bed rooms+hall,3073.0,262000.0,280000.0,-6.0,Authority,Renew
-2026-08-31,34,MAPLE,4 bed rooms+hall,2955.0,260000.0,280000.0,-7.0,Authority,New
 2026-08-31,34,Maple III,3 bed rooms+hall,2181.0,260000.0,247500.0,5.0,Authority,New
-2026-08-31,34,MAPLE 2,3 bed rooms+hall,2168.0,260000.0,245000.0,6.0,Authority,New
 2026-08-31,34,MAPLE,4 bed rooms+hall,3072.0,260000.0,280000.0,-7.0,Person,New
+2026-08-31,34,MAPLE,4 bed rooms+hall,2955.0,260000.0,280000.0,-7.0,Authority,New
+2026-08-31,34,MAPLE 2,3 bed rooms+hall,2168.0,260000.0,245000.0,6.0,Authority,New
 2026-08-31,34,Sidra 2,3 bed rooms+hall,4398.0,255300.0,375000.0,-32.0,Person,Renew
 2026-08-31,34,Maple III,4 bed rooms+hall,2944.0,255000.0,280000.0,-9.0,Authority,New
-2026-08-31,34,MAPLE,3 bed rooms+hall,2068.0,250000.0,250000.0,0.0,Authority,New
+2026-08-31,34,Maple III,3 bed rooms+hall,2093.0,250000.0,247500.0,1.0,Authority,New
 2026-08-31,34,MAPLE 2,4 bed rooms+hall,2197.0,250000.0,280000.0,-11.0,Authority,Renew
 2026-08-31,34,MAPLE 2,3 bed rooms+hall,2089.0,250000.0,245000.0,2.0,Authority,New
+2026-08-31,34,MAPLE,3 bed rooms+hall,2068.0,250000.0,250000.0,0.0,Authority,New
 2026-08-31,34,Maple III,3 bed rooms+hall,2096.0,250000.0,247500.0,1.0,Person,Renew
-2026-08-31,34,Maple III,3 bed rooms+hall,2093.0,250000.0,247500.0,1.0,Authority,New
 2026-08-31,34,MAPLE,4 bed rooms+hall,2923.0,246750.0,280000.0,-12.0,Authority,Renew
 2026-08-31,34,Maple III,3 bed rooms+hall,2181.0,245000.0,247500.0,-1.0,Person,Renew
 2026-08-31,34,MAPLE 2,3 bed rooms+hall,2095.0,245000.0,245000.0,0.0,Person,New
-2026-08-31,34,MAPLE 2,3 bed rooms+hall,2140.0,240000.0,245000.0,-2.0,Authority,Renew
-2026-08-31,34,Park Point,3 bed rooms+hall,1362.0,240000.0,220000.0,9.0,Person,New
-2026-08-31,34,PARK RIDGE,3 bed rooms+hall,1576.0,240000.0,252500.0,-5.0,Authority,Renew
 2026-08-31,34,MAPLE 2,3 bed rooms+hall,2096.0,240000.0,245000.0,-2.0,Authority,New
+2026-08-31,34,PARK RIDGE,3 bed rooms+hall,1576.0,240000.0,252500.0,-5.0,Authority,Renew
+2026-08-31,34,Park Point,3 bed rooms+hall,1362.0,240000.0,220000.0,9.0,Person,New
+2026-08-31,34,MAPLE 2,3 bed rooms+hall,2140.0,240000.0,245000.0,-2.0,Authority,Renew
+2026-08-31,34,MAPLE,3 bed rooms+hall,2072.0,235000.0,250000.0,-6.0,Person,Renew
 2026-08-31,34,MAPLE 2,4 bed rooms+hall,2184.0,235000.0,280000.0,-16.0,Authority,New
 2026-08-31,34,MAPLE 2,4 bed rooms+hall,2184.0,235000.0,280000.0,-16.0,Authority,New
 2026-08-31,34,MAPLE 2,3 bed rooms+hall,2138.0,235000.0,245000.0,-4.0,Authority,Renew
-2026-08-31,34,MAPLE,3 bed rooms+hall,2072.0,235000.0,250000.0,-6.0,Person,Renew
 2026-08-31,34,PARK RIDGE,3 bed rooms+hall,1576.0,230000.0,252500.0,-9.0,Authority,New
 2026-08-31,34,MAPLE,3 bed rooms+hall,2092.0,225000.0,250000.0,-10.0,Authority,Renew
 2026-08-31,34,MAPLE 2,3 bed rooms+hall,2093.0,220000.0,245000.0,-10.0,Authority,Renew
@@ -852,62 +852,62 @@
 2026-08-31,34,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1307.0,200000.0,192500.0,4.0,Authority,Renew
 2026-08-31,34,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1317.0,195000.0,200000.0,-3.0,Authority,New
 2026-08-31,34,PARK HEIGHTS II,3 bed rooms+hall,1612.0,190000.0,200000.0,-5.0,Authority,Renew
-2026-08-31,34,PARK RIDGE,2 bed rooms+hall,1383.0,185000.0,165000.0,12.0,Person,New
-2026-08-31,34,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1351.0,185000.0,192500.0,-4.0,Person,New
 2026-08-31,34,PARK RIDGE,2 bed rooms+hall,997.0,185000.0,165000.0,12.0,Person,New
-2026-08-31,34,Golf Suites - Dubai Hills,2 bed rooms+hall,1121.0,180000.0,170000.0,6.0,Authority,Renew
+2026-08-31,34,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1351.0,185000.0,192500.0,-4.0,Person,New
+2026-08-31,34,PARK RIDGE,2 bed rooms+hall,1383.0,185000.0,165000.0,12.0,Person,New
 2026-08-31,34,MAG EYE Phase 1,3 bed rooms+hall,1530.0,180000.0,200000.0,-10.0,Authority,Renew
+2026-08-31,34,Golf Suites - Dubai Hills,2 bed rooms+hall,1121.0,180000.0,170000.0,6.0,Authority,Renew
 2026-08-31,34,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1741.0,178000.0,192500.0,-8.0,Authority,New
 2026-08-31,34,PARK RIDGE,2 bed rooms+hall,989.0,170000.0,165000.0,3.0,Authority,Renew
 2026-08-31,34,PARK RIDGE,2 bed rooms+hall,1009.0,165000.0,165000.0,0.0,Authority,Renew
-2026-08-31,34,PARK RIDGE,2 bed rooms+hall,1006.0,160000.0,165000.0,-3.0,Authority,Renew
 2026-08-31,34,MAG EYE Phase 1,2 bed rooms+hall,1411.0,160000.0,160000.0,0.0,Authority,Renew
+2026-08-31,34,PARK RIDGE,2 bed rooms+hall,1006.0,160000.0,165000.0,-3.0,Authority,Renew
 2026-08-31,34,Golf Suites - Dubai Hills,2 bed rooms+hall,1208.0,157500.0,170000.0,-7.0,Authority,Renew
 2026-08-31,34,MAG EYE Phase 1,2 bed rooms+hall,1411.0,155000.0,160000.0,-3.0,Authority,Renew
 2026-08-31,34,MAG EYE Phase 1,2 bed rooms+hall,1187.0,150000.0,160000.0,-6.0,Person,Renew
+2026-08-31,34,Park Heights I,2 bed rooms+hall,1089.0,150000.0,135000.0,11.0,Person,New
 2026-08-31,34,Dubai Hills Estate,1bed room+Hall,865.0,150000.0,,,Person,New
 2026-08-31,34,PARK RIDGE,2 bed rooms+hall,990.0,150000.0,165000.0,-9.0,Authority,Renew
-2026-08-31,34,Park Heights I,2 bed rooms+hall,1089.0,150000.0,135000.0,11.0,Person,New
 2026-08-31,34,PARK RIDGE,2 bed rooms+hall,986.0,149156.01,165000.0,-10.0,Person,Renew
-2026-08-31,34,MAG EYE Phase 1,2 bed rooms+hall,1205.0,147000.0,160000.0,-8.0,Authority,New
-2026-08-31,34,PARK HEIGHTS II,2 bed rooms+hall,1089.0,147000.0,138000.0,7.0,Authority,New
 2026-08-31,34,MAG EYE Phase 1,2 bed rooms+hall,1306.0,147000.0,160000.0,-8.0,Person,New
+2026-08-31,34,PARK HEIGHTS II,2 bed rooms+hall,1089.0,147000.0,138000.0,7.0,Authority,New
+2026-08-31,34,MAG EYE Phase 1,2 bed rooms+hall,1205.0,147000.0,160000.0,-8.0,Authority,New
 2026-08-31,34,MAG EYE Phase 1,2 bed rooms+hall,1307.0,141750.0,160000.0,-11.0,Person,Renew
 2026-08-31,34,MAG EYE Phase 1,2 bed rooms+hall,1187.0,141750.0,160000.0,-11.0,Person,Renew
 2026-08-31,34,Golf Suites - Dubai Hills,2 bed rooms+hall,1118.0,141428.57,170000.0,-17.0,Authority,New
-2026-08-31,34,PARK HEIGHTS II,2 bed rooms+hall,1074.0,140000.0,138000.0,1.0,Person,New
-2026-08-31,34,PARK HEIGHTS II,2 bed rooms+hall,959.0,140000.0,138000.0,1.0,Authority,Renew
-2026-08-31,34,Park Point,2 bed rooms+hall,926.0,140000.0,145000.0,-3.0,Person,New
 2026-08-31,34,MAG EYE Phase 1,2 bed rooms+hall,1205.0,140000.0,160000.0,-13.0,Authority,Renew
-2026-08-31,34,MAG EYE Phase 1,2 bed rooms+hall,1208.0,136500.0,160000.0,-15.0,Person,Renew
+2026-08-31,34,PARK HEIGHTS II,2 bed rooms+hall,959.0,140000.0,138000.0,1.0,Authority,Renew
+2026-08-31,34,PARK HEIGHTS II,2 bed rooms+hall,1074.0,140000.0,138000.0,1.0,Person,New
+2026-08-31,34,Park Point,2 bed rooms+hall,926.0,140000.0,145000.0,-3.0,Person,New
 2026-08-31,34,MAG EYE Phase 1,2 bed rooms+hall,1187.0,136500.0,160000.0,-15.0,Authority,Renew
-2026-08-31,34,Dubai Hills Estate,1bed room+Hall,850.0,135000.0,,,Person,New
-2026-08-31,34,Dubai Hills Estate,1bed room+Hall,865.0,135000.0,,,Person,New
+2026-08-31,34,MAG EYE Phase 1,2 bed rooms+hall,1208.0,136500.0,160000.0,-15.0,Person,Renew
 2026-08-31,34,Collective,2 bed rooms+hall,730.0,135000.0,113750.0,19.0,Authority,New
 2026-08-31,34,Dubai Hills Estate,1bed room+Hall,850.0,135000.0,,,Person,New
+2026-08-31,34,Dubai Hills Estate,1bed room+Hall,865.0,135000.0,,,Person,New
+2026-08-31,34,Dubai Hills Estate,1bed room+Hall,850.0,135000.0,,,Person,New
 2026-08-31,34,Socio,2 bed rooms+hall,729.0,132000.0,125000.0,6.0,Authority,New
-2026-08-31,34,PARK RIDGE,1bed room+Hall,647.0,125000.0,100000.0,25.0,Authority,New
-2026-08-31,34,Prive Residence,1bed room+Hall,1055.0,125000.0,105000.0,19.0,Authority,New
-2026-08-31,34,MULBERRY at PARK HEIGHTS,1bed room+Hall,871.0,125000.0,125000.0,0.0,Person,Renew
 2026-08-31,34,ACACIA AT PARK HEIGHTS,1bed room+Hall,989.0,125000.0,125000.0,0.0,Person,New
-2026-08-31,34,Collective 2.0,2 bed rooms+hall,732.0,125000.0,120000.0,4.0,Authority,Renew
+2026-08-31,34,MULBERRY at PARK HEIGHTS,1bed room+Hall,871.0,125000.0,125000.0,0.0,Person,Renew
 2026-08-31,34,Collective,2 bed rooms+hall,743.0,125000.0,113750.0,10.0,Authority,New
+2026-08-31,34,Prive Residence,1bed room+Hall,1055.0,125000.0,105000.0,19.0,Authority,New
+2026-08-31,34,PARK RIDGE,1bed room+Hall,647.0,125000.0,100000.0,25.0,Authority,New
+2026-08-31,34,Collective 2.0,2 bed rooms+hall,732.0,125000.0,120000.0,4.0,Authority,Renew
+2026-08-31,34,Golf Suites - Dubai Hills,1bed room+Hall,720.0,120000.0,105000.0,14.0,Person,Renew
 2026-08-31,34,Collective 2.0,2 bed rooms+hall,744.0,120000.0,120000.0,0.0,Person,New
 2026-08-31,34,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1046.0,120000.0,200000.0,-40.0,Authority,New
-2026-08-31,34,Golf Suites - Dubai Hills,1bed room+Hall,720.0,120000.0,105000.0,14.0,Person,Renew
-2026-08-31,34,PARK RIDGE,1bed room+Hall,698.0,115000.0,100000.0,15.0,Authority,New
-2026-08-31,34,Collective 2.0,2 bed rooms+hall,727.0,115000.0,120000.0,-4.0,Authority,New
 2026-08-31,34,Collective 2.0,2 bed rooms+hall,756.0,115000.0,120000.0,-4.0,Person,New
-2026-08-31,34,Collective,2 bed rooms+hall,731.0,110000.0,113750.0,-3.0,Person,New
+2026-08-31,34,Collective 2.0,2 bed rooms+hall,727.0,115000.0,120000.0,-4.0,Authority,New
+2026-08-31,34,PARK RIDGE,1bed room+Hall,698.0,115000.0,100000.0,15.0,Authority,New
 2026-08-31,34,PARK RIDGE,1bed room+Hall,650.0,110000.0,100000.0,10.0,Person,New
 2026-08-31,34,PARK RIDGE,1bed room+Hall,651.0,110000.0,100000.0,10.0,Person,New
+2026-08-31,34,Collective,2 bed rooms+hall,731.0,110000.0,113750.0,-3.0,Person,New
 2026-08-31,34,Golf ville,2 bed rooms+hall,750.0,110000.0,114897.495,-4.0,Person,New
 2026-08-31,34,Collective,2 bed rooms+hall,723.0,108000.0,113750.0,-5.0,Person,New
 2026-08-31,34,PARK RIDGE,1bed room+Hall,647.0,105000.0,100000.0,5.0,Authority,New
-2026-08-31,34,Prive Residence,,668.0,100000.0,,,Person,New
-2026-08-31,34,Park Point,1bed room+Hall,684.0,100000.0,95000.0,5.0,Person,New
-2026-08-31,34,Dubai Hills Estate,1bed room+Hall,769.0,100000.0,,,Person,New
 2026-08-31,34,MULBERRY at PARK HEIGHTS,1bed room+Hall,871.0,100000.0,125000.0,-20.0,Person,Renew
+2026-08-31,34,Park Point,1bed room+Hall,684.0,100000.0,95000.0,5.0,Person,New
+2026-08-31,34,Prive Residence,,668.0,100000.0,,,Person,New
+2026-08-31,34,Dubai Hills Estate,1bed room+Hall,769.0,100000.0,,,Person,New
 2026-08-31,34,ACACIA AT PARK HEIGHTS,1bed room+Hall,921.0,97375.0,125000.0,-22.0,Person,Renew
 2026-08-31,34,Collective,1bed room+Hall,476.0,97000.0,82000.0,18.0,Authority,New
 2026-08-31,34,PARK HEIGHTS II,1bed room+Hall,844.0,96000.0,90000.0,7.0,Person,New
@@ -917,23 +917,23 @@
 2026-08-31,34,Park Point,1bed room+Hall,688.0,90000.0,95000.0,-5.0,Person,Renew
 2026-08-31,34,PARK RIDGE,1bed room+Hall,654.0,90000.0,100000.0,-10.0,Person,New
 2026-08-31,34,Dubai Hills Estate,1bed room+Hall,914.0,90000.0,,,Authority,New
+2026-08-31,34,Collective 2.0,1bed room+Hall,490.0,85000.0,85000.0,0.0,Person,New
+2026-08-31,34,MAG EYE Phase 1,1bed room+Hall,753.0,85000.0,85000.0,0.0,Person,New
+2026-08-31,34,PARK HEIGHTS II,1bed room+Hall,645.0,85000.0,90000.0,-6.0,Authority,Renew
 2026-08-31,34,Socio,1bed room+Hall,488.0,85000.0,85000.0,0.0,Authority,New
 2026-08-31,34,PARK HEIGHTS II,1bed room+Hall,645.0,85000.0,90000.0,-6.0,Authority,Renew
-2026-08-31,34,PARK HEIGHTS II,1bed room+Hall,645.0,85000.0,90000.0,-6.0,Authority,Renew
-2026-08-31,34,MAG EYE Phase 1,1bed room+Hall,753.0,85000.0,85000.0,0.0,Person,New
-2026-08-31,34,Collective 2.0,1bed room+Hall,490.0,85000.0,85000.0,0.0,Person,New
 2026-08-31,34,PARK HEIGHTS II,1bed room+Hall,645.0,84621.32,90000.0,-6.0,Person,Renew
 2026-08-31,34,Park Heights I,1bed room+Hall,657.0,80850.0,90000.0,-10.0,Authority,Renew
-2026-08-31,34,ACACIA AT PARK HEIGHTS,1bed room+Hall,728.0,80000.0,125000.0,-36.0,Authority,Renew
 2026-08-31,34,Socio,1bed room+Hall,482.0,80000.0,85000.0,-6.0,Authority,Renew
-2026-08-31,34,Park Heights I,1bed room+Hall,646.0,80000.0,90000.0,-11.0,Person,New
-2026-08-31,34,MAG EYE Phase 1,1bed room+Hall,803.0,80000.0,85000.0,-6.0,Authority,Renew
 2026-08-31,34,Collective 2.0,1bed room+Hall,474.0,80000.0,85000.0,-6.0,Authority,New
+2026-08-31,34,MAG EYE Phase 1,1bed room+Hall,803.0,80000.0,85000.0,-6.0,Authority,Renew
+2026-08-31,34,Park Heights I,1bed room+Hall,646.0,80000.0,90000.0,-11.0,Person,New
+2026-08-31,34,ACACIA AT PARK HEIGHTS,1bed room+Hall,728.0,80000.0,125000.0,-36.0,Authority,Renew
 2026-08-31,34,Prive Residence,1bed room+Hall,734.0,72233.01,105000.0,-31.0,Person,New
 2026-08-31,34,Park Point,1bed room+Hall,741.0,70002.0,95000.0,-26.0,Person,Renew
 2026-08-31,34,Prive Residence,Studio,401.0,67200.0,74896.12,-10.0,Person,Renew
-2026-08-31,34,Dubai Hills Estate,Studio,455.0,65000.0,,,Person,New
 2026-08-31,34,Collective 2.0,1bed room+Hall,479.0,65000.0,85000.0,-24.0,Authority,Renew
+2026-08-31,34,Dubai Hills Estate,Studio,455.0,65000.0,,,Person,New
 2026-08-31,34,MAG EYE Phase 1,Studio,411.0,56000.0,57000.0,-2.0,Authority,New
 2026-08-31,34,Collective,1bed room+Hall,476.0,51840.0,82000.0,-37.0,Authority,Renew
 2026-09-01,35,SIDRA,4 bed rooms+hall,5158.0,500000.0,450000.0,11.0,Person,Renew
@@ -984,8 +984,8 @@
 2026-09-03,37,Golf ville,1bed room+Hall,500.0,80000.0,75000.0,7.0,Authority,Renew
 2026-09-03,37,Golf ville,1bed room+Hall,496.0,75000.0,75000.0,0.0,Authority,New
 2026-09-04,38,Sidra 3,4 bed rooms+hall,4951.0,770000.0,475000.0,62.0,Authority,New
-2026-09-04,38,SIDRA,4 bed rooms+hall,4588.0,375000.0,450000.0,-17.0,Authority,New
 2026-09-04,38,Sidra 2,3 bed rooms+hall,4555.0,375000.0,375000.0,0.0,Authority,New
+2026-09-04,38,SIDRA,4 bed rooms+hall,4588.0,375000.0,450000.0,-17.0,Authority,New
 2026-09-04,38,MAPLE 2,5 bed rooms+hall,3441.0,340000.0,310000.0,10.0,Authority,Renew
 2026-09-04,38,MAPLE,5 bed rooms+hall,3080.0,330000.0,320000.0,3.0,Person,New
 2026-09-04,38,MAPLE 2,5 bed rooms+hall,3466.0,300000.0,310000.0,-3.0,Authority,New
@@ -995,8 +995,8 @@
 2026-09-04,38,Maple III,4 bed rooms+hall,3370.0,275000.0,280000.0,-2.0,Authority,Renew
 2026-09-04,38,MAPLE 2,4 bed rooms+hall,2172.0,265000.0,280000.0,-5.0,Person,New
 2026-09-04,38,MAPLE 2,4 bed rooms+hall,2088.0,260000.0,280000.0,-7.0,Authority,Renew
-2026-09-04,38,MAPLE 2,3 bed rooms+hall,2132.0,245000.0,245000.0,0.0,Authority,Renew
 2026-09-04,38,MAPLE 2,3 bed rooms+hall,2087.0,245000.0,245000.0,0.0,Person,New
+2026-09-04,38,MAPLE 2,3 bed rooms+hall,2132.0,245000.0,245000.0,0.0,Authority,Renew
 2026-09-04,38,MAPLE 2,3 bed rooms+hall,2103.0,235000.0,245000.0,-4.0,Person,New
 2026-09-04,38,MAPLE 2,3 bed rooms+hall,2152.0,225000.0,245000.0,-8.0,Person,New
 2026-09-04,38,Dubai Hills Estate,2 bed rooms+hall,1198.0,200000.0,,,Authority,New
@@ -1012,10 +1012,10 @@
 2026-09-04,38,Collective 2.0,2 bed rooms+hall,741.0,105600.0,120000.0,-12.0,Authority,Renew
 2026-09-04,38,Prive Residence,1bed room+Hall,737.0,100000.0,105000.0,-5.0,Authority,New
 2026-09-04,38,PARK RIDGE,1bed room+Hall,647.0,95000.0,100000.0,-5.0,Authority,New
-2026-09-04,38,Park Heights I,1bed room+Hall,646.0,85000.0,90000.0,-6.0,Person,New
-2026-09-04,38,Prive Residence,1bed room+Hall,667.0,85000.0,105000.0,-19.0,Authority,New
 2026-09-04,38,Prive Residence,1bed room+Hall,667.0,85000.0,105000.0,-19.0,Authority,Renew
 2026-09-04,38,PARK RIDGE,1bed room+Hall,654.0,85000.0,100000.0,-15.0,Authority,Renew
+2026-09-04,38,Prive Residence,1bed room+Hall,667.0,85000.0,105000.0,-19.0,Authority,New
+2026-09-04,38,Park Heights I,1bed room+Hall,646.0,85000.0,90000.0,-6.0,Person,New
 2026-09-04,38,Collective,1bed room+Hall,483.0,80000.0,82000.0,-2.0,Authority,Renew
 2026-09-04,38,MAG EYE Phase 1,1bed room+Hall,803.0,78000.0,85000.0,-8.0,Authority,New
 2026-09-04,38,Dubai Hills Estate,Studio,414.0,77000.0,,,Person,Renew
@@ -1037,12 +1037,12 @@
 2026-09-05,39,Golf ville,2 bed rooms+hall,748.0,120000.0,114897.495,4.0,Authority,New
 2026-09-05,39,PARK HEIGHTS II,1bed room+Hall,645.0,110000.0,90000.0,22.0,Authority,Renew
 2026-09-05,39,Prive Residence,1bed room+Hall,741.0,105000.0,105000.0,0.0,Authority,New
+2026-09-05,39,PARK HEIGHTS II,1bed room+Hall,645.0,100000.0,90000.0,11.0,Person,New
 2026-09-05,39,Dubai Hills Estate,1bed room+Hall,803.0,100000.0,,,Person,New
 2026-09-05,39,Collective,2 bed rooms+hall,746.0,100000.0,113750.0,-12.0,Authority,New
-2026-09-05,39,PARK HEIGHTS II,1bed room+Hall,645.0,100000.0,90000.0,11.0,Person,New
 2026-09-05,39,MAG EYE Phase 1,1bed room+Hall,787.0,90000.0,85000.0,6.0,Authority,New
-2026-09-05,39,Collective 2.0,1bed room+Hall,490.0,85000.0,85000.0,0.0,Authority,New
 2026-09-05,39,MAG EYE Phase 1,1bed room+Hall,793.0,85000.0,85000.0,0.0,Authority,New
+2026-09-05,39,Collective 2.0,1bed room+Hall,490.0,85000.0,85000.0,0.0,Authority,New
 2026-09-05,39,Collective,1bed room+Hall,476.0,83000.0,82000.0,1.0,Authority,Renew
 2026-09-06,40,ACACIA AT PARK HEIGHTS,3 bed rooms+hall,1744.0,310000.0,277500.0,12.0,Authority,New
 2026-09-06,40,MAPLE,4 bed rooms+hall,2164.0,300000.0,280000.0,7.0,Authority,New
@@ -1053,8 +1053,8 @@
 2026-09-06,40,PARK HEIGHTS II,3 bed rooms+hall,1611.0,190000.0,200000.0,-5.0,Authority,New
 2026-09-06,40,Park Heights I,2 bed rooms+hall,956.0,125000.0,135000.0,-7.0,Authority,Renew
 2026-09-06,40,Prive Residence,1bed room+Hall,663.0,110000.0,105000.0,5.0,Authority,New
-2026-09-06,40,Collective 2.0,2 bed rooms+hall,743.0,105000.0,120000.0,-13.0,Person,Renew
 2026-09-06,40,Collective,2 bed rooms+hall,720.0,105000.0,113750.0,-8.0,Authority,Renew
+2026-09-06,40,Collective 2.0,2 bed rooms+hall,743.0,105000.0,120000.0,-13.0,Person,Renew
 2026-09-06,40,Dubai Hills Estate,1bed room+Hall,768.0,96923.08,,,Person,New
 2026-09-06,40,Collective 2.0,1bed room+Hall,486.0,80000.0,85000.0,-6.0,Person,Renew
 2026-09-06,40,MAG EYE Phase 1,Studio,411.0,59000.0,57000.0,4.0,Person,Renew
@@ -1107,8 +1107,8 @@
 2026-09-09,43,PARK RIDGE,,2051.0,350000.0,,,Person,Renew
 2026-09-09,43,SIDRA,3 bed rooms+hall,4445.0,335000.0,389500.0,-14.0,Person,New
 2026-09-09,43,MAPLE,4 bed rooms+hall,2175.0,310000.0,280000.0,11.0,Person,New
-2026-09-09,43,MAPLE 2,4 bed rooms+hall,2266.0,280000.0,280000.0,0.0,Authority,New
 2026-09-09,43,MAPLE,4 bed rooms+hall,3057.0,280000.0,280000.0,0.0,Person,New
+2026-09-09,43,MAPLE 2,4 bed rooms+hall,2266.0,280000.0,280000.0,0.0,Authority,New
 2026-09-09,43,ACACIA AT PARK HEIGHTS,3 bed rooms+hall,1861.0,275000.0,277500.0,-1.0,Authority,New
 2026-09-09,43,MAPLE 2,5 bed rooms+hall,3398.0,273000.0,310000.0,-12.0,Person,Renew
 2026-09-09,43,ACACIA AT PARK HEIGHTS,3 bed rooms+hall,1369.0,260000.0,277500.0,-6.0,Authority,New
@@ -1175,9 +1175,9 @@
 2026-09-12,46,Golf ville,2 bed rooms+hall,754.0,105000.0,114897.495,-9.0,Authority,New
 2026-09-12,46,Collective,2 bed rooms+hall,723.0,100000.0,113750.0,-12.0,Authority,Renew
 2026-09-12,46,PARK RIDGE,1bed room+Hall,653.0,90000.0,100000.0,-10.0,Authority,New
-2026-09-12,46,PARK HEIGHTS II,1bed room+Hall,645.0,90000.0,90000.0,0.0,Authority,New
-2026-09-12,46,PARK RIDGE,1bed room+Hall,653.0,90000.0,100000.0,-10.0,Authority,New
 2026-09-12,46,Collective,1bed room+Hall,474.0,90000.0,82000.0,10.0,Person,New
+2026-09-12,46,PARK RIDGE,1bed room+Hall,653.0,90000.0,100000.0,-10.0,Authority,New
+2026-09-12,46,PARK HEIGHTS II,1bed room+Hall,645.0,90000.0,90000.0,0.0,Authority,New
 2026-09-12,46,Collective,1bed room+Hall,491.0,75000.0,82000.0,-9.0,Authority,New
 2026-09-13,47,SIDRA,5 bed rooms+hall,5981.0,600000.0,640000.0,-6.0,Authority,Renew
 2026-09-13,47,Park Point,2 bed rooms+hall,1033.0,160000.0,145000.0,10.0,Authority,Renew
@@ -1186,8 +1186,8 @@
 2026-09-13,47,Socio,2 bed rooms+hall,729.0,135000.0,125000.0,8.0,Person,New
 2026-09-13,47,PARK RIDGE,2 bed rooms+hall,995.0,115008.0,165000.0,-30.0,Person,Renew
 2026-09-13,47,Socio,2 bed rooms+hall,741.0,110000.0,125000.0,-12.0,Authority,New
-2026-09-13,47,Collective,2 bed rooms+hall,746.0,100000.0,113750.0,-12.0,Person,New
 2026-09-13,47,PARK RIDGE,1bed room+Hall,649.0,100000.0,100000.0,0.0,Person,New
+2026-09-13,47,Collective,2 bed rooms+hall,746.0,100000.0,113750.0,-12.0,Person,New
 2026-09-13,47,PARK RIDGE,1bed room+Hall,639.0,95000.0,100000.0,-5.0,Authority,New
 2026-09-13,47,PARK HEIGHTS II,1bed room+Hall,841.0,80000.0,90000.0,-11.0,Person,New
 2026-09-13,47,Park Heights I,1bed room+Hall,646.0,79120.88,90000.0,-12.0,Person,Renew
@@ -1198,8 +1198,8 @@
 2026-09-14,48,Dubai Hills Estate,Office,4434.0,532120.8,,,Authority,Renew
 2026-09-14,48,Sidra 2,4 bed rooms+hall,4862.0,460000.0,460000.0,0.0,Person,New
 2026-09-14,48,Sidra 2,3 bed rooms+hall,4302.0,400000.0,375000.0,7.0,Authority,New
-2026-09-14,48,Sidra 3,3 bed rooms+hall,4691.0,380000.0,380000.0,0.0,Authority,New
 2026-09-14,48,SIDRA,3 bed rooms+hall,4440.0,380000.0,389500.0,-2.0,Person,Renew
+2026-09-14,48,Sidra 3,3 bed rooms+hall,4691.0,380000.0,380000.0,0.0,Authority,New
 2026-09-14,48,SIDRA,3 bed rooms+hall,4999.0,365000.0,389500.0,-6.0,Authority,New
 2026-09-14,48,MAPLE 2,5 bed rooms+hall,3790.0,345000.0,310000.0,11.0,Person,New
 2026-09-14,48,Sidra 3,3 bed rooms+hall,4895.0,340000.0,380000.0,-11.0,Person,Renew
@@ -1207,20 +1207,20 @@
 2026-09-14,48,MAPLE 2,5 bed rooms+hall,2986.0,305000.0,310000.0,-2.0,Authority,New
 2026-09-14,48,MAPLE 2,4 bed rooms+hall,3127.0,300000.0,280000.0,7.0,Authority,New
 2026-09-14,48,MAPLE,4 bed rooms+hall,2167.0,290000.0,280000.0,4.0,Authority,New
-2026-09-14,48,MAPLE,5 bed rooms+hall,3206.0,285000.0,320000.0,-11.0,Authority,Renew
 2026-09-14,48,MAPLE,4 bed rooms+hall,2174.0,285000.0,280000.0,2.0,Authority,New
+2026-09-14,48,MAPLE,5 bed rooms+hall,3206.0,285000.0,320000.0,-11.0,Authority,Renew
 2026-09-14,48,MAPLE 2,4 bed rooms+hall,3627.0,280000.0,280000.0,0.0,Authority,New
 2026-09-14,48,MAPLE 2,4 bed rooms+hall,3083.0,275000.0,280000.0,-2.0,Person,Renew
 2026-09-14,48,MAPLE 2,4 bed rooms+hall,2928.0,275000.0,280000.0,-2.0,Person,Renew
 2026-09-14,48,MAPLE 2,4 bed rooms+hall,2407.0,270000.0,280000.0,-4.0,Person,Renew
 2026-09-14,48,Maple III,4 bed rooms+hall,2913.0,270000.0,280000.0,-4.0,Authority,Renew
 2026-09-14,48,PARK RIDGE,3 bed rooms+hall,1575.0,260000.0,252500.0,3.0,Authority,New
-2026-09-14,48,Park Point,3 bed rooms+hall,1357.0,250000.0,220000.0,14.0,Authority,New
 2026-09-14,48,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1653.0,250000.0,200000.0,25.0,Person,New
+2026-09-14,48,Park Point,3 bed rooms+hall,1357.0,250000.0,220000.0,14.0,Authority,New
 2026-09-14,48,Maple III,4 bed rooms+hall,2919.0,250000.0,280000.0,-11.0,Person,New
 2026-09-14,48,Maple III,3 bed rooms+hall,2184.0,240000.0,247500.0,-3.0,Person,New
-2026-09-14,48,PARK HEIGHTS II,3 bed rooms+hall,1610.0,200000.0,200000.0,0.0,Person,New
 2026-09-14,48,MAG EYE Phase 1,2 bed rooms+hall,1431.0,200000.0,160000.0,25.0,Person,New
+2026-09-14,48,PARK HEIGHTS II,3 bed rooms+hall,1610.0,200000.0,200000.0,0.0,Person,New
 2026-09-14,48,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1307.0,200000.0,192500.0,4.0,Authority,New
 2026-09-14,48,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1311.0,190000.0,192500.0,-1.0,Authority,Renew
 2026-09-14,48,MAG EYE Phase 1,3 bed rooms+hall,1479.0,187000.0,200000.0,-7.0,Authority,New
@@ -1228,8 +1228,8 @@
 2026-09-14,48,MULBERRY at PARK HEIGHTS,3 bed rooms+hall,1945.0,182160.0,299171.27,-39.0,Person,Renew
 2026-09-14,48,Park Point,2 bed rooms+hall,874.0,150000.0,145000.0,3.0,Authority,New
 2026-09-14,48,MAG EYE Phase 1,2 bed rooms+hall,1187.0,140000.0,160000.0,-13.0,Authority,Renew
-2026-09-14,48,PARK HEIGHTS II,2 bed rooms+hall,955.0,135000.0,138000.0,-2.0,Authority,New
 2026-09-14,48,Park Heights I,2 bed rooms+hall,1076.0,135000.0,135000.0,0.0,Authority,Renew
+2026-09-14,48,PARK HEIGHTS II,2 bed rooms+hall,955.0,135000.0,138000.0,-2.0,Authority,New
 2026-09-14,48,Golf ville,2 bed rooms+hall,1217.0,131000.0,114897.495,14.0,Authority,New
 2026-09-14,48,MULBERRY at PARK HEIGHTS,1bed room+Hall,871.0,130000.0,125000.0,4.0,Authority,Renew
 2026-09-14,48,MULBERRY at PARK HEIGHTS,1bed room+Hall,871.0,120000.0,125000.0,-4.0,Authority,New
@@ -1241,9 +1241,9 @@
 2026-09-14,48,MAG EYE Phase 1,1bed room+Hall,797.0,90000.0,85000.0,6.0,Authority,New
 2026-09-14,48,MULBERRY at PARK HEIGHTS,1bed room+Hall,871.0,88550.0,125000.0,-29.0,Person,Renew
 2026-09-14,48,MAG EYE Phase 1,Studio,805.0,85000.0,57000.0,49.0,Person,New
-2026-09-14,48,MAG EYE Phase 1,1bed room+Hall,750.0,80000.0,85000.0,-6.0,Person,New
 2026-09-14,48,Collective,1bed room+Hall,488.0,80000.0,82000.0,-2.0,Person,New
 2026-09-14,48,PARK HEIGHTS II,1bed room+Hall,657.0,80000.0,90000.0,-11.0,Person,Renew
+2026-09-14,48,MAG EYE Phase 1,1bed room+Hall,750.0,80000.0,85000.0,-6.0,Person,New
 2026-09-14,48,PARK HEIGHTS II,1bed room+Hall,645.0,67996.8,90000.0,-24.0,Person,Renew
 2026-09-14,48,MAG EYE Phase 1,Studio,396.0,57000.0,57000.0,0.0,Person,New
 2026-09-14,48,MAG EYE Phase 1,Studio,408.0,55000.0,57000.0,-4.0,Authority,New
@@ -1266,8 +1266,8 @@
 2026-09-15,49,ACACIA AT PARK HEIGHTS,1bed room+Hall,964.0,110000.0,125000.0,-12.0,Person,New
 2026-09-15,49,PARK HEIGHTS II,1bed room+Hall,645.0,100000.0,90000.0,11.0,Person,New
 2026-09-15,49,Collective,2 bed rooms+hall,723.0,99000.0,113750.0,-13.0,Person,Renew
-2026-09-15,49,Park Point,1bed room+Hall,700.0,90000.0,95000.0,-5.0,Authority,Renew
 2026-09-15,49,Prive Residence,1bed room+Hall,665.0,90000.0,105000.0,-14.0,Authority,Renew
+2026-09-15,49,Park Point,1bed room+Hall,700.0,90000.0,95000.0,-5.0,Authority,Renew
 2026-09-15,49,Park Point,1bed room+Hall,696.0,87000.0,95000.0,-8.0,Person,Renew
 2026-09-15,49,PARK HEIGHTS II,1bed room+Hall,645.0,85000.0,90000.0,-6.0,Person,Renew
 2026-09-15,49,Collective,1bed room+Hall,491.0,85000.0,82000.0,4.0,Person,New
@@ -1311,11 +1311,11 @@
 2026-09-18,52,Golf ville,1bed room+Hall,496.0,75000.0,75000.0,0.0,Person,New
 2026-09-18,52,MAG EYE Phase 1,Studio,416.0,49861.5,57000.0,-13.0,Person,New
 2026-09-19,53,Sidra 2,3 bed rooms+hall,4542.0,600000.0,375000.0,60.0,Person,New
-2026-09-19,53,ELLINGTON HOUSE,3 bed rooms+hall,1740.0,350000.0,430000.0,-19.0,Person,New
 2026-09-19,53,Sidra 2,3 bed rooms+hall,4419.0,350000.0,375000.0,-7.0,Person,Renew
+2026-09-19,53,ELLINGTON HOUSE,3 bed rooms+hall,1740.0,350000.0,430000.0,-19.0,Person,New
+2026-09-19,53,MAPLE 2,5 bed rooms+hall,3237.0,335000.0,310000.0,8.0,Authority,New
 2026-09-19,53,MAPLE,5 bed rooms+hall,3185.0,335000.0,320000.0,5.0,Authority,New
 2026-09-19,53,Sidra 2,3 bed rooms+hall,4352.0,335000.0,375000.0,-11.0,Person,Renew
-2026-09-19,53,MAPLE 2,5 bed rooms+hall,3237.0,335000.0,310000.0,8.0,Authority,New
 2026-09-19,53,MAPLE,5 bed rooms+hall,3195.0,323000.0,320000.0,1.0,Person,New
 2026-09-19,53,MAG EYE Phase 1,3 bed rooms+hall,3510.0,300000.0,200000.0,50.0,Person,New
 2026-09-19,53,Maple III,4 bed rooms+hall,3556.0,300000.0,280000.0,7.0,Person,Renew
@@ -1330,9 +1330,9 @@
 2026-09-19,53,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1315.0,170000.0,200000.0,-15.0,Authority,New
 2026-09-19,53,PARK RIDGE,2 bed rooms+hall,1003.0,167000.0,165000.0,1.0,Authority,New
 2026-09-19,53,Golf Suites - Dubai Hills,2 bed rooms+hall,1118.0,160000.0,170000.0,-6.0,Authority,Renew
-2026-09-19,53,MAG EYE Phase 1,2 bed rooms+hall,1411.0,150000.0,160000.0,-6.0,Person,Renew
-2026-09-19,53,MAG EYE Phase 1,2 bed rooms+hall,1203.0,150000.0,160000.0,-6.0,Authority,Renew
 2026-09-19,53,PARK RIDGE,2 bed rooms+hall,1004.0,150000.0,165000.0,-9.0,Authority,New
+2026-09-19,53,MAG EYE Phase 1,2 bed rooms+hall,1203.0,150000.0,160000.0,-6.0,Authority,Renew
+2026-09-19,53,MAG EYE Phase 1,2 bed rooms+hall,1411.0,150000.0,160000.0,-6.0,Person,Renew
 2026-09-19,53,MAG EYE Phase 1,2 bed rooms+hall,1187.0,145000.0,160000.0,-9.0,Authority,Renew
 2026-09-19,53,Park Heights I,2 bed rooms+hall,1075.0,145000.0,135000.0,7.0,Authority,Renew
 2026-09-19,53,MAG EYE Phase 1,2 bed rooms+hall,1187.0,141750.0,160000.0,-11.0,Person,Renew
@@ -1342,8 +1342,8 @@
 2026-09-19,53,Golf Suites - Dubai Hills,1bed room+Hall,722.0,125000.0,105000.0,19.0,Person,Renew
 2026-09-19,53,Golf Suites - Dubai Hills,Shop,685.0,118143.33,,,Authority,New
 2026-09-19,53,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1323.0,115200.0,200000.0,-42.0,Person,Renew
-2026-09-19,53,Golf ville,2 bed rooms+hall,746.0,115000.0,114897.495,0.0,Authority,New
 2026-09-19,53,MULBERRY at PARK HEIGHTS,1bed room+Hall,867.0,115000.0,125000.0,-8.0,Authority,Renew
+2026-09-19,53,Golf ville,2 bed rooms+hall,746.0,115000.0,114897.495,0.0,Authority,New
 2026-09-19,53,Collective 2.0,2 bed rooms+hall,741.0,110000.0,120000.0,-8.0,Person,New
 2026-09-19,53,Prive Residence,1bed room+Hall,669.0,108000.0,105000.0,3.0,Person,New
 2026-09-19,53,PARK RIDGE,1bed room+Hall,647.0,100000.0,100000.0,0.0,Person,New
@@ -1358,8 +1358,8 @@
 2026-09-19,53,MAG EYE Phase 1,Studio,411.0,52000.0,57000.0,-9.0,Authority,New
 2026-09-20,54,Dubai Hills Estate,Shop,1164.0,465776.0,,,Authority,New
 2026-09-20,54,MAPLE,5 bed rooms+hall,3204.0,320000.0,320000.0,0.0,Person,New
-2026-09-20,54,SIDRA,4 bed rooms+hall,4631.0,300000.0,450000.0,-33.0,Authority,Renew
 2026-09-20,54,MULBERRY at PARK HEIGHTS,3 bed rooms+hall,1953.0,300000.0,299171.27,0.0,Authority,Renew
+2026-09-20,54,SIDRA,4 bed rooms+hall,4631.0,300000.0,450000.0,-33.0,Authority,Renew
 2026-09-20,54,Golf Suites - Dubai Hills,Shop,1675.0,292184.33,,,Authority,New
 2026-09-20,54,Golf Suites - Dubai Hills,Shop,1675.0,292184.33,,,Authority,New
 2026-09-20,54,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1548.0,235000.0,200000.0,18.0,Authority,New
@@ -1382,8 +1382,8 @@
 2026-09-21,55,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1359.0,200000.0,192500.0,4.0,Person,New
 2026-09-21,55,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1184.0,180000.0,200000.0,-10.0,Person,New
 2026-09-21,55,ELLINGTON HOUSE,1bed room+Hall,794.0,155000.0,155000.0,0.0,Person,New
-2026-09-21,55,MULBERRY at PARK HEIGHTS,1bed room+Hall,990.0,135000.0,125000.0,8.0,Authority,Renew
 2026-09-21,55,Collective,2 bed rooms+hall,741.0,135000.0,113750.0,19.0,Authority,Renew
+2026-09-21,55,MULBERRY at PARK HEIGHTS,1bed room+Hall,990.0,135000.0,125000.0,8.0,Authority,Renew
 2026-09-21,55,ACACIA AT PARK HEIGHTS,1bed room+Hall,729.0,120000.0,125000.0,-4.0,Authority,New
 2026-09-21,55,Golf Suites - Dubai Hills,1bed room+Hall,716.0,105000.0,105000.0,0.0,Authority,New
 2026-09-21,55,Collective,1bed room+Hall,488.0,102000.0,82000.0,24.0,Person,Renew
@@ -1449,8 +1449,8 @@
 2026-09-24,58,Socio,2 bed rooms+hall,741.0,145000.0,125000.0,16.0,Authority,New
 2026-09-24,58,PARK HEIGHTS II,2 bed rooms+hall,1074.0,143000.0,138000.0,4.0,Authority,New
 2026-09-24,58,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1169.0,142000.0,200000.0,-29.0,Person,New
-2026-09-24,58,PARK RIDGE,2 bed rooms+hall,986.0,140000.0,165000.0,-15.0,Person,Renew
 2026-09-24,58,PARK HEIGHTS II,2 bed rooms+hall,959.0,140000.0,138000.0,1.0,Person,Renew
+2026-09-24,58,PARK RIDGE,2 bed rooms+hall,986.0,140000.0,165000.0,-15.0,Person,Renew
 2026-09-24,58,Socio,2 bed rooms+hall,720.0,140000.0,125000.0,12.0,Authority,New
 2026-09-24,58,Socio,2 bed rooms+hall,718.0,135000.0,125000.0,8.0,Authority,Renew
 2026-09-24,58,Socio,2 bed rooms+hall,722.0,131250.0,125000.0,5.0,Person,New
@@ -1466,8 +1466,8 @@
 2026-09-24,58,Collective,1bed room+Hall,484.0,75000.0,82000.0,-9.0,Person,Renew
 2026-09-24,58,PARK RIDGE,1bed room+Hall,669.0,70840.0,100000.0,-29.0,Authority,Renew
 2026-09-24,58,MAG EYE Phase 1,Studio,471.0,50000.0,57000.0,-12.0,Authority,New
-2026-09-25,59,ACACIA AT PARK HEIGHTS,3 bed rooms+hall,2299.0,450000.0,277500.0,62.0,Authority,New
 2026-09-25,59,Sidra 2,4 bed rooms+hall,4576.0,450000.0,460000.0,-2.0,Authority,Renew
+2026-09-25,59,ACACIA AT PARK HEIGHTS,3 bed rooms+hall,2299.0,450000.0,277500.0,62.0,Authority,New
 2026-09-25,59,Golf Grove,3 bed rooms+hall,4163.0,390000.0,400000.0,-3.0,Authority,New
 2026-09-25,59,Maple III,5 bed rooms+hall,3348.0,340000.0,340000.0,0.0,Authority,New
 2026-09-25,59,MAPLE,4 bed rooms+hall,2169.0,300000.0,280000.0,7.0,Authority,New
@@ -1481,11 +1481,11 @@
 2026-09-25,59,PARK HEIGHTS II,2 bed rooms+hall,1088.0,145000.0,138000.0,5.0,Person,New
 2026-09-25,59,PARK RIDGE,2 bed rooms+hall,1000.0,137812.5,165000.0,-16.0,Authority,Renew
 2026-09-25,59,MULBERRY at PARK HEIGHTS,1bed room+Hall,917.0,125000.0,125000.0,0.0,Person,New
-2026-09-25,59,Dubai Hills Estate,1bed room+Hall,737.0,120000.0,,,Authority,New
 2026-09-25,59,ACACIA AT PARK HEIGHTS,1bed room+Hall,918.0,120000.0,125000.0,-4.0,Authority,New
+2026-09-25,59,Dubai Hills Estate,1bed room+Hall,737.0,120000.0,,,Authority,New
 2026-09-25,59,PARK RIDGE,1bed room+Hall,639.0,92000.0,100000.0,-8.0,Person,New
-2026-09-25,59,MULBERRY at PARK HEIGHTS,1bed room+Hall,916.0,90000.0,125000.0,-28.0,Person,Renew
 2026-09-25,59,MAG EYE Phase 1,1bed room+Hall,797.0,90000.0,85000.0,6.0,Person,New
+2026-09-25,59,MULBERRY at PARK HEIGHTS,1bed room+Hall,916.0,90000.0,125000.0,-28.0,Person,Renew
 2026-09-25,59,Collective,1bed room+Hall,476.0,75000.0,82000.0,-9.0,Person,Renew
 2026-09-25,59,Collective 2.0,1bed room+Hall,496.0,69575.0,85000.0,-18.0,Person,New
 2026-09-25,59,MAG EYE Phase 1,Studio,418.0,60000.0,57000.0,5.0,Authority,New
@@ -1506,8 +1506,8 @@
 2026-09-26,60,Collective 2.0,1bed room+Hall,486.0,75000.0,85000.0,-12.0,Person,New
 2026-09-26,60,Golf ville,1bed room+Hall,500.0,73500.0,75000.0,-2.0,Person,Renew
 2026-09-26,60,Golf ville,1bed room+Hall,507.0,69000.0,75000.0,-8.0,Person,New
-2026-09-26,60,Dubai Hills Estate,Studio,385.0,60000.0,,,Person,New
 2026-09-26,60,MAG EYE Phase 1,Studio,397.0,60000.0,57000.0,5.0,Authority,New
+2026-09-26,60,Dubai Hills Estate,Studio,385.0,60000.0,,,Person,New
 2026-09-26,60,MAG EYE Phase 1,Studio,466.0,50000.0,57000.0,-12.0,Person,Renew
 2026-09-27,61,Park Point,2 bed rooms+hall,1373.0,175000.0,145000.0,21.0,Person,Renew
 2026-09-27,61,ACACIA AT PARK HEIGHTS,1bed room+Hall,923.0,105000.0,125000.0,-16.0,Person,Renew
@@ -1519,17 +1519,17 @@
 2026-09-28,62,PARK RIDGE,2 bed rooms+hall,994.0,177500.0,165000.0,8.0,Person,Renew
 2026-09-28,62,PARK RIDGE,2 bed rooms+hall,1286.0,175000.0,165000.0,6.0,Authority,Renew
 2026-09-28,62,PARK HEIGHTS II,3 bed rooms+hall,1612.0,156975.0,200000.0,-22.0,Person,Renew
+2026-09-28,62,ACACIA AT PARK HEIGHTS,1bed room+Hall,908.0,120000.0,125000.0,-4.0,Person,New
+2026-09-28,62,ACACIA AT PARK HEIGHTS,1bed room+Hall,908.0,120000.0,125000.0,-4.0,Person,New
 2026-09-28,62,Prive Residence,1bed room+Hall,701.0,120000.0,105000.0,14.0,Person,New
-2026-09-28,62,ACACIA AT PARK HEIGHTS,1bed room+Hall,908.0,120000.0,125000.0,-4.0,Person,New
-2026-09-28,62,ACACIA AT PARK HEIGHTS,1bed room+Hall,908.0,120000.0,125000.0,-4.0,Person,New
 2026-09-28,62,MAG EYE Phase 1,Studio,418.0,55000.0,57000.0,-4.0,Authority,New
 2026-09-28,62,MAG EYE Phase 1,Studio,412.0,52000.0,57000.0,-9.0,Person,Renew
 2026-09-29,63,SIDRA,3 bed rooms+hall,4565.0,400000.0,389500.0,3.0,Person,New
 2026-09-29,63,SIDRA,3 bed rooms+hall,4305.0,375000.0,389500.0,-4.0,Person,New
 2026-09-29,63,Maple III,4 bed rooms+hall,3054.0,320000.0,280000.0,14.0,Authority,New
 2026-09-29,63,Maple III,4 bed rooms+hall,2942.0,280000.0,280000.0,0.0,Authority,New
-2026-09-29,63,MAPLE,4 bed rooms+hall,2175.0,260000.0,280000.0,-7.0,Authority,Renew
 2026-09-29,63,MAPLE,4 bed rooms+hall,2170.0,260000.0,280000.0,-7.0,Authority,New
+2026-09-29,63,MAPLE,4 bed rooms+hall,2175.0,260000.0,280000.0,-7.0,Authority,Renew
 2026-09-29,63,Park Point,3 bed rooms+hall,1640.0,220000.0,220000.0,0.0,Person,Renew
 2026-09-29,63,PARK HEIGHTS II,3 bed rooms+hall,1612.0,215000.0,200000.0,8.0,Person,Renew
 2026-09-29,63,Maple III,4 bed rooms+hall,3395.0,210000.0,280000.0,-25.0,Person,New
@@ -1537,22 +1537,22 @@
 2026-09-29,63,MAG EYE Phase 1,3 bed rooms+hall,1687.0,200000.0,200000.0,0.0,Authority,New
 2026-09-29,63,MAG EYE Phase 1,2 bed rooms+hall,1203.0,170000.0,160000.0,6.0,Person,New
 2026-09-29,63,ELLINGTON HOUSE,1bed room+Hall,890.0,170000.0,155000.0,10.0,Person,New
-2026-09-29,63,Park Point,2 bed rooms+hall,1083.0,150000.0,145000.0,3.0,Person,Renew
 2026-09-29,63,MAG EYE Phase 1,2 bed rooms+hall,1208.0,150000.0,160000.0,-6.0,Person,New
+2026-09-29,63,Park Point,2 bed rooms+hall,1083.0,150000.0,145000.0,3.0,Person,Renew
 2026-09-29,63,Socio,2 bed rooms+hall,743.0,150000.0,125000.0,20.0,Authority,Renew
-2026-09-29,63,Golf ville,2 bed rooms+hall,1217.0,140000.0,114897.495,22.0,Person,New
 2026-09-29,63,Collective 2.0,2 bed rooms+hall,725.0,140000.0,120000.0,17.0,Authority,New
+2026-09-29,63,Golf ville,2 bed rooms+hall,1217.0,140000.0,114897.495,22.0,Person,New
 2026-09-29,63,Golf ville,1bed room+Hall,507.0,127200.0,75000.0,70.0,Authority,New
 2026-09-29,63,PARK RIDGE,1bed room+Hall,649.0,124653.74,100000.0,25.0,Authority,New
-2026-09-29,63,Golf Suites - Dubai Hills,1bed room+Hall,716.0,115000.0,105000.0,10.0,Authority,Renew
 2026-09-29,63,Prive Residence,1bed room+Hall,660.0,115000.0,105000.0,10.0,Authority,New
+2026-09-29,63,Golf Suites - Dubai Hills,1bed room+Hall,716.0,115000.0,105000.0,10.0,Authority,Renew
 2026-09-29,63,PARK RIDGE,1bed room+Hall,655.0,110000.0,100000.0,10.0,Authority,New
 2026-09-29,63,Golf ville,2 bed rooms+hall,750.0,105000.0,114897.495,-9.0,Person,Renew
 2026-09-29,63,Collective 2.0,2 bed rooms+hall,731.0,100000.0,120000.0,-17.0,Person,New
-2026-09-29,63,PARK RIDGE,1bed room+Hall,652.0,90000.0,100000.0,-10.0,Person,New
-2026-09-29,63,Collective 2.0,1bed room+Hall,482.0,90000.0,85000.0,6.0,Authority,New
-2026-09-29,63,Collective 2.0,1bed room+Hall,488.0,90000.0,85000.0,6.0,Person,Renew
 2026-09-29,63,Collective 2.0,2 bed rooms+hall,736.0,90000.0,120000.0,-25.0,Person,Renew
+2026-09-29,63,Collective 2.0,1bed room+Hall,482.0,90000.0,85000.0,6.0,Authority,New
+2026-09-29,63,PARK RIDGE,1bed room+Hall,652.0,90000.0,100000.0,-10.0,Person,New
+2026-09-29,63,Collective 2.0,1bed room+Hall,488.0,90000.0,85000.0,6.0,Person,Renew
 2026-09-29,63,Collective 2.0,1bed room+Hall,492.0,87000.0,85000.0,2.0,Person,New
 2026-09-29,63,Collective 2.0,1bed room+Hall,474.0,85000.0,85000.0,0.0,Person,New
 2026-09-29,63,ACACIA AT PARK HEIGHTS,1bed room+Hall,910.0,82500.0,125000.0,-34.0,Person,Renew
@@ -1566,8 +1566,8 @@
 2026-09-30,64,FAIRWAY VISTAS,6 bed rooms+hall,13537.0,1750000.0,2060800.0,-15.0,Person,New
 2026-09-30,64,SIDRA,4 bed rooms+hall,4781.0,520000.0,450000.0,16.0,Authority,New
 2026-09-30,64,Sidra 3,4 bed rooms+hall,6085.0,480000.0,475000.0,1.0,Authority,New
-2026-09-30,64,Sidra 3,4 bed rooms+hall,4660.0,460000.0,475000.0,-3.0,Person,New
 2026-09-30,64,Sidra 2,4 bed rooms+hall,4629.0,460000.0,460000.0,0.0,Authority,Renew
+2026-09-30,64,Sidra 3,4 bed rooms+hall,4660.0,460000.0,475000.0,-3.0,Person,New
 2026-09-30,64,Sidra 3,3 bed rooms+hall,4624.0,450000.0,380000.0,18.0,Person,New
 2026-09-30,64,SIDRA,4 bed rooms+hall,4739.0,440000.0,450000.0,-2.0,Person,Renew
 2026-09-30,64,ELLINGTON HOUSE,3 bed rooms+hall,1743.0,440000.0,430000.0,2.0,Authority,New
@@ -1585,21 +1585,21 @@
 2026-09-30,64,Maple III,4 bed rooms+hall,2980.0,325000.0,280000.0,16.0,Person,New
 2026-09-30,64,MAPLE 2,5 bed rooms+hall,3482.0,320000.0,310000.0,3.0,Authority,New
 2026-09-30,64,Maple III,4 bed rooms+hall,3022.0,310000.0,280000.0,11.0,Person,New
+2026-09-30,64,MAPLE,5 bed rooms+hall,2980.0,300000.0,320000.0,-6.0,Authority,Renew
 2026-09-30,64,THE GROVE BY IMAN,3 bed rooms+hall,1705.0,300000.0,340000.0,-12.0,Authority,New
 2026-09-30,64,ELLINGTON HOUSE,2 bed rooms+hall,1368.0,300000.0,275000.0,9.0,Authority,New
-2026-09-30,64,MAPLE,5 bed rooms+hall,2980.0,300000.0,320000.0,-6.0,Authority,Renew
 2026-09-30,64,Maple III,4 bed rooms+hall,2928.0,295000.0,280000.0,5.0,Person,Renew
 2026-09-30,64,MAPLE,4 bed rooms+hall,2968.0,290000.0,280000.0,4.0,Authority,Renew
-2026-09-30,64,MAPLE 2,4 bed rooms+hall,2169.0,290000.0,280000.0,4.0,Authority,New
 2026-09-30,64,MAPLE 2,4 bed rooms+hall,2897.0,290000.0,280000.0,4.0,Person,Renew
+2026-09-30,64,MAPLE 2,4 bed rooms+hall,2169.0,290000.0,280000.0,4.0,Authority,New
 2026-09-30,64,MAPLE,4 bed rooms+hall,3143.0,270000.0,280000.0,-4.0,Authority,Renew
 2026-09-30,64,MAPLE 2,4 bed rooms+hall,2982.0,260000.0,280000.0,-7.0,Person,New
 2026-09-30,64,Maple III,3 bed rooms+hall,2094.0,240000.0,247500.0,-3.0,Person,New
 2026-09-30,64,MAPLE 2,3 bed rooms+hall,2118.0,235000.0,245000.0,-4.0,Authority,New
-2026-09-30,64,MAG EYE Phase 1,3 bed rooms+hall,1460.0,220000.0,200000.0,10.0,Person,New
 2026-09-30,64,MAPLE 2,3 bed rooms+hall,2263.0,220000.0,245000.0,-10.0,Person,New
-2026-09-30,64,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1800.0,210000.0,200000.0,5.0,Authority,New
+2026-09-30,64,MAG EYE Phase 1,3 bed rooms+hall,1460.0,220000.0,200000.0,10.0,Person,New
 2026-09-30,64,PARK HEIGHTS II,3 bed rooms+hall,1610.0,210000.0,200000.0,5.0,Authority,New
+2026-09-30,64,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1800.0,210000.0,200000.0,5.0,Authority,New
 2026-09-30,64,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1361.0,200000.0,192500.0,4.0,Person,New
 2026-09-30,64,PARK HEIGHTS II,3 bed rooms+hall,1609.0,195000.0,200000.0,-3.0,Authority,Renew
 2026-09-30,64,MAG EYE Phase 1,3 bed rooms+hall,1734.0,190000.0,200000.0,-5.0,Person,Renew
@@ -1613,14 +1613,14 @@
 2026-09-30,64,ELLINGTON HOUSE,1bed room+Hall,843.0,160000.0,155000.0,3.0,Authority,New
 2026-09-30,64,Golf Suites - Dubai Hills,2 bed rooms+hall,1118.0,157000.0,170000.0,-8.0,Authority,Renew
 2026-09-30,64,Park Point,2 bed rooms+hall,940.0,153000.0,145000.0,6.0,Person,New
-2026-09-30,64,PARK RIDGE,2 bed rooms+hall,998.0,150000.0,165000.0,-9.0,Authority,New
-2026-09-30,64,ELLINGTON HOUSE,1bed room+Hall,793.0,150000.0,155000.0,-3.0,Authority,New
 2026-09-30,64,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1307.0,150000.0,192500.0,-22.0,Person,Renew
+2026-09-30,64,ELLINGTON HOUSE,1bed room+Hall,793.0,150000.0,155000.0,-3.0,Authority,New
 2026-09-30,64,MAG EYE Phase 1,2 bed rooms+hall,1200.0,150000.0,160000.0,-6.0,Authority,New
+2026-09-30,64,PARK RIDGE,2 bed rooms+hall,998.0,150000.0,165000.0,-9.0,Authority,New
 2026-09-30,64,MAG EYE Phase 1,2 bed rooms+hall,1349.0,147000.0,160000.0,-8.0,Person,Renew
-2026-09-30,64,ELLINGTON HOUSE,1bed room+Hall,794.0,145000.0,155000.0,-6.0,Authority,New
-2026-09-30,64,THE GROVE BY IMAN,1bed room+Hall,739.0,145000.0,135000.0,7.0,Authority,New
 2026-09-30,64,ACACIA AT PARK HEIGHTS,1bed room+Hall,1276.0,145000.0,125000.0,16.0,Person,New
+2026-09-30,64,THE GROVE BY IMAN,1bed room+Hall,739.0,145000.0,135000.0,7.0,Authority,New
+2026-09-30,64,ELLINGTON HOUSE,1bed room+Hall,794.0,145000.0,155000.0,-6.0,Authority,New
 2026-09-30,64,ACACIA AT PARK HEIGHTS,1bed room+Hall,899.0,140000.0,125000.0,12.0,Authority,New
 2026-09-30,64,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,2144.0,138000.0,200000.0,-31.0,Person,Renew
 2026-09-30,64,PARK HEIGHTS II,2 bed rooms+hall,956.0,135000.0,138000.0,-2.0,Authority,Renew
@@ -1629,21 +1629,21 @@
 2026-09-30,64,MULBERRY at PARK HEIGHTS,1bed room+Hall,915.0,130000.0,125000.0,4.0,Authority,Renew
 2026-09-30,64,PARK RIDGE,2 bed rooms+hall,1003.0,127500.0,165000.0,-23.0,Person,Renew
 2026-09-30,64,PARK RIDGE,1bed room+Hall,653.0,125000.0,100000.0,25.0,Authority,New
-2026-09-30,64,MULBERRY at PARK HEIGHTS,1bed room+Hall,915.0,120000.0,125000.0,-4.0,Person,Renew
+2026-09-30,64,Collective 2.0,1bed room+Hall,489.0,120000.0,85000.0,41.0,Person,New
 2026-09-30,64,Collective 2.0,2 bed rooms+hall,727.0,120000.0,120000.0,0.0,Authority,New
 2026-09-30,64,Golf Suites - Dubai Hills,1bed room+Hall,717.0,120000.0,105000.0,14.0,Authority,New
+2026-09-30,64,Golf ville,2 bed rooms+hall,768.0,120000.0,114897.495,4.0,Person,New
 2026-09-30,64,Prive Residence,1bed room+Hall,671.0,120000.0,105000.0,14.0,Authority,New
+2026-09-30,64,Golf Suites - Dubai Hills,1bed room+Hall,785.0,120000.0,105000.0,14.0,Authority,New
+2026-09-30,64,MULBERRY at PARK HEIGHTS,1bed room+Hall,915.0,120000.0,125000.0,-4.0,Person,Renew
 2026-09-30,64,Dubai Hills Estate,1bed room+Hall,914.0,120000.0,,,Authority,New
 2026-09-30,64,PARK RIDGE,1bed room+Hall,664.0,120000.0,100000.0,20.0,Authority,New
 2026-09-30,64,Socio,2 bed rooms+hall,743.0,120000.0,125000.0,-4.0,Person,New
-2026-09-30,64,Golf ville,2 bed rooms+hall,768.0,120000.0,114897.495,4.0,Person,New
-2026-09-30,64,Golf Suites - Dubai Hills,1bed room+Hall,785.0,120000.0,105000.0,14.0,Authority,New
-2026-09-30,64,Collective 2.0,1bed room+Hall,489.0,120000.0,85000.0,41.0,Person,New
 2026-09-30,64,Park Heights I,1bed room+Hall,645.0,115000.0,90000.0,28.0,Person,Renew
-2026-09-30,64,Collective 2.0,2 bed rooms+hall,722.0,110000.0,120000.0,-8.0,Authority,Renew
 2026-09-30,64,Collective,2 bed rooms+hall,743.0,110000.0,113750.0,-3.0,Person,New
-2026-09-30,64,PARK RIDGE,1bed room+Hall,669.0,105000.0,100000.0,5.0,Person,New
+2026-09-30,64,Collective 2.0,2 bed rooms+hall,722.0,110000.0,120000.0,-8.0,Authority,Renew
 2026-09-30,64,Golf Suites - Dubai Hills,1bed room+Hall,782.0,105000.0,105000.0,0.0,Authority,New
+2026-09-30,64,PARK RIDGE,1bed room+Hall,669.0,105000.0,100000.0,5.0,Person,New
 2026-09-30,64,PARK RIDGE,1bed room+Hall,653.0,105000.0,100000.0,5.0,Authority,Renew
 2026-09-30,64,PARK RIDGE,1bed room+Hall,641.0,104000.0,100000.0,4.0,Authority,Renew
 2026-09-30,64,ACACIA AT PARK HEIGHTS,1bed room+Hall,729.0,103000.0,125000.0,-18.0,Authority,New
@@ -1654,37 +1654,37 @@
 2026-09-30,64,Golf Suites - Dubai Hills,1bed room+Hall,785.0,94500.0,105000.0,-10.0,Person,Renew
 2026-09-30,64,Socio,1bed room+Hall,487.0,94000.0,85000.0,11.0,Authority,Renew
 2026-09-30,64,Collective,2 bed rooms+hall,746.0,93000.0,113750.0,-18.0,Authority,Renew
-2026-09-30,64,PARK RIDGE,1bed room+Hall,653.0,90000.0,100000.0,-10.0,Authority,New
-2026-09-30,64,MAG EYE Phase 1,1bed room+Hall,787.0,90000.0,85000.0,6.0,Person,New
-2026-09-30,64,Dubai Hills Estate,1bed room+Hall,752.0,90000.0,,,Authority,Renew
 2026-09-30,64,MULBERRY at PARK HEIGHTS,1bed room+Hall,915.0,90000.0,125000.0,-28.0,Authority,Renew
+2026-09-30,64,MAG EYE Phase 1,1bed room+Hall,787.0,90000.0,85000.0,6.0,Person,New
 2026-09-30,64,THE GROVE BY IMAN,Studio,414.0,90000.0,80000.0,13.0,Authority,New
+2026-09-30,64,Dubai Hills Estate,1bed room+Hall,752.0,90000.0,,,Authority,Renew
+2026-09-30,64,PARK RIDGE,1bed room+Hall,653.0,90000.0,100000.0,-10.0,Authority,New
 2026-09-30,64,MAG EYE Phase 1,1bed room+Hall,793.0,89000.0,85000.0,5.0,Authority,New
 2026-09-30,64,Park Point,1bed room+Hall,736.0,85808.22,95000.0,-10.0,Authority,New
-2026-09-30,64,Collective 2.0,1bed room+Hall,496.0,85000.0,85000.0,0.0,Authority,New
-2026-09-30,64,MAG EYE Phase 1,1bed room+Hall,793.0,85000.0,85000.0,0.0,Person,New
 2026-09-30,64,Collective 2.0,1bed room+Hall,480.0,85000.0,85000.0,0.0,Authority,Renew
-2026-09-30,64,MAG EYE Phase 1,1bed room+Hall,802.0,85000.0,85000.0,0.0,Authority,New
 2026-09-30,64,MAG EYE Phase 1,1bed room+Hall,793.0,85000.0,85000.0,0.0,Authority,New
+2026-09-30,64,MAG EYE Phase 1,1bed room+Hall,793.0,85000.0,85000.0,0.0,Person,New
+2026-09-30,64,Collective 2.0,1bed room+Hall,496.0,85000.0,85000.0,0.0,Authority,New
+2026-09-30,64,MAG EYE Phase 1,1bed room+Hall,802.0,85000.0,85000.0,0.0,Authority,New
 2026-09-30,64,ACACIA AT PARK HEIGHTS,1bed room+Hall,923.0,83000.0,125000.0,-34.0,Person,Renew
 2026-09-30,64,PARK RIDGE,1bed room+Hall,650.0,82685.0,100000.0,-17.0,Authority,Renew
 2026-09-30,64,MAG EYE Phase 1,1bed room+Hall,787.0,80000.0,85000.0,-6.0,Person,Renew
-2026-09-30,64,Prive Residence,Studio,418.0,80000.0,74896.12,7.0,Person,New
-2026-09-30,64,Collective,1bed room+Hall,476.0,80000.0,82000.0,-2.0,Authority,Renew
 2026-09-30,64,ACACIA AT PARK HEIGHTS,1bed room+Hall,988.0,80000.0,125000.0,-36.0,Person,Renew
+2026-09-30,64,Collective,1bed room+Hall,476.0,80000.0,82000.0,-2.0,Authority,Renew
+2026-09-30,64,Prive Residence,Studio,418.0,80000.0,74896.12,7.0,Person,New
 2026-09-30,64,Golf ville,1bed room+Hall,496.0,78000.0,75000.0,4.0,Authority,New
-2026-09-30,64,MAPLE,4 bed rooms+hall,3600.0,75000.0,280000.0,-73.0,Authority,Renew
-2026-09-30,64,Golf ville,1bed room+Hall,496.0,75000.0,75000.0,0.0,Authority,New
-2026-09-30,64,Collective,1bed room+Hall,491.0,75000.0,82000.0,-9.0,Person,New
 2026-09-30,64,Collective,1bed room+Hall,486.0,75000.0,82000.0,-9.0,Person,Renew
+2026-09-30,64,MAPLE,4 bed rooms+hall,3600.0,75000.0,280000.0,-73.0,Authority,Renew
+2026-09-30,64,Collective,1bed room+Hall,491.0,75000.0,82000.0,-9.0,Person,New
+2026-09-30,64,Golf ville,1bed room+Hall,496.0,75000.0,75000.0,0.0,Authority,New
 2026-09-30,64,Dubai Hills Estate,Studio,456.0,75000.0,,,Authority,New
 2026-09-30,64,Collective,1bed room+Hall,486.0,73657.5,82000.0,-10.0,Authority,Renew
 2026-09-30,64,MAG EYE Phase 1,Studio,396.0,62000.0,57000.0,9.0,Person,New
 2026-09-30,64,MAG EYE Phase 1,Studio,419.0,60000.0,57000.0,5.0,Authority,Renew
 2026-09-30,64,MAG EYE Phase 1,Studio,414.0,60000.0,57000.0,5.0,Authority,New
 2026-09-30,64,MAG EYE Phase 1,Studio,418.0,60000.0,57000.0,5.0,Authority,New
-2026-09-30,64,MAG EYE Phase 1,Studio,419.0,58000.0,57000.0,2.0,Person,New
 2026-09-30,64,MAG EYE Phase 1,Studio,394.0,58000.0,57000.0,2.0,Person,New
+2026-09-30,64,MAG EYE Phase 1,Studio,419.0,58000.0,57000.0,2.0,Person,New
 2026-09-30,64,MAG EYE Phase 1,Studio,394.0,55000.0,57000.0,-4.0,Person,New
 2026-09-30,64,MAG EYE Phase 1,Studio,414.0,54847.65,57000.0,-4.0,Authority,New
 2026-09-30,64,MAG EYE Phase 1,Studio,416.0,54000.0,57000.0,-5.0,Authority,New
@@ -1696,8 +1696,8 @@
 2026-10-01,65,ELLINGTON HOUSE,1bed room+Hall,866.0,160000.0,155000.0,3.0,Person,New
 2026-10-01,65,ELLINGTON HOUSE,1bed room+Hall,841.0,155000.0,155000.0,0.0,Authority,New
 2026-10-01,65,PARK RIDGE,2 bed rooms+hall,990.0,144000.0,165000.0,-13.0,Authority,Renew
-2026-10-01,65,PARK RIDGE,1bed room+Hall,647.0,110000.0,100000.0,10.0,Authority,New
 2026-10-01,65,Socio,2 bed rooms+hall,743.0,110000.0,125000.0,-12.0,Authority,New
+2026-10-01,65,PARK RIDGE,1bed room+Hall,647.0,110000.0,100000.0,10.0,Authority,New
 2026-10-01,65,Collective 2.0,1bed room+Hall,489.0,90000.0,85000.0,6.0,Authority,New
 2026-10-01,65,Collective,1bed room+Hall,474.0,75000.0,82000.0,-9.0,Authority,New
 2026-10-01,65,MAG EYE Phase 1,Studio,414.0,72000.0,57000.0,26.0,Person,New
@@ -1738,11 +1738,11 @@
 2026-10-03,67,MAG EYE Phase 1,2 bed rooms+hall,1187.0,160000.0,160000.0,0.0,Authority,New
 2026-10-03,67,MAG EYE Phase 1,2 bed rooms+hall,1187.0,155000.0,160000.0,-3.0,Authority,New
 2026-10-03,67,PARK RIDGE,2 bed rooms+hall,1002.0,154000.0,165000.0,-7.0,Person,New
-2026-10-03,67,Collective 2.0,2 bed rooms+hall,732.0,125000.0,120000.0,4.0,Person,New
 2026-10-03,67,Collective 2.0,2 bed rooms+hall,732.0,125000.0,120000.0,4.0,Authority,New
+2026-10-03,67,Collective 2.0,2 bed rooms+hall,732.0,125000.0,120000.0,4.0,Person,New
 2026-10-03,67,PARK RIDGE,1bed room+Hall,648.0,120000.0,100000.0,20.0,Authority,New
-2026-10-03,67,Park Point,1bed room+Hall,723.0,100000.0,95000.0,5.0,Authority,Renew
 2026-10-03,67,Prive Residence,1bed room+Hall,691.0,100000.0,105000.0,-5.0,Authority,New
+2026-10-03,67,Park Point,1bed room+Hall,723.0,100000.0,95000.0,5.0,Authority,Renew
 2026-10-03,67,THE GROVE BY IMAN,Studio,420.0,80000.0,80000.0,0.0,Authority,New
 2026-10-03,67,MAG EYE Phase 1,Studio,394.0,57000.0,57000.0,0.0,Person,New
 2026-10-03,67,MAG EYE Phase 1,Studio,413.0,55000.0,57000.0,-4.0,Authority,New
@@ -1763,11 +1763,11 @@
 2026-10-04,68,Dubai Hills Estate,1bed room+Hall,752.0,92000.0,,,Authority,New
 2026-10-04,68,ACACIA AT PARK HEIGHTS,1bed room+Hall,910.0,88600.0,125000.0,-29.0,Person,Renew
 2026-10-04,68,Prive Residence,1bed room+Hall,667.0,85000.0,105000.0,-19.0,Person,Renew
-2026-10-04,68,ACACIA AT PARK HEIGHTS,1bed room+Hall,983.0,80000.0,125000.0,-36.0,Person,Renew
 2026-10-04,68,ACACIA AT PARK HEIGHTS,1bed room+Hall,918.0,80000.0,125000.0,-36.0,Person,Renew
+2026-10-04,68,ACACIA AT PARK HEIGHTS,1bed room+Hall,983.0,80000.0,125000.0,-36.0,Person,Renew
 2026-10-04,68,Socio,1bed room+Hall,487.0,77000.0,85000.0,-9.0,Authority,New
-2026-10-04,68,MAG EYE Phase 1,Studio,417.0,55000.0,57000.0,-4.0,Person,New
 2026-10-04,68,MAG EYE Phase 1,Studio,394.0,55000.0,57000.0,-4.0,Authority,Renew
+2026-10-04,68,MAG EYE Phase 1,Studio,417.0,55000.0,57000.0,-4.0,Person,New
 2026-10-05,69,Sidra 2,5 bed rooms+hall,6051.0,925000.0,600000.0,54.0,Person,New
 2026-10-05,69,Sidra 3,4 bed rooms+hall,6276.0,650000.0,475000.0,37.0,Person,New
 2026-10-05,69,SIDRA,4 bed rooms+hall,4736.0,368445.0,450000.0,-18.0,Authority,Renew
@@ -1799,8 +1799,8 @@
 2026-10-06,70,Golf ville,1bed room+Hall,507.0,90000.0,75000.0,20.0,Authority,New
 2026-10-06,70,MAG EYE Phase 1,1bed room+Hall,803.0,85000.0,85000.0,0.0,Person,New
 2026-10-06,70,ACACIA AT PARK HEIGHTS,1bed room+Hall,952.0,83000.0,125000.0,-34.0,Person,Renew
-2026-10-06,70,Golf ville,1bed room+Hall,496.0,80000.0,75000.0,7.0,Authority,Renew
 2026-10-06,70,Golf ville,1bed room+Hall,500.0,80000.0,75000.0,7.0,Authority,New
+2026-10-06,70,Golf ville,1bed room+Hall,496.0,80000.0,75000.0,7.0,Authority,Renew
 2026-10-06,70,Dubai Hills Estate,1bed room+Hall,837.0,78750.0,,,Person,Renew
 2026-10-06,70,Socio,1bed room+Hall,486.0,78000.0,85000.0,-8.0,Person,New
 2026-10-06,70,Golf ville,1bed room+Hall,507.0,75000.0,75000.0,0.0,Person,New
@@ -1842,24 +1842,24 @@
 2026-10-09,73,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1362.0,330000.0,192500.0,71.0,Authority,New
 2026-10-09,73,Maple III,4 bed rooms+hall,3173.0,310000.0,280000.0,11.0,Authority,New
 2026-10-09,73,Maple III,4 bed rooms+hall,2265.0,300000.0,280000.0,7.0,Authority,New
-2026-10-09,73,MAPLE,4 bed rooms+hall,3126.0,290000.0,280000.0,4.0,Authority,Renew
 2026-10-09,73,MAG EYE Phase 1,4 bed rooms+hall,3486.0,290000.0,340000.0,-15.0,Person,Renew
+2026-10-09,73,MAPLE,4 bed rooms+hall,3126.0,290000.0,280000.0,4.0,Authority,Renew
 2026-10-09,73,MAPLE,4 bed rooms+hall,3120.0,285000.0,280000.0,2.0,Authority,New
 2026-10-09,73,Dubai Hills Estate,Office,3015.0,282925.51,,,Authority,New
-2026-10-09,73,MAPLE,4 bed rooms+hall,2175.0,280000.0,280000.0,0.0,Authority,Renew
 2026-10-09,73,MAPLE 2,4 bed rooms+hall,2168.0,280000.0,280000.0,0.0,Authority,Renew
+2026-10-09,73,MAPLE,4 bed rooms+hall,2175.0,280000.0,280000.0,0.0,Authority,Renew
 2026-10-09,73,MAPLE,4 bed rooms+hall,2172.0,270000.0,280000.0,-4.0,Authority,Renew
-2026-10-09,73,Maple III,4 bed rooms+hall,2259.0,265000.0,280000.0,-5.0,Authority,Renew
 2026-10-09,73,Maple III,3 bed rooms+hall,2094.0,265000.0,247500.0,7.0,Authority,Renew
+2026-10-09,73,Maple III,4 bed rooms+hall,2259.0,265000.0,280000.0,-5.0,Authority,Renew
 2026-10-09,73,MAPLE,3 bed rooms+hall,2094.0,250000.0,250000.0,0.0,Authority,Renew
 2026-10-09,73,Maple III,3 bed rooms+hall,2181.0,240000.0,247500.0,-3.0,Authority,Renew
 2026-10-09,73,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1318.0,220000.0,200000.0,10.0,Person,New
 2026-10-09,73,MAG EYE Phase 1,3 bed rooms+hall,2253.0,210000.0,200000.0,5.0,Person,New
-2026-10-09,73,PARK RIDGE,2 bed rooms+hall,987.0,200000.0,165000.0,21.0,Authority,New
 2026-10-09,73,MAG EYE Phase 1,2 bed rooms+hall,1411.0,200000.0,160000.0,25.0,Person,New
+2026-10-09,73,PARK RIDGE,2 bed rooms+hall,987.0,200000.0,165000.0,21.0,Authority,New
 2026-10-09,73,MAG EYE Phase 1,3 bed rooms+hall,1407.0,195000.0,200000.0,-3.0,Person,Renew
-2026-10-09,73,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1308.0,190000.0,192500.0,-1.0,Authority,New
 2026-10-09,73,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1350.0,190000.0,192500.0,-1.0,Person,New
+2026-10-09,73,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1308.0,190000.0,192500.0,-1.0,Authority,New
 2026-10-09,73,MAG EYE Phase 1,3 bed rooms+hall,1460.0,185000.0,200000.0,-8.0,Person,New
 2026-10-09,73,PARK RIDGE,2 bed rooms+hall,993.0,170000.0,165000.0,3.0,Person,New
 2026-10-09,73,PARK RIDGE,2 bed rooms+hall,995.0,165000.0,165000.0,0.0,Person,New
@@ -1877,8 +1877,8 @@
 2026-10-09,73,Park Heights I,1bed room+Hall,646.0,100000.0,90000.0,11.0,Authority,New
 2026-10-09,73,Park Heights I,1bed room+Hall,646.0,90000.0,90000.0,0.0,Person,New
 2026-10-09,73,PARK HEIGHTS II,1bed room+Hall,645.0,88000.0,90000.0,-2.0,Person,New
-2026-10-09,73,PARK HEIGHTS II,1bed room+Hall,645.0,85000.0,90000.0,-6.0,Authority,Renew
 2026-10-09,73,Collective,1bed room+Hall,476.0,85000.0,82000.0,4.0,Person,Renew
+2026-10-09,73,PARK HEIGHTS II,1bed room+Hall,645.0,85000.0,90000.0,-6.0,Authority,Renew
 2026-10-09,73,THE GROVE BY IMAN,Studio,417.0,80000.0,80000.0,0.0,Authority,New
 2026-10-09,73,Collective 2.0,Studio,477.0,75000.0,,,Person,New
 2026-10-09,73,Collective,1bed room+Hall,488.0,73000.0,82000.0,-11.0,Person,Renew
@@ -1904,13 +1904,13 @@
 2026-10-11,75,PARK RIDGE,1bed room+Hall,654.0,145000.0,100000.0,45.0,Authority,New
 2026-10-11,75,MAG EYE Phase 1,2 bed rooms+hall,1411.0,145000.0,160000.0,-9.0,Person,New
 2026-10-11,75,Socio,2 bed rooms+hall,724.0,135000.0,125000.0,8.0,Authority,New
-2026-10-11,75,THE GROVE BY IMAN,1bed room+Hall,739.0,120000.0,135000.0,-11.0,Person,New
 2026-10-11,75,Collective 2.0,2 bed rooms+hall,727.0,120000.0,120000.0,0.0,Person,New
+2026-10-11,75,THE GROVE BY IMAN,1bed room+Hall,739.0,120000.0,135000.0,-11.0,Person,New
 2026-10-11,75,Collective 2.0,2 bed rooms+hall,732.0,115000.0,120000.0,-4.0,Person,New
 2026-10-11,75,Collective,1bed room+Hall,483.0,105000.0,82000.0,28.0,Person,New
 2026-10-11,75,Park Point,1bed room+Hall,867.0,100000.0,95000.0,5.0,Person,New
-2026-10-11,75,Prive Residence,1bed room+Hall,667.0,90000.0,105000.0,-14.0,Authority,New
 2026-10-11,75,PARK RIDGE,1bed room+Hall,655.0,90000.0,100000.0,-10.0,Person,Renew
+2026-10-11,75,Prive Residence,1bed room+Hall,667.0,90000.0,105000.0,-14.0,Authority,New
 2026-10-11,75,Golf ville,2 bed rooms+hall,740.0,88000.0,114897.495,-23.0,Person,Renew
 2026-10-11,75,PARK HEIGHTS II,1bed room+Hall,645.0,87000.0,90000.0,-3.0,Authority,New
 2026-10-11,75,ACACIA AT PARK HEIGHTS,1bed room+Hall,921.0,86900.0,125000.0,-30.0,Person,Renew
@@ -1935,8 +1935,8 @@
 2026-10-13,77,MAG EYE Phase 1,3 bed rooms+hall,1736.0,190000.0,200000.0,-5.0,Person,New
 2026-10-13,77,PARK RIDGE,2 bed rooms+hall,1281.0,160000.0,165000.0,-3.0,Person,Renew
 2026-10-13,77,PARK RIDGE,2 bed rooms+hall,995.0,140000.0,165000.0,-15.0,Person,Renew
-2026-10-13,77,Collective,2 bed rooms+hall,746.0,110000.0,113750.0,-3.0,Person,Renew
 2026-10-13,77,Collective 2.0,2 bed rooms+hall,756.0,110000.0,120000.0,-8.0,Person,Renew
+2026-10-13,77,Collective,2 bed rooms+hall,746.0,110000.0,113750.0,-3.0,Person,Renew
 2026-10-13,77,PARK RIDGE,1bed room+Hall,646.0,100000.0,100000.0,0.0,Person,Renew
 2026-10-13,77,PARK RIDGE,1bed room+Hall,655.0,91000.0,100000.0,-9.0,Person,New
 2026-10-13,77,THE GROVE BY IMAN,Studio,483.0,80000.0,80000.0,0.0,Person,New
@@ -1955,26 +1955,26 @@
 2026-10-14,78,ACACIA AT PARK HEIGHTS,3 bed rooms+hall,1376.0,250000.0,277500.0,-10.0,,New
 2026-10-14,78,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1678.0,240000.0,200000.0,20.0,Person,New
 2026-10-14,78,Golf Suites - Dubai Hills,2 bed rooms+hall,1206.0,230000.0,170000.0,35.0,Authority,New
-2026-10-14,78,MAG EYE Phase 1,3 bed rooms+hall,1742.0,220000.0,200000.0,10.0,Authority,New
 2026-10-14,78,THE GROVE BY IMAN,2 bed rooms+hall,1280.0,220000.0,220000.0,0.0,Person,New
-2026-10-14,78,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1362.0,200000.0,192500.0,4.0,Authority,New
+2026-10-14,78,MAG EYE Phase 1,3 bed rooms+hall,1742.0,220000.0,200000.0,10.0,Authority,New
 2026-10-14,78,MAG EYE Phase 1,3 bed rooms+hall,1691.0,200000.0,200000.0,0.0,Authority,New
+2026-10-14,78,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1362.0,200000.0,192500.0,4.0,Authority,New
 2026-10-14,78,MAG EYE Phase 1,3 bed rooms+hall,1460.0,195000.0,200000.0,-3.0,Authority,New
 2026-10-14,78,MAG EYE Phase 1,3 bed rooms+hall,1460.0,180000.0,200000.0,-10.0,Authority,Renew
 2026-10-14,78,MAG EYE Phase 1,3 bed rooms+hall,1392.0,180000.0,200000.0,-10.0,Person,New
 2026-10-14,78,MAG EYE Phase 1,3 bed rooms+hall,1460.0,176000.0,200000.0,-12.0,,Renew
 2026-10-14,78,MAG EYE Phase 1,2 bed rooms+hall,1411.0,170000.0,160000.0,6.0,Authority,Renew
-2026-10-14,78,MAG EYE Phase 1,2 bed rooms+hall,1203.0,160000.0,160000.0,0.0,Person,New
 2026-10-14,78,MAG EYE Phase 1,2 bed rooms+hall,1411.0,160000.0,160000.0,0.0,Authority,New
+2026-10-14,78,MAG EYE Phase 1,2 bed rooms+hall,1203.0,160000.0,160000.0,0.0,Person,New
 2026-10-14,78,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1767.0,150000.0,200000.0,-25.0,Person,Renew
 2026-10-14,78,PARK HEIGHTS II,2 bed rooms+hall,959.0,147000.0,138000.0,7.0,Person,New
 2026-10-14,78,MAG EYE Phase 1,2 bed rooms+hall,1187.0,147000.0,160000.0,-8.0,Person,Renew
 2026-10-14,78,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1861.0,142500.0,200000.0,-29.0,Person,Renew
 2026-10-14,78,MAG EYE Phase 1,2 bed rooms+hall,1200.0,141750.0,160000.0,-11.0,Authority,Renew
 2026-10-14,78,Park Heights I,2 bed rooms+hall,959.0,140000.0,135000.0,4.0,Person,New
-2026-10-14,78,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1573.0,135000.0,192500.0,-30.0,Person,New
-2026-10-14,78,Park Point,2 bed rooms+hall,1014.0,135000.0,145000.0,-7.0,Person,New
 2026-10-14,78,MULBERRY at PARK HEIGHTS,1bed room+Hall,916.0,135000.0,125000.0,8.0,Person,New
+2026-10-14,78,Park Point,2 bed rooms+hall,1014.0,135000.0,145000.0,-7.0,Person,New
+2026-10-14,78,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1573.0,135000.0,192500.0,-30.0,Person,New
 2026-10-14,78,MAG EYE Phase 1,2 bed rooms+hall,1200.0,135000.0,160000.0,-16.0,Person,Renew
 2026-10-14,78,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1586.0,134200.0,200000.0,-33.0,Person,Renew
 2026-10-14,78,Park Field,1bed room+Hall,647.0,127000.0,115000.0,10.0,Authority,New
@@ -2016,8 +2016,8 @@
 2026-10-16,80,MAPLE 2,4 bed rooms+hall,2959.0,280000.0,280000.0,0.0,Person,New
 2026-10-16,80,MULBERRY at PARK HEIGHTS,3 bed rooms+hall,1958.0,235000.0,299171.27,-21.0,Person,Renew
 2026-10-16,80,PARK RIDGE,2 bed rooms+hall,1011.0,190000.0,165000.0,15.0,Authority,New
-2026-10-16,80,MAG EYE Phase 1,3 bed rooms+hall,1474.0,180000.0,200000.0,-10.0,Person,New
 2026-10-16,80,PARK RIDGE,2 bed rooms+hall,1404.0,180000.0,165000.0,9.0,Authority,New
+2026-10-16,80,MAG EYE Phase 1,3 bed rooms+hall,1474.0,180000.0,200000.0,-10.0,Person,New
 2026-10-16,80,Golf Suites - Dubai Hills,2 bed rooms+hall,1118.0,173250.0,170000.0,2.0,Person,Renew
 2026-10-16,80,PARK RIDGE,2 bed rooms+hall,995.0,170000.0,165000.0,3.0,Authority,Renew
 2026-10-16,80,Golf Suites - Dubai Hills,2 bed rooms+hall,1208.0,165000.0,170000.0,-3.0,Authority,Renew
@@ -2027,8 +2027,8 @@
 2026-10-16,80,Socio,2 bed rooms+hall,739.0,135000.0,125000.0,8.0,Person,New
 2026-10-16,80,MULBERRY at PARK HEIGHTS,1bed room+Hall,871.0,132000.0,125000.0,6.0,Person,Renew
 2026-10-16,80,Golf ville,2 bed rooms+hall,768.0,100000.0,114897.495,-13.0,Person,New
-2026-10-16,80,MAG EYE Phase 1,1bed room+Hall,805.0,90000.0,85000.0,6.0,Person,Renew
 2026-10-16,80,Park Heights I,1bed room+Hall,646.0,90000.0,90000.0,0.0,Authority,New
+2026-10-16,80,MAG EYE Phase 1,1bed room+Hall,805.0,90000.0,85000.0,6.0,Person,Renew
 2026-10-16,80,Collective,1bed room+Hall,476.0,85000.0,82000.0,4.0,Person,New
 2026-10-16,80,MAG EYE Phase 1,1bed room+Hall,871.0,82000.0,85000.0,-4.0,Person,New
 2026-10-16,80,Collective,1bed room+Hall,483.0,80000.0,82000.0,-2.0,Person,New
@@ -2039,20 +2039,20 @@
 2026-10-17,81,Dubai Hills Estate,1bed room+Hall,767.0,150000.0,,,Authority,New
 2026-10-17,81,PARK HEIGHTS II,2 bed rooms+hall,1074.0,140000.0,138000.0,1.0,Authority,New
 2026-10-17,81,PARK HEIGHTS II,2 bed rooms+hall,957.0,135000.0,138000.0,-2.0,Person,New
-2026-10-17,81,PARK HEIGHTS II,2 bed rooms+hall,958.0,120000.0,138000.0,-13.0,Person,Renew
 2026-10-17,81,Collective 2.0,2 bed rooms+hall,736.0,120000.0,120000.0,0.0,Person,New
 2026-10-17,81,Socio,2 bed rooms+hall,741.0,120000.0,125000.0,-4.0,Authority,New
-2026-10-17,81,Golf ville,2 bed rooms+hall,752.0,110000.0,114897.495,-4.0,Authority,Renew
+2026-10-17,81,PARK HEIGHTS II,2 bed rooms+hall,958.0,120000.0,138000.0,-13.0,Person,Renew
 2026-10-17,81,MULBERRY at PARK HEIGHTS,1bed room+Hall,916.0,110000.0,125000.0,-12.0,Authority,Renew
+2026-10-17,81,Golf ville,2 bed rooms+hall,752.0,110000.0,114897.495,-4.0,Authority,Renew
 2026-10-17,81,Prive Residence,1bed room+Hall,667.0,107000.0,105000.0,2.0,Authority,New
 2026-10-17,81,PARK RIDGE,1bed room+Hall,881.0,100000.0,100000.0,0.0,Person,New
-2026-10-17,81,Socio,1bed room+Hall,474.0,95000.0,85000.0,12.0,Authority,New
 2026-10-17,81,Park Heights I,1bed room+Hall,649.0,95000.0,90000.0,6.0,Authority,Renew
+2026-10-17,81,Socio,1bed room+Hall,474.0,95000.0,85000.0,12.0,Authority,New
 2026-10-17,81,MULBERRY at PARK HEIGHTS,1bed room+Hall,871.0,92400.0,125000.0,-26.0,Person,Renew
 2026-10-17,81,Collective,1bed room+Hall,476.0,90000.0,82000.0,10.0,Authority,New
 2026-10-17,81,Socio,1bed room+Hall,484.0,86000.0,85000.0,1.0,Person,New
-2026-10-17,81,PARK HEIGHTS II,1bed room+Hall,657.0,85000.0,90000.0,-6.0,Authority,Renew
 2026-10-17,81,Collective 2.0,1bed room+Hall,479.0,85000.0,85000.0,0.0,Authority,New
+2026-10-17,81,PARK HEIGHTS II,1bed room+Hall,657.0,85000.0,90000.0,-6.0,Authority,Renew
 2026-10-17,81,THE GROVE BY IMAN,Studio,420.0,80000.0,80000.0,0.0,Authority,New
 2026-10-17,81,Golf ville,1bed room+Hall,507.0,75000.0,75000.0,0.0,Authority,New
 2026-10-17,81,THE GROVE BY IMAN,Studio,415.0,75000.0,80000.0,-6.0,Authority,New
@@ -2071,8 +2071,8 @@
 2026-10-18,82,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1410.0,142600.0,200000.0,-29.0,Person,Renew
 2026-10-18,82,Golf ville,2 bed rooms+hall,752.0,115000.0,114897.495,0.0,Authority,Renew
 2026-10-18,82,Golf ville,2 bed rooms+hall,743.0,105000.0,114897.495,-9.0,Authority,New
-2026-10-18,82,MAG EYE Phase 1,1bed room+Hall,751.0,85000.0,85000.0,0.0,Person,New
 2026-10-18,82,Collective 2.0,1bed room+Hall,486.0,85000.0,85000.0,0.0,Authority,New
+2026-10-18,82,MAG EYE Phase 1,1bed room+Hall,751.0,85000.0,85000.0,0.0,Person,New
 2026-10-18,82,Park Point,1bed room+Hall,656.0,80000.0,95000.0,-16.0,Person,Renew
 2026-10-19,83,Golf Grove,4 bed rooms+hall,3791.0,700000.0,450000.0,56.0,Authority,New
 2026-10-19,83,SIDRA,4 bed rooms+hall,4757.0,470000.0,450000.0,4.0,Authority,New
@@ -2095,16 +2095,16 @@
 2026-10-19,83,MAG EYE Phase 1,2 bed rooms+hall,1424.0,153000.0,160000.0,-4.0,Person,New
 2026-10-19,83,Socio,2 bed rooms+hall,722.0,145000.0,125000.0,16.0,Person,New
 2026-10-19,83,Dubai Hills Estate,2 bed rooms+hall,1045.0,143000.0,,,Authority,New
-2026-10-19,83,Park Heights I,2 bed rooms+hall,1089.0,140000.0,135000.0,4.0,Authority,Renew
 2026-10-19,83,Park Heights I,2 bed rooms+hall,959.0,140000.0,135000.0,4.0,Authority,New
-2026-10-19,83,PARK RIDGE,1bed room+Hall,653.0,110000.0,100000.0,10.0,Person,New
-2026-10-19,83,Collective,2 bed rooms+hall,731.0,110000.0,113750.0,-3.0,Authority,Renew
+2026-10-19,83,Park Heights I,2 bed rooms+hall,1089.0,140000.0,135000.0,4.0,Authority,Renew
 2026-10-19,83,Dubai Hills Estate,1bed room+Hall,1026.0,110000.0,,,Authority,New
+2026-10-19,83,Collective,2 bed rooms+hall,731.0,110000.0,113750.0,-3.0,Authority,Renew
 2026-10-19,83,Collective,2 bed rooms+hall,741.0,110000.0,113750.0,-3.0,Person,Renew
+2026-10-19,83,PARK RIDGE,1bed room+Hall,653.0,110000.0,100000.0,10.0,Person,New
 2026-10-19,83,MULBERRY at PARK HEIGHTS,1bed room+Hall,915.0,108000.0,125000.0,-14.0,Authority,Renew
-2026-10-19,83,Dubai Hills Estate,1bed room+Hall,837.0,105000.0,,,Authority,New
-2026-10-19,83,Collective 2.0,2 bed rooms+hall,741.0,105000.0,120000.0,-13.0,Person,Renew
 2026-10-19,83,PARK RIDGE,1bed room+Hall,654.0,105000.0,100000.0,5.0,Person,New
+2026-10-19,83,Collective 2.0,2 bed rooms+hall,741.0,105000.0,120000.0,-13.0,Person,Renew
+2026-10-19,83,Dubai Hills Estate,1bed room+Hall,837.0,105000.0,,,Authority,New
 2026-10-19,83,PARK RIDGE,1bed room+Hall,642.0,90000.0,100000.0,-10.0,Authority,Renew
 2026-10-19,83,Golf ville,1bed room+Hall,507.0,83000.0,75000.0,11.0,Authority,New
 2026-10-19,83,PARK RIDGE,1bed room+Hall,645.0,82687.0,100000.0,-17.0,Person,New
@@ -2144,15 +2144,15 @@
 2026-10-22,86,ELLINGTON HOUSE,1bed room+Hall,890.0,165000.0,155000.0,6.0,Authority,New
 2026-10-22,86,PARK RIDGE,2 bed rooms+hall,987.0,152000.0,165000.0,-8.0,Person,New
 2026-10-22,86,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1587.0,134400.0,200000.0,-33.0,Person,Renew
-2026-10-22,86,ACACIA AT PARK HEIGHTS,1bed room+Hall,921.0,125000.0,125000.0,0.0,Person,New
 2026-10-22,86,Golf ville,2 bed rooms+hall,746.0,125000.0,114897.495,9.0,Person,New
+2026-10-22,86,ACACIA AT PARK HEIGHTS,1bed room+Hall,921.0,125000.0,125000.0,0.0,Person,New
 2026-10-22,86,Golf Suites - Dubai Hills,1bed room+Hall,720.0,110000.0,105000.0,5.0,Authority,Renew
 2026-10-22,86,PARK RIDGE,1bed room+Hall,648.0,99750.0,100000.0,-0.0,Authority,Renew
 2026-10-22,86,Collective 2.0,1bed room+Hall,489.0,92000.0,85000.0,8.0,Authority,New
 2026-10-22,86,PARK RIDGE,1bed room+Hall,661.0,90000.0,100000.0,-10.0,Authority,Renew
 2026-10-22,86,Collective 2.0,1bed room+Hall,482.0,85000.0,85000.0,0.0,Person,New
-2026-10-22,86,Golf ville,1bed room+Hall,496.0,75000.0,75000.0,0.0,Person,Renew
 2026-10-22,86,Golf ville,1bed room+Hall,496.0,75000.0,75000.0,0.0,Person,New
+2026-10-22,86,Golf ville,1bed room+Hall,496.0,75000.0,75000.0,0.0,Person,Renew
 2026-10-22,86,Collective 2.0,1bed room+Hall,486.0,72000.0,85000.0,-15.0,Authority,Renew
 2026-10-22,86,Collective,1bed room+Hall,474.0,69732.0,82000.0,-15.0,Person,New
 2026-10-23,87,SIDRA,4 bed rooms+hall,5698.0,435000.0,450000.0,-3.0,Person,New
@@ -2169,8 +2169,8 @@
 2026-10-23,87,Dubai Hills Estate,1bed room+Hall,767.0,105000.0,,,Person,New
 2026-10-23,87,Collective,1bed room+Hall,589.0,95000.0,82000.0,16.0,Person,New
 2026-10-23,87,Golf ville,2 bed rooms+hall,743.0,92000.0,114897.495,-20.0,Authority,Renew
-2026-10-23,87,Golf ville,1bed room+Hall,500.0,90000.0,75000.0,20.0,Authority,New
 2026-10-23,87,PARK RIDGE,1bed room+Hall,653.0,90000.0,100000.0,-10.0,Authority,New
+2026-10-23,87,Golf ville,1bed room+Hall,500.0,90000.0,75000.0,20.0,Authority,New
 2026-10-23,87,ACACIA AT PARK HEIGHTS,1bed room+Hall,922.0,83000.0,125000.0,-34.0,Person,Renew
 2026-10-23,87,Collective 2.0,1bed room+Hall,488.0,78000.0,85000.0,-8.0,Person,New
 2026-10-23,87,Collective 2.0,1bed room+Hall,489.0,69457.5,85000.0,-18.0,Authority,Renew
@@ -2184,32 +2184,32 @@
 2026-10-24,88,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1768.0,200000.0,200000.0,0.0,Person,Renew
 2026-10-24,88,MAG EYE Phase 1,3 bed rooms+hall,2830.0,140259.74,200000.0,-30.0,Person,Renew
 2026-10-24,88,Dubai Hills Estate,2 bed rooms+hall,1032.0,130000.0,,,Person,New
-2026-10-24,88,ACACIA AT PARK HEIGHTS,1bed room+Hall,918.0,125000.0,125000.0,0.0,Person,New
 2026-10-24,88,Park Field,1bed room+Hall,647.0,125000.0,115000.0,9.0,Authority,New
 2026-10-24,88,ACACIA AT PARK HEIGHTS,1bed room+Hall,921.0,125000.0,125000.0,0.0,Person,New
+2026-10-24,88,ACACIA AT PARK HEIGHTS,1bed room+Hall,918.0,125000.0,125000.0,0.0,Person,New
 2026-10-24,88,ACACIA AT PARK HEIGHTS,1bed room+Hall,1039.0,122000.0,125000.0,-2.0,Authority,New
 2026-10-24,88,Park Heights I,2 bed rooms+hall,955.0,115920.0,135000.0,-14.0,Person,Renew
 2026-10-24,88,Collective,2 bed rooms+hall,743.0,110000.0,113750.0,-3.0,Authority,New
 2026-10-24,88,ACACIA AT PARK HEIGHTS,1bed room+Hall,765.0,110000.0,125000.0,-12.0,Person,Renew
 2026-10-24,88,Dubai Hills Estate,1bed room+Hall,763.0,97000.0,,,Authority,Renew
 2026-10-24,88,PARK RIDGE,1bed room+Hall,645.0,96000.0,100000.0,-4.0,Person,Renew
-2026-10-24,88,Collective 2.0,1bed room+Hall,486.0,85000.0,85000.0,0.0,Authority,New
 2026-10-24,88,Collective,1bed room+Hall,484.0,85000.0,82000.0,4.0,Authority,New
+2026-10-24,88,Collective 2.0,1bed room+Hall,486.0,85000.0,85000.0,0.0,Authority,New
 2026-10-24,88,ACACIA AT PARK HEIGHTS,1bed room+Hall,989.0,81000.0,125000.0,-35.0,Person,Renew
 2026-10-24,88,MAG EYE Phase 1,1bed room+Hall,753.0,79000.0,85000.0,-7.0,Person,New
 2026-10-24,88,Golf ville,1bed room+Hall,507.0,73000.0,75000.0,-3.0,Authority,New
 2026-10-24,88,MAG EYE Phase 1,Studio,411.0,53560.21,57000.0,-6.0,Person,Renew
 2026-10-24,88,MAG EYE Phase 1,Studio,414.0,53000.0,57000.0,-7.0,Authority,New
-2026-10-24,88,MAG EYE Phase 1,Studio,394.0,50000.0,57000.0,-12.0,Person,New
 2026-10-24,88,MAG EYE Phase 1,Studio,412.0,50000.0,57000.0,-12.0,Authority,Renew
+2026-10-24,88,MAG EYE Phase 1,Studio,394.0,50000.0,57000.0,-12.0,Person,New
 2026-10-25,89,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1565.0,245000.0,192500.0,27.0,Authority,New
 2026-10-25,89,MAPLE 2,3 bed rooms+hall,2091.0,190000.0,245000.0,-22.0,Authority,Renew
 2026-10-25,89,MAG EYE Phase 1,2 bed rooms+hall,1187.0,155000.0,160000.0,-3.0,Person,Renew
 2026-10-25,89,Collective 2.0,2 bed rooms+hall,725.0,120000.0,120000.0,0.0,Authority,New
 2026-10-25,89,Collective,2 bed rooms+hall,743.0,110000.0,113750.0,-3.0,Person,Renew
 2026-10-25,89,PARK RIDGE,1bed room+Hall,642.0,95000.0,100000.0,-5.0,Authority,Renew
-2026-10-25,89,Collective,1bed room+Hall,491.0,90000.0,82000.0,10.0,Authority,New
 2026-10-25,89,Collective,1bed room+Hall,488.0,90000.0,82000.0,10.0,Authority,New
+2026-10-25,89,Collective,1bed room+Hall,491.0,90000.0,82000.0,10.0,Authority,New
 2026-10-25,89,PARK RIDGE,1bed room+Hall,650.0,90000.0,100000.0,-10.0,Authority,Renew
 2026-10-26,90,ACACIA AT PARK HEIGHTS,Shop,6256.0,922291.43,,,Authority,New
 2026-10-26,90,MAPLE 2,Shop,1855.0,557100.0,547637.19,2.0,Authority,New
@@ -2221,8 +2221,8 @@
 2026-10-26,90,THE GROVE BY IMAN,2 bed rooms+hall,1266.0,225000.0,220000.0,2.0,Person,New
 2026-10-26,90,MAG EYE Phase 1,3 bed rooms+hall,1460.0,185000.0,200000.0,-8.0,Authority,New
 2026-10-26,90,Socio,2 bed rooms+hall,724.0,145000.0,125000.0,16.0,Person,New
-2026-10-26,90,MULBERRY at PARK HEIGHTS,1bed room+Hall,871.0,130000.0,125000.0,4.0,Authority,New
 2026-10-26,90,Collective,2 bed rooms+hall,730.0,130000.0,113750.0,14.0,Authority,New
+2026-10-26,90,MULBERRY at PARK HEIGHTS,1bed room+Hall,871.0,130000.0,125000.0,4.0,Authority,New
 2026-10-26,90,Collective,1bed room+Hall,491.0,97500.0,82000.0,19.0,Person,New
 2026-10-26,90,ACACIA AT PARK HEIGHTS,1bed room+Hall,921.0,89100.0,125000.0,-29.0,Person,Renew
 2026-10-26,90,MAG EYE Phase 1,1bed room+Hall,871.0,85000.0,85000.0,0.0,Authority,New
@@ -2240,15 +2240,15 @@
 2026-10-27,91,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1563.0,162750.0,192500.0,-15.0,Authority,Renew
 2026-10-27,91,ELLINGTON HOUSE,1bed room+Hall,843.0,160000.0,155000.0,3.0,Person,New
 2026-10-27,91,Maple III,3 bed rooms+hall,2178.0,144000.0,247500.0,-42.0,Authority,Renew
-2026-10-27,91,ELLINGTON HOUSE,1bed room+Hall,866.0,140000.0,155000.0,-10.0,Authority,New
 2026-10-27,91,Dubai Hills Estate,1bed room+Hall,852.0,140000.0,,,Person,New
+2026-10-27,91,ELLINGTON HOUSE,1bed room+Hall,866.0,140000.0,155000.0,-10.0,Authority,New
 2026-10-27,91,Collective 2.0,2 bed rooms+hall,742.0,130000.0,120000.0,8.0,Authority,Renew
 2026-10-27,91,MULBERRY at PARK HEIGHTS,1bed room+Hall,871.0,125000.0,125000.0,0.0,Authority,New
 2026-10-27,91,Collective 2.0,2 bed rooms+hall,722.0,120000.0,120000.0,0.0,Authority,Renew
 2026-10-27,91,PARK RIDGE,1bed room+Hall,650.0,110064.51,100000.0,10.0,Person,Renew
 2026-10-27,91,Collective 2.0,1bed room+Hall,482.0,85000.0,85000.0,0.0,Authority,New
-2026-10-27,91,Collective 2.0,1bed room+Hall,482.0,80000.0,85000.0,-6.0,Authority,New
 2026-10-27,91,Collective 2.0,1bed room+Hall,486.0,80000.0,85000.0,-6.0,Person,New
+2026-10-27,91,Collective 2.0,1bed room+Hall,482.0,80000.0,85000.0,-6.0,Authority,New
 2026-10-27,91,Collective 2.0,1bed room+Hall,486.0,80000.0,85000.0,-6.0,Person,New
 2026-10-27,91,MAG EYE Phase 1,1bed room+Hall,793.0,78000.0,85000.0,-8.0,Authority,Renew
 2026-10-27,91,MAG EYE Phase 1,Studio,396.0,58000.0,57000.0,2.0,Person,New
@@ -2292,8 +2292,8 @@
 2026-10-30,94,MAPLE 2,Shop,1901.0,601981.33,547637.19,10.0,Authority,New
 2026-10-30,94,Sidra 2,5 bed rooms+hall,5740.0,600000.0,600000.0,0.0,Person,New
 2026-10-30,94,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1673.0,210566.04,200000.0,5.0,Person,New
-2026-10-30,94,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1297.0,200000.0,192500.0,4.0,Person,New
 2026-10-30,94,Golf Suites - Dubai Hills,2 bed rooms+hall,1118.0,200000.0,170000.0,18.0,Person,New
+2026-10-30,94,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1297.0,200000.0,192500.0,4.0,Person,New
 2026-10-30,94,Park Field,2 bed rooms+hall,986.0,190000.0,165000.0,15.0,Authority,New
 2026-10-30,94,MAG EYE Phase 1,2 bed rooms+hall,1411.0,180000.0,160000.0,13.0,Person,New
 2026-10-30,94,PARK HEIGHTS II,2 bed rooms+hall,958.0,155000.0,138000.0,12.0,Authority,New
@@ -2322,21 +2322,21 @@
 2026-10-31,95,Sidra 2,4 bed rooms+hall,4862.0,420000.0,460000.0,-9.0,Person,Renew
 2026-10-31,95,MAPLE,5 bed rooms+hall,3151.0,400000.0,320000.0,25.0,Person,New
 2026-10-31,95,Golf Grove,3 bed rooms+hall,2865.0,380000.0,400000.0,-5.0,Authority,Renew
+2026-10-31,95,Sidra 2,3 bed rooms+hall,4509.0,375000.0,375000.0,0.0,Person,Renew
 2026-10-31,95,Golf Grove,3 bed rooms+hall,2961.0,375000.0,400000.0,-6.0,Person,Renew
 2026-10-31,95,Sidra 3,3 bed rooms+hall,4646.0,375000.0,380000.0,-1.0,Person,New
-2026-10-31,95,Sidra 2,3 bed rooms+hall,4509.0,375000.0,375000.0,0.0,Person,Renew
 2026-10-31,95,MAPLE,4 bed rooms+hall,3219.0,365000.0,280000.0,30.0,Authority,Renew
 2026-10-31,95,ACACIA AT PARK HEIGHTS,3 bed rooms+hall,2251.0,355000.0,277500.0,28.0,Person,New
 2026-10-31,95,Dubai Hills Estate,Office,3407.0,352277.91,,,Authority,New
 2026-10-31,95,MAPLE 2,4 bed rooms+hall,3400.0,310000.0,280000.0,11.0,Person,New
-2026-10-31,95,Maple III,4 bed rooms+hall,3206.0,310000.0,280000.0,11.0,Authority,New
 2026-10-31,95,MULBERRY at PARK HEIGHTS,3 bed rooms+hall,1750.0,310000.0,299171.27,4.0,Authority,New
+2026-10-31,95,Maple III,4 bed rooms+hall,3206.0,310000.0,280000.0,11.0,Authority,New
 2026-10-31,95,PARK RIDGE,3 bed rooms+hall,2195.0,265000.0,252500.0,5.0,Authority,Renew
 2026-10-31,95,MAPLE 2,3 bed rooms+hall,2202.0,260000.0,245000.0,6.0,Authority,New
 2026-10-31,95,MAPLE,4 bed rooms+hall,2162.0,256000.0,280000.0,-9.0,Person,Renew
-2026-10-31,95,MAPLE 2,4 bed rooms+hall,3118.0,250000.0,280000.0,-11.0,Person,Renew
 2026-10-31,95,Maple III,3 bed rooms+hall,2158.0,250000.0,247500.0,1.0,Authority,New
 2026-10-31,95,MAPLE 2,4 bed rooms+hall,2928.0,250000.0,280000.0,-11.0,Authority,Renew
+2026-10-31,95,MAPLE 2,4 bed rooms+hall,3118.0,250000.0,280000.0,-11.0,Person,Renew
 2026-10-31,95,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1719.0,248000.0,192500.0,29.0,Authority,Renew
 2026-10-31,95,Dubai Hills Estate,Office,2207.0,245205.62,,,Authority,Renew
 2026-10-31,95,Maple III,3 bed rooms+hall,2132.0,245000.0,247500.0,-1.0,Authority,Renew
@@ -2344,106 +2344,106 @@
 2026-10-31,95,Maple III,3 bed rooms+hall,2179.0,240000.0,247500.0,-3.0,Person,Renew
 2026-10-31,95,Dubai Hills Estate,Office,2206.0,231765.5,,,Authority,Renew
 2026-10-31,95,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1565.0,230000.0,192500.0,19.0,Authority,New
-2026-10-31,95,MAG EYE Phase 1,3 bed rooms+hall,1477.0,225000.0,200000.0,13.0,Person,New
 2026-10-31,95,MAPLE,3 bed rooms+hall,2091.0,225000.0,250000.0,-10.0,Authority,Renew
 2026-10-31,95,Dubai Hills Estate,2 bed rooms+hall,1486.0,225000.0,,,Authority,New
+2026-10-31,95,MAG EYE Phase 1,3 bed rooms+hall,1477.0,225000.0,200000.0,13.0,Person,New
 2026-10-31,95,Park Heights I,3 bed rooms+hall,1610.0,220000.0,200000.0,10.0,Authority,New
 2026-10-31,95,Dubai Hills Estate,Shop,846.0,215500.0,,,Authority,New
+2026-10-31,95,MAPLE,4 bed rooms+hall,2174.0,210000.0,280000.0,-25.0,Authority,Renew
 2026-10-31,95,MAG EYE Phase 1,3 bed rooms+hall,1675.0,210000.0,200000.0,5.0,Person,Renew
 2026-10-31,95,MAG EYE Phase 1,3 bed rooms+hall,1725.0,210000.0,200000.0,5.0,Person,Renew
-2026-10-31,95,MAPLE,4 bed rooms+hall,2174.0,210000.0,280000.0,-25.0,Authority,Renew
 2026-10-31,95,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1359.0,205000.0,192500.0,6.0,Authority,Renew
+2026-10-31,95,MAG EYE Phase 1,3 bed rooms+hall,1479.0,200000.0,200000.0,0.0,Person,New
 2026-10-31,95,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1720.0,200000.0,192500.0,4.0,Authority,New
 2026-10-31,95,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1302.0,200000.0,200000.0,0.0,Person,Renew
-2026-10-31,95,MAG EYE Phase 1,3 bed rooms+hall,1479.0,200000.0,200000.0,0.0,Person,New
 2026-10-31,95,Dubai Hills Estate,Office,2206.0,197056.89,,,Authority,New
 2026-10-31,95,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1304.0,195000.0,192500.0,1.0,Person,Renew
-2026-10-31,95,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1574.0,190000.0,192500.0,-1.0,Person,Renew
 2026-10-31,95,MAG EYE Phase 1,3 bed rooms+hall,1392.0,190000.0,200000.0,-5.0,Person,New
+2026-10-31,95,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1574.0,190000.0,192500.0,-1.0,Person,Renew
 2026-10-31,95,PARK RIDGE,2 bed rooms+hall,1278.0,185000.0,165000.0,12.0,Authority,Renew
-2026-10-31,95,MAG EYE Phase 1,2 bed rooms+hall,1410.0,180000.0,160000.0,13.0,Person,New
 2026-10-31,95,MAG EYE Phase 1,2 bed rooms+hall,1440.0,180000.0,160000.0,13.0,Person,New
+2026-10-31,95,MAG EYE Phase 1,2 bed rooms+hall,1410.0,180000.0,160000.0,13.0,Person,New
 2026-10-31,95,MAG EYE Phase 1,2 bed rooms+hall,1411.0,170000.0,160000.0,6.0,Person,Renew
 2026-10-31,95,PARK RIDGE,2 bed rooms+hall,990.0,160000.0,165000.0,-3.0,Person,Renew
 2026-10-31,95,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1712.0,157000.0,192500.0,-18.0,Person,Renew
 2026-10-31,95,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1718.0,156000.0,200000.0,-22.0,Person,Renew
 2026-10-31,95,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1815.0,155900.0,200000.0,-22.0,Person,Renew
-2026-10-31,95,PARK RIDGE,2 bed rooms+hall,995.0,155000.0,165000.0,-6.0,Authority,Renew
 2026-10-31,95,PARK RIDGE,1bed room+Hall,647.0,155000.0,100000.0,55.0,Authority,New
+2026-10-31,95,PARK RIDGE,2 bed rooms+hall,995.0,155000.0,165000.0,-6.0,Authority,Renew
+2026-10-31,95,PARK RIDGE,2 bed rooms+hall,987.0,150000.0,165000.0,-9.0,Authority,Renew
+2026-10-31,95,Dubai Hills Estate,1bed room+Hall,860.0,150000.0,,,Person,New
 2026-10-31,95,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1701.0,150000.0,192500.0,-22.0,Authority,New
 2026-10-31,95,Dubai Hills Estate,1bed room+Hall,860.0,150000.0,,,Person,New
-2026-10-31,95,Dubai Hills Estate,1bed room+Hall,860.0,150000.0,,,Person,New
-2026-10-31,95,PARK RIDGE,2 bed rooms+hall,987.0,150000.0,165000.0,-9.0,Authority,Renew
 2026-10-31,95,MAG EYE Phase 1,2 bed rooms+hall,1410.0,150000.0,160000.0,-6.0,Person,New
 2026-10-31,95,PARK RIDGE,2 bed rooms+hall,986.0,149900.0,165000.0,-9.0,Person,New
 2026-10-31,95,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1818.0,149500.0,200000.0,-25.0,Person,Renew
-2026-10-31,95,Park Heights I,2 bed rooms+hall,956.0,145000.0,135000.0,7.0,Person,New
 2026-10-31,95,Park Point,2 bed rooms+hall,1220.0,145000.0,145000.0,0.0,Person,New
+2026-10-31,95,Park Heights I,2 bed rooms+hall,956.0,145000.0,135000.0,7.0,Person,New
 2026-10-31,95,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1718.0,143000.0,200000.0,-29.0,Person,Renew
 2026-10-31,95,MAG EYE Phase 1,2 bed rooms+hall,1206.0,141750.0,160000.0,-11.0,Person,New
-2026-10-31,95,ELLINGTON HOUSE,1bed room+Hall,865.0,140000.0,155000.0,-10.0,Authority,New
 2026-10-31,95,Dubai Hills Estate,1bed room+Hall,853.0,140000.0,,,Person,New
+2026-10-31,95,ELLINGTON HOUSE,1bed room+Hall,865.0,140000.0,155000.0,-10.0,Authority,New
 2026-10-31,95,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1524.0,136600.0,200000.0,-32.0,Person,Renew
 2026-10-31,95,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1529.0,133000.0,200000.0,-34.0,Person,Renew
 2026-10-31,95,PARK HEIGHTS II,2 bed rooms+hall,956.0,130000.8,138000.0,-6.0,Person,Renew
-2026-10-31,95,Golf ville,2 bed rooms+hall,752.0,130000.0,114897.495,13.0,Authority,New
 2026-10-31,95,PARK RIDGE,1bed room+Hall,651.0,130000.0,100000.0,30.0,Authority,New
-2026-10-31,95,MULBERRY at PARK HEIGHTS,1bed room+Hall,871.0,125000.0,125000.0,0.0,Person,Renew
-2026-10-31,95,ACACIA AT PARK HEIGHTS,1bed room+Hall,1039.0,125000.0,125000.0,0.0,Authority,New
+2026-10-31,95,Golf ville,2 bed rooms+hall,752.0,130000.0,114897.495,13.0,Authority,New
 2026-10-31,95,ACACIA AT PARK HEIGHTS,1bed room+Hall,921.0,125000.0,125000.0,0.0,Person,New
 2026-10-31,95,ACACIA AT PARK HEIGHTS,1bed room+Hall,910.0,125000.0,125000.0,0.0,Person,New
+2026-10-31,95,MULBERRY at PARK HEIGHTS,1bed room+Hall,871.0,125000.0,125000.0,0.0,Person,Renew
+2026-10-31,95,ACACIA AT PARK HEIGHTS,1bed room+Hall,1039.0,125000.0,125000.0,0.0,Authority,New
 2026-10-31,95,ACACIA AT PARK HEIGHTS,1bed room+Hall,947.0,125000.0,125000.0,0.0,Person,New
 2026-10-31,95,Park Field,1bed room+Hall,647.0,120000.0,115000.0,4.0,Person,New
 2026-10-31,95,ACACIA AT PARK HEIGHTS,1bed room+Hall,852.0,120000.0,125000.0,-4.0,Person,New
 2026-10-31,95,Socio,2 bed rooms+hall,722.0,115500.0,125000.0,-8.0,Person,Renew
-2026-10-31,95,Collective 2.0,2 bed rooms+hall,732.0,115000.0,120000.0,-4.0,Authority,New
 2026-10-31,95,Prive Residence,1bed room+Hall,741.0,115000.0,105000.0,10.0,Authority,New
 2026-10-31,95,Dubai Hills Estate,1bed room+Hall,763.0,115000.0,,,Authority,New
-2026-10-31,95,Collective 2.0,2 bed rooms+hall,756.0,115000.0,120000.0,-4.0,Person,Renew
+2026-10-31,95,Collective 2.0,2 bed rooms+hall,732.0,115000.0,120000.0,-4.0,Authority,New
 2026-10-31,95,Dubai Hills Estate,1bed room+Hall,772.0,115000.0,,,Authority,New
+2026-10-31,95,Collective 2.0,2 bed rooms+hall,756.0,115000.0,120000.0,-4.0,Person,Renew
 2026-10-31,95,PARK RIDGE,2 bed rooms+hall,995.0,114264.0,165000.0,-31.0,Person,Renew
 2026-10-31,95,PARK RIDGE,1bed room+Hall,650.0,110000.0,100000.0,10.0,Authority,New
 2026-10-31,95,Park Point,1bed room+Hall,950.0,107000.0,95000.0,13.0,Authority,Renew
+2026-10-31,95,Dubai Hills Estate,1bed room+Hall,833.0,105000.0,,,Person,Renew
 2026-10-31,95,PARK RIDGE,1bed room+Hall,654.0,105000.0,100000.0,5.0,Authority,New
 2026-10-31,95,Collective 2.0,2 bed rooms+hall,727.0,105000.0,120000.0,-13.0,Person,New
-2026-10-31,95,Dubai Hills Estate,1bed room+Hall,833.0,105000.0,,,Person,Renew
+2026-10-31,95,Park Point,1bed room+Hall,696.0,100000.0,95000.0,5.0,Person,New
 2026-10-31,95,Park Heights I,1bed room+Hall,646.0,100000.0,90000.0,11.0,Person,Renew
 2026-10-31,95,Dubai Hills Estate,1bed room+Hall,751.0,100000.0,,,Person,New
-2026-10-31,95,Park Point,1bed room+Hall,696.0,100000.0,95000.0,5.0,Person,New
 2026-10-31,95,ACACIA AT PARK HEIGHTS,1bed room+Hall,951.0,96500.0,125000.0,-23.0,Person,Renew
+2026-10-31,95,PARK RIDGE,1bed room+Hall,639.0,95000.0,100000.0,-5.0,Authority,Renew
+2026-10-31,95,Collective 2.0,1bed room+Hall,488.0,95000.0,85000.0,12.0,Authority,New
 2026-10-31,95,Dubai Hills Estate,1bed room+Hall,763.0,95000.0,,,Person,New
 2026-10-31,95,PARK HEIGHTS II,1bed room+Hall,646.0,95000.0,90000.0,6.0,Authority,New
-2026-10-31,95,Collective 2.0,1bed room+Hall,488.0,95000.0,85000.0,12.0,Authority,New
-2026-10-31,95,PARK RIDGE,1bed room+Hall,639.0,95000.0,100000.0,-5.0,Authority,Renew
 2026-10-31,95,Park Heights I,1bed room+Hall,646.0,94000.0,90000.0,4.0,Authority,Renew
 2026-10-31,95,ACACIA AT PARK HEIGHTS,1bed room+Hall,935.0,92400.0,125000.0,-26.0,Person,Renew
-2026-10-31,95,Park Heights I,1bed room+Hall,645.0,90000.0,90000.0,0.0,Authority,Renew
-2026-10-31,95,MAG EYE Phase 1,1bed room+Hall,871.0,90000.0,85000.0,6.0,Authority,Renew
 2026-10-31,95,Collective,1bed room+Hall,483.0,90000.0,82000.0,10.0,Person,New
+2026-10-31,95,MAG EYE Phase 1,1bed room+Hall,871.0,90000.0,85000.0,6.0,Authority,Renew
+2026-10-31,95,Park Heights I,1bed room+Hall,645.0,90000.0,90000.0,0.0,Authority,Renew
 2026-10-31,95,PARK RIDGE,1bed room+Hall,650.0,90000.0,100000.0,-10.0,Authority,New
 2026-10-31,95,PARK HEIGHTS II,1bed room+Hall,645.0,88000.0,90000.0,-2.0,Person,Renew
 2026-10-31,95,ACACIA AT PARK HEIGHTS,1bed room+Hall,976.0,86300.0,125000.0,-31.0,Person,Renew
-2026-10-31,95,MAG EYE Phase 1,1bed room+Hall,897.0,85000.0,85000.0,0.0,Person,New
 2026-10-31,95,Park Heights I,1bed room+Hall,646.0,85000.0,90000.0,-6.0,Person,New
+2026-10-31,95,MAG EYE Phase 1,1bed room+Hall,897.0,85000.0,85000.0,0.0,Person,New
 2026-10-31,95,ACACIA AT PARK HEIGHTS,1bed room+Hall,1015.0,84700.0,125000.0,-32.0,Person,Renew
 2026-10-31,95,ACACIA AT PARK HEIGHTS,1bed room+Hall,989.0,83000.0,125000.0,-34.0,Person,Renew
-2026-10-31,95,ACACIA AT PARK HEIGHTS,1bed room+Hall,990.0,82000.0,125000.0,-34.0,Person,Renew
-2026-10-31,95,ACACIA AT PARK HEIGHTS,1bed room+Hall,987.0,82000.0,125000.0,-34.0,Person,Renew
 2026-10-31,95,ACACIA AT PARK HEIGHTS,1bed room+Hall,923.0,82000.0,125000.0,-34.0,Person,Renew
-2026-10-31,95,ACACIA AT PARK HEIGHTS,1bed room+Hall,918.0,82000.0,125000.0,-34.0,Person,Renew
-2026-10-31,95,ACACIA AT PARK HEIGHTS,1bed room+Hall,952.0,82000.0,125000.0,-34.0,Person,Renew
 2026-10-31,95,ACACIA AT PARK HEIGHTS,1bed room+Hall,904.0,82000.0,125000.0,-34.0,Person,Renew
+2026-10-31,95,ACACIA AT PARK HEIGHTS,1bed room+Hall,987.0,82000.0,125000.0,-34.0,Person,Renew
+2026-10-31,95,ACACIA AT PARK HEIGHTS,1bed room+Hall,952.0,82000.0,125000.0,-34.0,Person,Renew
+2026-10-31,95,ACACIA AT PARK HEIGHTS,1bed room+Hall,990.0,82000.0,125000.0,-34.0,Person,Renew
+2026-10-31,95,ACACIA AT PARK HEIGHTS,1bed room+Hall,918.0,82000.0,125000.0,-34.0,Person,Renew
 2026-10-31,95,ACACIA AT PARK HEIGHTS,1bed room+Hall,899.0,80500.0,125000.0,-36.0,Authority,Renew
-2026-10-31,95,MAG EYE Phase 1,1bed room+Hall,805.0,80000.0,85000.0,-6.0,Authority,New
 2026-10-31,95,Golf ville,1bed room+Hall,500.0,80000.0,75000.0,7.0,Person,Renew
 2026-10-31,95,MAG EYE Phase 1,1bed room+Hall,796.0,80000.0,85000.0,-6.0,Authority,Renew
+2026-10-31,95,MAG EYE Phase 1,1bed room+Hall,805.0,80000.0,85000.0,-6.0,Authority,New
 2026-10-31,95,Collective 2.0,1bed room+Hall,490.0,80000.0,85000.0,-6.0,Authority,New
 2026-10-31,95,MAG EYE Phase 1,1bed room+Hall,796.0,80000.0,85000.0,-6.0,Authority,Renew
 2026-10-31,95,Golf ville,1bed room+Hall,507.0,79000.0,75000.0,5.0,Authority,New
 2026-10-31,95,ACACIA AT PARK HEIGHTS,1bed room+Hall,987.0,77000.0,125000.0,-38.0,Person,Renew
 2026-10-31,95,Dubai Hills Estate,Studio,448.0,75000.0,,,Person,New
-2026-10-31,95,Dubai Hills Estate,Studio,385.0,75000.0,,,Authority,New
 2026-10-31,95,Dubai Hills Estate,Studio,488.0,75000.0,,,Person,New
+2026-10-31,95,Dubai Hills Estate,Studio,385.0,75000.0,,,Authority,New
 2026-10-31,95,Collective 2.0,1bed room+Hall,477.0,74999.99,85000.0,-12.0,Person,Renew
 2026-10-31,95,Golf ville,1bed room+Hall,503.0,74792.24,75000.0,-0.0,Authority,Renew
 2026-10-31,95,Collective,1bed room+Hall,483.0,74673.53,82000.0,-9.0,Person,New
@@ -2466,8 +2466,8 @@
 2026-11-02,97,Maple III,4 bed rooms+hall,3836.0,325000.0,280000.0,16.0,Authority,New
 2026-11-02,97,MAPLE,4 bed rooms+hall,2962.0,280000.0,280000.0,0.0,Authority,Renew
 2026-11-02,97,Sidra 2,3 bed rooms+hall,4629.0,265650.0,375000.0,-29.0,Person,Renew
-2026-11-02,97,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1417.0,190000.0,200000.0,-5.0,Person,New
 2026-11-02,97,MAG EYE Phase 1,3 bed rooms+hall,1392.0,190000.0,200000.0,-5.0,Person,New
+2026-11-02,97,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1417.0,190000.0,200000.0,-5.0,Person,New
 2026-11-02,97,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1307.0,185000.0,192500.0,-4.0,Authority,New
 2026-11-02,97,PARK RIDGE,2 bed rooms+hall,1006.0,176400.0,165000.0,7.0,Person,Renew
 2026-11-02,97,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1586.0,140500.0,200000.0,-30.0,Person,Renew
@@ -2496,8 +2496,8 @@
 2026-11-03,98,PARK RIDGE,1bed room+Hall,649.0,76650.0,100000.0,-23.0,Person,Renew
 2026-11-04,99,Sidra 3,4 bed rooms+hall,4822.0,550000.0,475000.0,16.0,,New
 2026-11-04,99,MAPLE,5 bed rooms+hall,3198.0,320000.0,320000.0,0.0,Person,New
-2026-11-04,99,ELLINGTON HOUSE,2 bed rooms+hall,1362.0,270000.0,275000.0,-2.0,Authority,New
 2026-11-04,99,PARK RIDGE,3 bed rooms+hall,1575.0,270000.0,252500.0,7.0,Authority,New
+2026-11-04,99,ELLINGTON HOUSE,2 bed rooms+hall,1362.0,270000.0,275000.0,-2.0,Authority,New
 2026-11-04,99,MAPLE 2,4 bed rooms+hall,2222.0,265000.0,280000.0,-5.0,Authority,New
 2026-11-04,99,MAPLE 2,4 bed rooms+hall,2209.0,262500.0,280000.0,-6.0,Person,Renew
 2026-11-04,99,MAPLE,3 bed rooms+hall,2094.0,240000.0,250000.0,-4.0,Person,New
@@ -2508,8 +2508,8 @@
 2026-11-04,99,PARK RIDGE,2 bed rooms+hall,990.0,157500.0,165000.0,-5.0,Authority,Renew
 2026-11-04,99,Dubai Hills Estate,1bed room+Hall,860.0,155000.0,,,Person,New
 2026-11-04,99,Golf Suites - Dubai Hills,2 bed rooms+hall,1118.0,144900.0,170000.0,-15.0,Person,Renew
-2026-11-04,99,MULBERRY at PARK HEIGHTS,1bed room+Hall,871.0,130000.0,125000.0,4.0,Person,Renew
 2026-11-04,99,Collective,2 bed rooms+hall,725.0,130000.0,113750.0,14.0,Authority,New
+2026-11-04,99,MULBERRY at PARK HEIGHTS,1bed room+Hall,871.0,130000.0,125000.0,4.0,Person,Renew
 2026-11-04,99,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1593.0,126000.0,200000.0,-37.0,Person,Renew
 2026-11-04,99,Prive Residence,1bed room+Hall,741.0,120000.0,105000.0,14.0,Authority,New
 2026-11-04,99,PARK RIDGE,1bed room+Hall,642.0,100000.0,100000.0,0.0,Person,Renew
@@ -2546,8 +2546,8 @@
 2026-11-06,101,PARK RIDGE,2 bed rooms+hall,1000.0,165000.0,165000.0,0.0,Authority,New
 2026-11-06,101,PARK RIDGE,2 bed rooms+hall,996.0,155000.0,165000.0,-6.0,Authority,Renew
 2026-11-06,101,MAG EYE Phase 1,2 bed rooms+hall,1424.0,155000.0,160000.0,-3.0,Person,Renew
-2026-11-06,101,ELLINGTON HOUSE,1bed room+Hall,843.0,150000.0,155000.0,-3.0,Person,New
 2026-11-06,101,Dubai Hills Estate,1bed room+Hall,865.0,150000.0,,,Person,New
+2026-11-06,101,ELLINGTON HOUSE,1bed room+Hall,843.0,150000.0,155000.0,-3.0,Person,New
 2026-11-06,101,Park Heights I,2 bed rooms+hall,959.0,133000.0,135000.0,-1.0,Person,New
 2026-11-06,101,Park Field,1bed room+Hall,841.0,130000.0,115000.0,13.0,Person,New
 2026-11-06,101,ACACIA AT PARK HEIGHTS,1bed room+Hall,921.0,125000.0,125000.0,0.0,Person,New
@@ -2557,8 +2557,8 @@
 2026-11-06,101,MAG EYE Phase 1,1bed room+Hall,751.0,85000.0,85000.0,0.0,Person,New
 2026-11-06,101,Collective 2.0,1bed room+Hall,478.0,85000.0,85000.0,0.0,Authority,Renew
 2026-11-06,101,ACACIA AT PARK HEIGHTS,1bed room+Hall,973.0,81000.0,125000.0,-35.0,Person,Renew
-2026-11-06,101,Collective 2.0,1bed room+Hall,489.0,80000.0,85000.0,-6.0,Person,New
 2026-11-06,101,Socio,1bed room+Hall,475.0,80000.0,85000.0,-6.0,Authority,New
+2026-11-06,101,Collective 2.0,1bed room+Hall,489.0,80000.0,85000.0,-6.0,Person,New
 2026-11-06,101,Collective,1bed room+Hall,476.0,75000.0,82000.0,-9.0,Authority,Renew
 2026-11-06,101,Golf ville,1bed room+Hall,507.0,70000.0,75000.0,-7.0,Person,New
 2026-11-07,102,MAPLE 2,Shop,1982.0,637846.67,547637.19,16.0,Authority,New
@@ -2623,13 +2623,13 @@
 2026-11-09,104,PARK RIDGE,1bed room+Hall,647.0,88200.0,100000.0,-12.0,Authority,Renew
 2026-11-09,104,PARK HEIGHTS II,1bed room+Hall,649.0,85000.0,90000.0,-6.0,Person,New
 2026-11-09,104,Park Field,1bed room+Hall,645.0,85000.0,115000.0,-26.0,Person,New
+2026-11-09,104,PARK HEIGHTS II,1bed room+Hall,657.0,84000.0,90000.0,-7.0,Person,Renew
 2026-11-09,104,PARK HEIGHTS II,1bed room+Hall,645.0,84000.0,90000.0,-7.0,Person,Renew
 2026-11-09,104,PARK HEIGHTS II,1bed room+Hall,645.0,84000.0,90000.0,-7.0,Person,New
-2026-11-09,104,PARK HEIGHTS II,1bed room+Hall,657.0,84000.0,90000.0,-7.0,Person,Renew
 2026-11-09,104,ACACIA AT PARK HEIGHTS,1bed room+Hall,911.0,83490.0,125000.0,-33.0,Person,Renew
-2026-11-09,104,PARK RIDGE,1bed room+Hall,650.0,80000.0,100000.0,-20.0,Authority,Renew
 2026-11-09,104,PARK RIDGE,1bed room+Hall,650.0,80000.0,100000.0,-20.0,Authority,New
 2026-11-09,104,Dubai Hills Estate,Studio,490.0,80000.0,,,Person,New
+2026-11-09,104,PARK RIDGE,1bed room+Hall,650.0,80000.0,100000.0,-20.0,Authority,Renew
 2026-11-09,104,Golf ville,1bed room+Hall,507.0,70000.0,75000.0,-7.0,Person,New
 2026-11-09,104,Golf ville,1bed room+Hall,507.0,70000.0,75000.0,-7.0,Person,New
 2026-11-09,104,MAG EYE Phase 1,Studio,412.0,50000.0,57000.0,-12.0,Person,New
@@ -2648,14 +2648,14 @@
 2026-11-10,105,Collective 2.0,1bed room+Hall,486.0,80000.0,85000.0,-6.0,Authority,Renew
 2026-11-10,105,Dubai Hills Estate,Studio,456.0,80000.0,,,Authority,New
 2026-11-11,106,MAPLE,5 bed rooms+hall,3108.0,330000.0,320000.0,3.0,Authority,Renew
-2026-11-11,106,Maple III,3 bed rooms+hall,2180.0,240000.0,247500.0,-3.0,Authority,Renew
 2026-11-11,106,Maple III,4 bed rooms+hall,3033.0,240000.0,280000.0,-14.0,Authority,New
+2026-11-11,106,Maple III,3 bed rooms+hall,2180.0,240000.0,247500.0,-3.0,Authority,Renew
 2026-11-11,106,Maple III,4 bed rooms+hall,4029.0,220110.0,280000.0,-21.0,Person,Renew
 2026-11-11,106,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1304.0,202000.0,192500.0,5.0,Authority,New
 2026-11-11,106,PARK RIDGE,2 bed rooms+hall,997.0,170100.0,165000.0,3.0,Authority,Renew
 2026-11-11,106,PARK RIDGE,2 bed rooms+hall,990.0,155000.0,165000.0,-6.0,Authority,Renew
-2026-11-11,106,PARK RIDGE,1bed room+Hall,675.0,110000.0,100000.0,10.0,Authority,New
 2026-11-11,106,Socio,1bed room+Hall,475.0,110000.0,85000.0,29.0,Person,New
+2026-11-11,106,PARK RIDGE,1bed room+Hall,675.0,110000.0,100000.0,10.0,Authority,New
 2026-11-11,106,PARK RIDGE,1bed room+Hall,647.0,105000.0,100000.0,5.0,Authority,Renew
 2026-11-11,106,Park Point,1bed room+Hall,691.0,100000.0,95000.0,5.0,Person,Renew
 2026-11-11,106,Park Point,1bed room+Hall,688.0,99722.99,95000.0,5.0,Authority,Renew
@@ -2664,8 +2664,8 @@
 2026-11-11,106,Collective 2.0,1bed room+Hall,486.0,80000.0,85000.0,-6.0,Person,New
 2026-11-11,106,ACACIA AT PARK HEIGHTS,1bed room+Hall,911.0,79860.0,125000.0,-36.0,Person,Renew
 2026-11-11,106,MAG EYE Phase 1,Studio,412.0,60000.0,57000.0,5.0,Person,New
-2026-11-11,106,MAG EYE Phase 1,Studio,412.0,55000.0,57000.0,-4.0,Authority,Renew
 2026-11-11,106,MAG EYE Phase 1,Studio,414.0,55000.0,57000.0,-4.0,Authority,New
+2026-11-11,106,MAG EYE Phase 1,Studio,412.0,55000.0,57000.0,-4.0,Authority,Renew
 2026-11-12,107,(unnamed),Shop,700.0,252000.0,,,Authority,Renew
 2026-11-12,107,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1559.0,215000.0,200000.0,8.0,Person,New
 2026-11-12,107,MAG EYE Phase 1,2 bed rooms+hall,1203.0,160000.0,160000.0,0.0,Authority,New
@@ -2700,13 +2700,13 @@
 2026-11-14,109,MAPLE 2,Shop,1567.0,447999.57,547637.19,-18.0,Authority,New
 2026-11-14,109,Sidra 2,3 bed rooms+hall,4418.0,380000.0,375000.0,1.0,Authority,New
 2026-11-14,109,Sidra 2,4 bed rooms+hall,4770.0,375705.0,460000.0,-18.0,Person,Renew
-2026-11-14,109,MAPLE 2,4 bed rooms+hall,3265.0,330000.0,280000.0,18.0,Person,Renew
 2026-11-14,109,MAPLE 2,4 bed rooms+hall,4662.0,330000.0,280000.0,18.0,Person,New
-2026-11-14,109,Maple III,4 bed rooms+hall,2991.0,300000.0,280000.0,7.0,Authority,New
+2026-11-14,109,MAPLE 2,4 bed rooms+hall,3265.0,330000.0,280000.0,18.0,Person,Renew
 2026-11-14,109,Golf Suites - Dubai Hills,3 bed rooms+hall,1697.0,300000.0,320000.0,-6.0,Authority,New
+2026-11-14,109,Maple III,4 bed rooms+hall,2991.0,300000.0,280000.0,7.0,Authority,New
 2026-11-14,109,Maple III,3 bed rooms+hall,2181.0,280000.0,247500.0,13.0,,New
-2026-11-14,109,ELLINGTON HOUSE,2 bed rooms+hall,1274.0,265000.0,275000.0,-4.0,Person,New
 2026-11-14,109,ELLINGTON HOUSE,2 bed rooms+hall,1366.0,265000.0,275000.0,-4.0,Authority,New
+2026-11-14,109,ELLINGTON HOUSE,2 bed rooms+hall,1274.0,265000.0,275000.0,-4.0,Person,New
 2026-11-14,109,MAPLE,3 bed rooms+hall,2062.0,252000.0,250000.0,1.0,Person,Renew
 2026-11-14,109,Dubai Hills Estate,2 bed rooms+hall,1311.0,250000.0,,,Person,New
 2026-11-14,109,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,2053.0,240000.0,192500.0,25.0,Authority,Renew
@@ -2719,14 +2719,14 @@
 2026-11-14,109,PARK RIDGE,2 bed rooms+hall,1002.0,165000.0,165000.0,0.0,Person,New
 2026-11-14,109,Park Field,2 bed rooms+hall,1015.0,160000.0,165000.0,-3.0,Authority,New
 2026-11-14,109,Park Heights I,2 bed rooms+hall,1076.0,152000.0,135000.0,13.0,Authority,New
-2026-11-14,109,ELLINGTON HOUSE,1bed room+Hall,794.0,140000.0,155000.0,-10.0,Authority,New
 2026-11-14,109,PARK RIDGE,1bed room+Hall,652.0,140000.0,100000.0,40.0,Authority,New
+2026-11-14,109,ELLINGTON HOUSE,1bed room+Hall,794.0,140000.0,155000.0,-10.0,Authority,New
 2026-11-14,109,PARK RIDGE,2 bed rooms+hall,994.0,137800.0,165000.0,-16.0,Person,Renew
 2026-11-14,109,PARK HEIGHTS II,2 bed rooms+hall,957.0,135000.0,138000.0,-2.0,Person,Renew
 2026-11-14,109,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1592.0,133000.0,200000.0,-34.0,Person,Renew
-2026-11-14,109,Collective,2 bed rooms+hall,746.0,125000.0,113750.0,10.0,Authority,Renew
 2026-11-14,109,PARK RIDGE,1bed room+Hall,641.0,125000.0,100000.0,25.0,Authority,New
 2026-11-14,109,ACACIA AT PARK HEIGHTS,1bed room+Hall,992.0,125000.0,125000.0,0.0,Person,New
+2026-11-14,109,Collective,2 bed rooms+hall,746.0,125000.0,113750.0,10.0,Authority,Renew
 2026-11-14,109,Golf ville,2 bed rooms+hall,748.0,120000.0,114897.495,4.0,Person,New
 2026-11-14,109,Dubai Hills Estate,1bed room+Hall,752.0,116000.0,,,Authority,New
 2026-11-14,109,Park Horizon,1bed room+Hall,659.0,115000.0,95500.0,20.0,Authority,New
@@ -2736,17 +2736,17 @@
 2026-11-14,109,PARK RIDGE,1bed room+Hall,655.0,95000.0,100000.0,-5.0,Person,New
 2026-11-14,109,Golf Suites - Dubai Hills,1bed room+Hall,627.0,94500.0,105000.0,-10.0,Person,Renew
 2026-11-14,109,PARK RIDGE,1bed room+Hall,648.0,93500.0,100000.0,-7.0,Authority,Renew
-2026-11-14,109,Park Heights I,1bed room+Hall,649.0,90000.0,90000.0,0.0,Authority,New
-2026-11-14,109,Park Heights I,1bed room+Hall,646.0,90000.0,90000.0,0.0,Person,Renew
 2026-11-14,109,Collective,2 bed rooms+hall,743.0,90000.0,113750.0,-21.0,Authority,Renew
+2026-11-14,109,Park Heights I,1bed room+Hall,646.0,90000.0,90000.0,0.0,Person,Renew
+2026-11-14,109,Park Heights I,1bed room+Hall,649.0,90000.0,90000.0,0.0,Authority,New
 2026-11-14,109,PARK HEIGHTS II,1bed room+Hall,657.0,90000.0,90000.0,0.0,Person,New
 2026-11-14,109,ACACIA AT PARK HEIGHTS,1bed room+Hall,904.0,89100.0,125000.0,-29.0,Person,Renew
 2026-11-14,109,Socio,1bed room+Hall,476.0,85000.0,85000.0,0.0,Person,New
 2026-11-14,109,ACACIA AT PARK HEIGHTS,1bed room+Hall,923.0,83500.0,125000.0,-33.0,Person,Renew
 2026-11-14,109,ACACIA AT PARK HEIGHTS,1bed room+Hall,904.0,82005.0,125000.0,-34.0,Person,Renew
-2026-11-14,109,Golf ville,1bed room+Hall,500.0,80000.0,75000.0,7.0,Authority,New
-2026-11-14,109,MAG EYE Phase 1,1bed room+Hall,793.0,80000.0,85000.0,-6.0,Person,New
 2026-11-14,109,MAG EYE Phase 1,1bed room+Hall,753.0,80000.0,85000.0,-6.0,Person,New
+2026-11-14,109,MAG EYE Phase 1,1bed room+Hall,793.0,80000.0,85000.0,-6.0,Person,New
+2026-11-14,109,Golf ville,1bed room+Hall,500.0,80000.0,75000.0,7.0,Authority,New
 2026-11-14,109,Collective,1bed room+Hall,474.0,75000.0,82000.0,-9.0,Person,New
 2026-11-14,109,Dubai Hills Estate,Studio,385.0,60000.0,,,Person,New
 2026-11-15,110,MAPLE 2,Shop,1855.0,557100.0,547637.19,2.0,Authority,New
@@ -2776,14 +2776,14 @@
 2026-11-17,112,MULBERRY at PARK HEIGHTS,1bed room+Hall,915.0,120000.0,125000.0,-4.0,Person,New
 2026-11-17,112,MULBERRY at PARK HEIGHTS,1bed room+Hall,915.0,120000.0,125000.0,-4.0,Person,New
 2026-11-17,112,PARK RIDGE,1bed room+Hall,651.0,118000.0,100000.0,18.0,Authority,New
-2026-11-17,112,Golf ville,2 bed rooms+hall,749.0,110000.0,114897.495,-4.0,Authority,Renew
 2026-11-17,112,PARK HEIGHTS II,1bed room+Hall,648.0,110000.0,90000.0,22.0,Authority,Renew
+2026-11-17,112,Golf ville,2 bed rooms+hall,749.0,110000.0,114897.495,-4.0,Authority,Renew
 2026-11-17,112,ACACIA AT PARK HEIGHTS,1bed room+Hall,910.0,95000.0,125000.0,-24.0,Person,Renew
 2026-11-17,112,Prive Residence,1bed room+Hall,741.0,95000.0,105000.0,-10.0,Person,Renew
 2026-11-17,112,PARK RIDGE,1bed room+Hall,650.0,95000.0,100000.0,-5.0,Person,New
+2026-11-17,112,Collective,1bed room+Hall,488.0,85000.0,82000.0,4.0,Authority,New
 2026-11-17,112,PARK HEIGHTS II,1bed room+Hall,645.0,85000.0,90000.0,-6.0,Person,Renew
 2026-11-17,112,Dubai Hills Estate,1bed room+Hall,767.0,85000.0,,,Authority,Renew
-2026-11-17,112,Collective,1bed room+Hall,488.0,85000.0,82000.0,4.0,Authority,New
 2026-11-17,112,Prive Residence,Studio,401.0,74792.24,74896.12,-0.0,Authority,New
 2026-11-18,113,Sidra 2,3 bed rooms+hall,4417.0,400000.0,375000.0,7.0,Person,New
 2026-11-18,113,SIDRA,3 bed rooms+hall,5153.0,399000.0,389500.0,2.0,Person,New
@@ -2794,8 +2794,8 @@
 2026-11-18,113,Park Field,1bed room+Hall,651.0,135000.0,115000.0,17.0,Person,New
 2026-11-18,113,Park Field,1bed room+Hall,646.0,122500.0,115000.0,7.0,Authority,New
 2026-11-18,113,Collective 2.0,2 bed rooms+hall,743.0,120000.0,120000.0,0.0,Authority,New
-2026-11-18,113,Golf Suites - Dubai Hills,1bed room+Hall,722.0,120000.0,105000.0,14.0,Authority,New
 2026-11-18,113,Dubai Hills Estate,1bed room+Hall,833.0,120000.0,,,Authority,New
+2026-11-18,113,Golf Suites - Dubai Hills,1bed room+Hall,722.0,120000.0,105000.0,14.0,Authority,New
 2026-11-18,113,PARK HEIGHTS II,1bed room+Hall,645.0,93000.0,90000.0,3.0,Person,New
 2026-11-18,113,Collective 2.0,1bed room+Hall,492.0,87000.0,85000.0,2.0,Authority,New
 2026-11-18,113,ACACIA AT PARK HEIGHTS,1bed room+Hall,934.0,86000.0,125000.0,-31.0,Person,Renew
@@ -2815,32 +2815,32 @@
 2026-11-19,114,Maple III,3 bed rooms+hall,2179.0,260000.0,247500.0,5.0,Person,New
 2026-11-19,114,MAPLE,4 bed rooms+hall,2919.0,225000.0,280000.0,-20.0,Authority,Renew
 2026-11-19,114,MULBERRY at PARK HEIGHTS,2 bed rooms+hall,1562.0,220000.0,192500.0,14.0,Authority,New
-2026-11-19,114,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1572.0,195000.0,200000.0,-3.0,Person,New
 2026-11-19,114,MAG EYE Phase 1,3 bed rooms+hall,1479.0,195000.0,200000.0,-3.0,Authority,Renew
-2026-11-19,114,MAG EYE Phase 1,3 bed rooms+hall,1705.0,190000.0,200000.0,-5.0,Person,New
+2026-11-19,114,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1572.0,195000.0,200000.0,-3.0,Person,New
 2026-11-19,114,MAG EYE Phase 1,2 bed rooms+hall,1200.0,190000.0,160000.0,19.0,Authority,New
+2026-11-19,114,MAG EYE Phase 1,3 bed rooms+hall,1705.0,190000.0,200000.0,-5.0,Person,New
 2026-11-19,114,MAG EYE Phase 1,3 bed rooms+hall,1460.0,180000.0,200000.0,-10.0,Authority,New
 2026-11-19,114,Golf Suites - Dubai Hills,2 bed rooms+hall,1119.0,165000.0,170000.0,-3.0,Person,Renew
 2026-11-19,114,MAG EYE Phase 1,2 bed rooms+hall,1187.0,160000.0,160000.0,0.0,Person,New
 2026-11-19,114,PARK RIDGE,2 bed rooms+hall,988.0,150000.0,165000.0,-9.0,Person,New
 2026-11-19,114,PARK HEIGHTS II,2 bed rooms+hall,1088.0,145000.0,138000.0,5.0,Authority,Renew
-2026-11-19,114,PARK RIDGE,2 bed rooms+hall,986.0,140000.0,165000.0,-15.0,Person,Renew
 2026-11-19,114,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1529.0,140000.0,200000.0,-30.0,Person,Renew
-2026-11-19,114,Collective 2.0,2 bed rooms+hall,744.0,120000.0,120000.0,0.0,Authority,New
+2026-11-19,114,PARK RIDGE,2 bed rooms+hall,986.0,140000.0,165000.0,-15.0,Person,Renew
 2026-11-19,114,Collective,2 bed rooms+hall,725.0,120000.0,113750.0,5.0,Authority,New
+2026-11-19,114,Collective 2.0,2 bed rooms+hall,744.0,120000.0,120000.0,0.0,Authority,New
 2026-11-19,114,PARK RIDGE,1bed room+Hall,650.0,115000.0,100000.0,15.0,Person,New
 2026-11-19,114,Park Heights I,1bed room+Hall,657.0,105000.0,90000.0,17.0,Authority,New
-2026-11-19,114,Prive Residence,1bed room+Hall,672.0,100000.0,105000.0,-5.0,,New
 2026-11-19,114,Prive Residence,1bed room+Hall,741.0,100000.0,105000.0,-5.0,Person,New
+2026-11-19,114,Prive Residence,1bed room+Hall,672.0,100000.0,105000.0,-5.0,,New
 2026-11-19,114,Collective 2.0,1bed room+Hall,478.0,85000.0,85000.0,0.0,Authority,New
 2026-11-19,114,PARK HEIGHTS II,1bed room+Hall,645.0,85000.0,90000.0,-6.0,Person,Renew
 2026-11-19,114,Collective 2.0,1bed room+Hall,490.0,82500.0,85000.0,-3.0,Authority,Renew
 2026-11-19,114,MAG EYE Phase 1,1bed room+Hall,823.0,80000.0,85000.0,-6.0,Person,New
 2026-11-19,114,THE GROVE BY IMAN,Studio,417.0,77000.0,80000.0,-4.0,Authority,New
 2026-11-19,114,ACACIA AT PARK HEIGHTS,1bed room+Hall,989.0,72765.0,125000.0,-42.0,Person,Renew
-2026-11-19,114,Dubai Hills Estate,Studio,490.0,72000.0,,,Person,New
 2026-11-19,114,Golf ville,1bed room+Hall,507.0,72000.0,75000.0,-4.0,Authority,Renew
 2026-11-19,114,Collective 2.0,2 bed rooms+hall,725.0,72000.0,120000.0,-40.0,Authority,Renew
+2026-11-19,114,Dubai Hills Estate,Studio,490.0,72000.0,,,Person,New
 2026-11-19,114,Dubai Hills Estate,Studio,448.0,70000.0,,,Person,New
 2026-11-19,114,Dubai Hills Estate,Studio,448.0,70000.0,,,Person,New
 2026-11-19,114,MAG EYE Phase 1,Studio,394.0,60000.0,57000.0,5.0,Authority,New
@@ -2857,8 +2857,8 @@
 2026-11-20,115,MAG EYE Phase 1,2 bed rooms+hall,1410.0,170000.0,160000.0,6.0,Authority,Renew
 2026-11-20,115,PARK RIDGE,2 bed rooms+hall,1003.0,165000.0,165000.0,0.0,Person,New
 2026-11-20,115,Collective,1bed room+Hall,484.0,140000.0,82000.0,71.0,Person,New
-2026-11-20,115,Prive Residence,1bed room+Hall,742.0,115000.0,105000.0,10.0,Authority,New
 2026-11-20,115,Dubai Hills Estate,1bed room+Hall,763.0,115000.0,,,Authority,New
+2026-11-20,115,Prive Residence,1bed room+Hall,742.0,115000.0,105000.0,10.0,Authority,New
 2026-11-20,115,PARK HEIGHTS II,1bed room+Hall,645.0,110000.0,90000.0,22.0,Authority,New
 2026-11-20,115,Dubai Hills Estate,1bed room+Hall,767.0,91745.15,,,Person,New
 2026-11-20,115,PARK RIDGE,1bed room+Hall,651.0,89500.0,100000.0,-11.0,Authority,Renew
@@ -2887,15 +2887,15 @@
 2026-11-22,117,MAPLE,5 bed rooms+hall,3242.0,300000.0,320000.0,-6.0,Person,Renew
 2026-11-22,117,ELLINGTON HOUSE,2 bed rooms+hall,1366.0,275000.0,275000.0,0.0,Authority,New
 2026-11-22,117,MAG EYE Phase 1,3 bed rooms+hall,1705.0,190000.0,200000.0,-5.0,Person,New
-2026-11-22,117,Park Field,1bed room+Hall,645.0,140000.0,115000.0,22.0,Authority,New
 2026-11-22,117,PARK RIDGE,1bed room+Hall,657.0,140000.0,100000.0,40.0,Authority,New
+2026-11-22,117,Park Field,1bed room+Hall,645.0,140000.0,115000.0,22.0,Authority,New
 2026-11-22,117,Collective,2 bed rooms+hall,720.0,100000.0,113750.0,-12.0,Person,New
 2026-11-22,117,Collective 2.0,1bed room+Hall,490.0,94475.14,85000.0,11.0,Person,New
 2026-11-22,117,MULBERRY at PARK HEIGHTS,1bed room+Hall,915.0,90000.0,125000.0,-28.0,Person,Renew
 2026-11-22,117,Collective,1bed room+Hall,476.0,85000.0,82000.0,4.0,Person,New
 2026-11-22,117,Golf ville,1bed room+Hall,496.0,73500.0,75000.0,-2.0,Person,Renew
-2026-11-22,117,MAG EYE Phase 1,Studio,417.0,57000.0,57000.0,0.0,Authority,Renew
 2026-11-22,117,MAG EYE Phase 1,Studio,418.0,57000.0,57000.0,0.0,Authority,Renew
+2026-11-22,117,MAG EYE Phase 1,Studio,417.0,57000.0,57000.0,0.0,Authority,Renew
 2026-11-23,118,Golf Place ll,4 bed rooms+hall,7470.0,1500000.0,1171685.085,28.0,Person,New
 2026-11-23,118,Sidra 2,4 bed rooms+hall,4686.0,540000.0,460000.0,17.0,Authority,Renew
 2026-11-23,118,MAG EYE Phase 1,3 bed rooms+hall,1410.0,210000.0,200000.0,5.0,Person,New
@@ -2927,8 +2927,8 @@
 2026-11-24,119,MAG EYE Phase 1,2 bed rooms+hall,1204.0,160000.0,160000.0,0.0,Person,New
 2026-11-24,119,MAG EYE Phase 1,2 bed rooms+hall,1187.0,150000.0,160000.0,-6.0,Person,Renew
 2026-11-24,119,PARK RIDGE,2 bed rooms+hall,989.0,147500.0,165000.0,-11.0,Authority,Renew
-2026-11-24,119,PARK HEIGHTS II,2 bed rooms+hall,957.0,135000.0,138000.0,-2.0,Authority,Renew
 2026-11-24,119,MULBERRY at PARK HEIGHTS,1bed room+Hall,871.0,135000.0,125000.0,8.0,Authority,New
+2026-11-24,119,PARK HEIGHTS II,2 bed rooms+hall,957.0,135000.0,138000.0,-2.0,Authority,Renew
 2026-11-24,119,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1565.0,134000.0,200000.0,-33.0,Person,Renew
 2026-11-24,119,ACACIA AT PARK HEIGHTS,2 bed rooms+hall,1501.0,131900.0,200000.0,-34.0,Person,Renew
 2026-11-24,119,Golf ville,2 bed rooms+hall,743.0,130000.0,114897.495,13.0,Authority,Renew
